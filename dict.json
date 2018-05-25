@@ -541,6 +541,12 @@
     },
     {
       "masterflight": {
+        "registration": "HZSKY2",
+		"specialcs" : "Sky Prime Aviation"
+      }
+    },  
+    {
+      "masterflight": {
         "registration": "IADJS"
       }
     },
