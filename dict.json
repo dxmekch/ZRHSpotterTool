@@ -1,0 +1,931 @@
+{
+  "timetable": [
+    {
+      "masterflight": {
+        "registration": "9HAEI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "9HAEJ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "9HAEO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "9HAHR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6AFA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6DDE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EEQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EER"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EEU",
+        "information": "Al Zayed"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EHJ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EOM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EOG",
+        "specials": "Zayed"
+      }
+    },
+	    {
+      "masterflight": {
+        "registration": "A6EOJ",
+        "specials": "EXPO"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A6EUA",
+        "specials": "Al Zayed"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EUB",
+        "specials": "REAL/PSG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EUG",
+        "specials": "REAL/PSG"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A6EUV",
+        "specials": "Al Zayed"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EYE"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A7ALZ",
+		"status" : "One World"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6075"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6076"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6091"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6093"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "BKPB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CGHLM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CFRTG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGV"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CSTNP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABDP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAISP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABDQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABDU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABDX"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABFK"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABHC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABQQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABXA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DABXG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DACKD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAEWG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAEWM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAGER"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIND"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIDV"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAILF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAILU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIPC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIPD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIRW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIRY"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIUQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIZR",
+        "specialcs": "BVB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIZX",
+        "specialcs": "5 Star Hansa"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DASTT"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMQH",
+		"status" : "Gowair"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECKHM",
+        "specialcs": "one world"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMJQ",
+        "specialcs": "SAS CRJ1000"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMLE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMNZ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMOG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDEI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDEO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDSM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDSW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDTJ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDVM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIRND"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGKXI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGKXJ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGKXS"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGRXL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGTAE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FHEPI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEJAR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEUPH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZBF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZBG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZBI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZDN"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OELQY",
+		"specialcs": "Europcar"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELKF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZEZ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZIO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZIW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZOL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZOX"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZPC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZPD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZUA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZUG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZUH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GLCYN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GUZHA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HBJCA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HBJJG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HL7783"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HL8212"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HL8275"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "IADJS"
+      }
+    },
+	    {
+      "masterflight": {
+        "registration": "IADJV",
+		"status": "Star Alliance"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "JYAYP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "LNRRL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "LNRRW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N16065"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N175DZ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N343AN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N653UA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N76055"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N841MH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N844MH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N845MH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OEIVA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OEIZQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBX"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBZ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELCL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELWH"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLKN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLVO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OYKBO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHBXO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHEZX"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHHZG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHKZU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHHSE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHHSI",
+        "info": "Peter Pan"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "S5AAV"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SPLDK"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SPLII"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDGC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDGD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDGI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVQ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVV"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCAGI"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCATF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCCPN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCETN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJHC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJHE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJIZ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJNC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJPF"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJPP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJPS"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRO"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "TCJTP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCLNB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCLNC"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCSNN",
+        "specials": "Sun Express Playstation"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCSNT"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCSNY",
+        "specials": "Sun Express Peter Hase"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCSOH",
+        "specials": "Sun Express Minions"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCTJJ"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRP"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TFFIR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TFFIU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBDK"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBEE",
+        "information" : "95 Years Special"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBMB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBNT"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBTL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBWD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBWE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "YLLCU",
+        "info": "EasyJet Sticker"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ESSAQ",
+        "info": "EasyJet Sticker"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "YLBBN"
+      }
+    }
+  ]
+}
