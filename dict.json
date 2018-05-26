@@ -348,6 +348,12 @@
         "registration": "ECMOG"
       }
     },
+	  {
+      "masterflight": {
+        "registration": "ECMYC",
+        "information": "Disneyland Marvel"
+      }
+},
     {
       "masterflight": {
         "registration": "EIDEI"
