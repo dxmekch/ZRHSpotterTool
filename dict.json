@@ -133,27 +133,32 @@
     },
     {
       "masterflight": {
-        "registration": "B6075"
+        "registration": "B6075",
+		"status" : "Zijin Hao"
       }
     },
     {
       "masterflight": {
-        "registration": "B6076"
+        "registration": "B6076",
+		"status" : "Zichen Hao"
       }
     },
     {
       "masterflight": {
-        "registration": "B6091"
+        "registration": "B6091",
+		"status" : "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "B6093"
+        "registration": "B6093",
+		"status" : "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "BKPB"
+        "registration": "BKPB",
+		"status" : "Spirit of Hong Kong"
       }
     },
     {
