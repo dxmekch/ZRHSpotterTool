@@ -397,6 +397,12 @@
     },
     {
       "masterflight": {
+        "registration": "ESSAQ",
+        "info": "EasyJet Sticker"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "FGKXI"
       }
     },
@@ -470,7 +476,8 @@
     },
     {
       "masterflight": {
-        "registration": "OELKF"
+        "registration": "OELKF",
+	  "specialcs": "Venezia"    
       }
     },
     {
@@ -594,7 +601,13 @@
       "masterflight": {
         "registration": "LYVEB"
       }
-    },{
+	    },
+    {
+      "masterflight": {
+        "registration": "LYVEI"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "N16065"
       }
@@ -945,12 +958,7 @@
         "info": "EasyJet Sticker"
       }
     },
-    {
-      "masterflight": {
-        "registration": "ESSAQ",
-        "info": "EasyJet Sticker"
-      }
-    },
+    
     {
       "masterflight": {
         "registration": "YLBBN"
