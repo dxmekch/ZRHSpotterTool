@@ -2,61 +2,70 @@
   "timetable": [
     {
       "masterflight": {
-        "registration": "9HAEI"
+        "registration": "9HAEI",
+        "information": "retro"
       }
     },
     {
       "masterflight": {
-        "registration": "9HAEJ"
+        "registration": "9HAEJ",
+        "information": "hybrid c/s"
       }
     },
     {
       "masterflight": {
-        "registration": "9HAEO"
+        "registration": "9HAEO",
+        "information": "La Valetta"
       }
     },
     {
       "masterflight": {
-        "registration": "9HAHR"
+        "registration": "9HAHR",
+        "information": "hybrid c/s"
       }
     },
     {
       "masterflight": {
-        "registration": "A6AFA"
+        "registration": "9HOME",
+        "information": "hybrid c/s"
+      }
+    },{
+      "masterflight": {
+        "registration": "A6AFA",
+        "information": "Visit Abu Dhabi"
       }
     },
     {
       "masterflight": {
-        "registration": "A6DDE"
+        "registration": "A6DDE",
+        "information": "Zayed"
       }
     },
     {
       "masterflight": {
-        "registration": "A6EEQ"
+        "registration": "A6EEQ",
+        "information": "United for Wildlife"
       }
     },
     {
       "masterflight": {
-        "registration": "A6EER"
+        "registration": "A6EER",
+        "information": "United for Wildlife"
       }
     },
     {
       "masterflight": {
         "registration": "A6EEU",
-        "information": "Al Zayed"
+        "information": "Zayed"
       }
     },
-    {
+       {
       "masterflight": {
-        "registration": "A6EHJ"
+        "registration": "A6EEW",
+        "specials": "EXPO green"
       }
     },
-    {
-      "masterflight": {
-        "registration": "A6EOM"
-      }
-    },
-    {
+	  {
       "masterflight": {
         "registration": "A6EOG",
         "specials": "Zayed"
@@ -65,48 +74,61 @@
 	    {
       "masterflight": {
         "registration": "A6EOJ",
-        "specials": "EXPO"
+        "specials": "EXPO green"
       }
     },
-	{
+{
       "masterflight": {
-        "registration": "A6EOZ",
-        "specials": "Zayed"
+        "registration": "A6EOL",
+        "specials": "EXPO green"
+      }
+    },
+{
+      "masterflight": {
+        "registration": "A6EOK",
+        "specials": "EXPO green"
       }
     },
 	  {
       "masterflight": {
+        "registration": "A6EOM",
+        "information": "United for Wildlife"
+      }
+    },
+    		  {
+      "masterflight": {
         "registration": "A6EUA",
-        "specials": "Al Zayed"
+        "specials": "Zayed"
       }
     },
     {
       "masterflight": {
         "registration": "A6EUB",
-        "specials": "REAL/PSG"
+        "specials": "PSG"
       }
     },
     {
       "masterflight": {
         "registration": "A6EUG",
-        "specials": "REAL/PSG"
+        "specials": "Real Madrid"
       }
     },
 	{
       "masterflight": {
         "registration": "A6EUV",
-        "specials": "Al Zayed"
+        "specials": "100th A380 / Zayed"
       }
     },
     {
       "masterflight": {
         "registration": "A6EYE"
+        "specials": "Manchester City"
       }
     },
 	{
       "masterflight": {
         "registration": "A7ALZ",
-		"status" : "One World"
+		"status" : "Oneworld"
       }
     },
     {
