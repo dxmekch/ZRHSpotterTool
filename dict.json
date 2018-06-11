@@ -482,6 +482,12 @@
     },
         {
       "masterflight": {
+        "registration": "GEZBF",
+		"specialcs": "ex Tartan (orange aera)"
+      }
+},
+	  {
+      "masterflight": {
         "registration": "GEZBG"
       }
     },
