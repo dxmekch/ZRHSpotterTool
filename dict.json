@@ -422,6 +422,18 @@
     },
     {
       "masterflight": {
+        "registration": "FHBAL",
+        "specialcs": "Aigle Azur basic c/s"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "FHBIS",
+        "specialcs": "Aigle Azur basic c/s"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "FHEPI"
       }
     },
