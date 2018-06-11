@@ -572,10 +572,35 @@
     },
     {
       "masterflight": {
-        "registration": "GUZHA"
+        "registration": "GUZHA",
+"specialcs": "Neo" 
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "GUZHB",
+"specialcs": "Neo" 
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GUZHC",
+"specialcs": "Neo" 
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GUZHD",
+"specialcs": "Neo" 
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GUZHE",
+"specialcs": "Neo" 
+      }
+    },
+	  {
       "masterflight": {
         "registration": "HBJCA"
       }
