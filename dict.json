@@ -163,42 +163,44 @@
     },
     {
       "masterflight": {
-        "registration": "CGHLM"
+        "registration": "CGHLM",
+		"status" : "Star Alliance"
+      }
+    },
+        {
+      "masterflight": {
+        "registration": "CNRGF",
+	      "status" : "Wings of African Art (Saidou Dicko)"
       }
     },
     {
       "masterflight": {
-        "registration": "CFRTG"
+        "registration": "CNRGG",
+	      "status" : "Wings of African Art (Sara Ouhaddou)"
       }
     },
     {
       "masterflight": {
-        "registration": "CNRGF"
+        "registration": "CNRGH",
+	      "status" : "WWings of African Art (Mboko Lagriffe)"
       }
     },
     {
       "masterflight": {
-        "registration": "CNRGG"
+        "registration": "CNRGN",
+	      "status" : "50th B737"
       }
     },
     {
       "masterflight": {
-        "registration": "CNRGH"
+        "registration": "CNRGV",
+	      "status" : "60 years"
       }
     },
     {
       "masterflight": {
-        "registration": "CNRGN"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "CNRGV"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "CSTNP"
+        "registration": "CSTNP",
+	      "status" : "Star Alliance"
       }
     },
     {
