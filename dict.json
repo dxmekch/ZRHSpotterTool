@@ -205,135 +205,113 @@
     },
     {
       "masterflight": {
-        "registration": "DABDP"
+        "registration": "DABDP",
+	      "status" : "Croatia"
+      }
+      },
+    {
+      "masterflight": {
+        "registration": "DABDQ",
+	      "status" : "Europapark Rust"
+      }
+        },
+               {
+      "masterflight": {
+        "registration": "DACKD",
+	      "status" : "25 years"
       }
     },
     {
       "masterflight": {
-        "registration": "DAISP"
+        "registration": "DAEWG",
+	      "status" : "Visit Sweden/Göteborg"
       }
     },
     {
       "masterflight": {
-        "registration": "DABDQ"
+        "registration": "DAEWM",
+	      "status" : "Boomerang Club"
       }
     },
     {
       "masterflight": {
-        "registration": "DABDU"
+        "registration": "DAGER",
+	      "status" : "30 years"
+      }
+    },
+        {
+      "masterflight": {
+        "registration": "DAIDV",
+	      "status" : "Retro"
       }
     },
     {
       "masterflight": {
-        "registration": "DABDX"
+        "registration": "DAILF",
+	      "status" : "Star Allinace"
       }
     },
     {
       "masterflight": {
-        "registration": "DABFK"
+        "registration": "DAILU",
+	      "status" : "Lu"
       }
     },
     {
       "masterflight": {
-        "registration": "DABHC"
+        "registration": "DAINA",
+	      "status" : "Neo"
       }
     },
     {
       "masterflight": {
-        "registration": "DABQQ"
+        "registration": "DAINB",
+	      "status" : "Neo"
       }
     },
     {
       "masterflight": {
-        "registration": "DABXA"
+        "registration": "DAINC",
+	      "status" : "Neo"
       }
     },
     {
       "masterflight": {
-        "registration": "DABXG"
+        "registration": "DAIND",
+	      "status" : "Neo"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAIPC",
+	      "status" : "Star Allinace"
       }
     },
     {
       "masterflight": {
-        "registration": "DACKD"
+        "registration": "DAIPD",
+	      "status" : "Star Allinace"
       }
     },
     {
       "masterflight": {
-        "registration": "DAEWG"
+        "registration": "DAIRW",
+	      "status" : "Star Allinace"
       }
     },
     {
       "masterflight": {
-        "registration": "DAEWM"
+        "registration": "DAIRY",
+	      "status" : "Die Maus"
       }
     },
     {
       "masterflight": {
-        "registration": "DAGER"
+        "registration": "DAISP",
+	      "status" : "new c/s"
       }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIND"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIDV"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAILF"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAILU"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAINA"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAINB"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAINC"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIPC"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIPD"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIRW"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIRY"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "DAIUQ"
-      }
-    },
-    {
+	 },
+	       {
       "masterflight": {
         "registration": "DAIZR",
         "specialcs": "BVB"
@@ -347,7 +325,8 @@
     },
     {
       "masterflight": {
-        "registration": "DASTT"
+        "registration": "DASTT",
+	      "status" : "Zypern"
       }
     },
     {
