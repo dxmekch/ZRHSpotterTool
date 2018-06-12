@@ -296,7 +296,7 @@
     {
       "masterflight": {
         "registration": "DAIRW",
-	      "information" : "Star Allinace"
+	      "information" : "Star Alliance"
       }
     },
     {
@@ -421,27 +421,32 @@
     },
 	  {
       "masterflight": {
-        "registration": "FGKXI"
+        "registration": "FGKXI",
+        "information": "Paris candidatur Olympia 2024"
       }
     },
     {
       "masterflight": {
-        "registration": "FGKXJ"
+        "registration": "FGKXJ",
+        "information": "Paris candidatur Olympia 2024"
       }
     },
     {
       "masterflight": {
-        "registration": "FGKXS"
+        "registration": "FGKXS",
+        "information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "FGRXL"
+        "registration": "FGRXL",
+        "information": "Paris candidatur Olympia 2024"
       }
     },
     {
       "masterflight": {
-        "registration": "FGTAE"
+        "registration": "FGTAE",
+        "information": "Skyteam"
       }
     },
     {
@@ -458,17 +463,20 @@
     },
 	  {
       "masterflight": {
-        "registration": "FHEPI"
+        "registration": "FHEPI",
+        "information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "GEJAR"
+        "registration": "GEJAR",
+        "information": "UNICEF"
       }
     },
     {
       "masterflight": {
-        "registration": "GEUPH"
+        "registration": "GEUPH",
+        "information": "Olympia 2012 Golden Dove"
       }
     },
         {
@@ -479,20 +487,29 @@
 },
 	  {
       "masterflight": {
-        "registration": "GEZBG"
+        "registration": "GEZBG",
+        "information": "Hamburg"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZBI"
+        "registration": "GEZBI",
+        "information": "Shakespeare"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZDN"
+        "registration": "GEZDL",
+        "information": "Europcar"
       }
     },
 	{
+      "masterflight": {
+        "registration": "GEZDN",
+        "information": "Amsterdam"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OELQY",
 		"information": "Europcar"
@@ -506,60 +523,77 @@
     },
     {
       "masterflight": {
-        "registration": "GEZEZ"
+        "registration": "GEZEZ",
+        "information": "Napoli"
+      }
+    },
+          {
+      "masterflight": {
+        "registration": "GEZIO",
+        "information": "UNICEF"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZIO"
+        "registration": "GEZIW",
+        "information": "Linate-Fiumicino per tutti"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZIW"
+        "registration": "GEZOL",
+        "information": "250th aircraft"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZOL"
+        "registration": "GEZOX",
+        "information": "20 years"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZOX"
+        "registration": "GEZPC",
+        "information": "Europcar"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZPC"
+        "registration": "GEZPD",
+        "information": "Europcar"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZPD"
+        "registration": "GEZUA",
+        "information": "test painting sheme"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZUA"
+        "registration": "GEZUG",
+        "information": "Moscow"
       }
     },
     {
       "masterflight": {
-        "registration": "GEZUG"
+        "registration": "GEZUH",
+        "information": "Bordeaux"
       }
     },
-    {
+	  {
       "masterflight": {
-        "registration": "GEZUH"
-      }
-    },
-    {
+        "registration": "GLCYN",
+        "information": "700th e-jet"
+	  }
+          },
+   {
       "masterflight": {
-        "registration": "GLCYN"
-      }
-    },
-    {
+        "registration": "GLCYY",
+        "information": "hybrid c/s"
+	  }
+          },
+	  {
       "masterflight": {
         "registration": "GUZHA",
 "information": "Neo" 
