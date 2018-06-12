@@ -978,6 +978,18 @@
     },
     {
       "masterflight": {
+        "registration": "TFISX",
+        "specials": "100 Fullvedi Islands"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TSIMP",
+        "specials": "Carthage Eagles"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "VPBDK"
       }
     },
