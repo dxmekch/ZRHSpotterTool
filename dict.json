@@ -509,19 +509,7 @@
         "information": "Amsterdam"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "OELQY",
-		"information": "Europcar"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OELKF",
-	  "information": "Venezia"    
-      }
-    },
-    {
+	      {
       "masterflight": {
         "registration": "GEZEZ",
         "information": "Napoli"
@@ -623,12 +611,7 @@
 "information": "Neo" 
       }
     },
-	  {
-      "masterflight": {
-        "registration": "HBJCA"
-      }
-    },
-    {
+	      {
       "masterflight": {
         "registration": "HBJJG"
       }
@@ -730,7 +713,19 @@
         "registration": "N845MH"
       }
     },
+   {
+      "masterflight": {
+        "registration": "OELQY",
+		"information": "Europcar"
+      }
+    },
     {
+      "masterflight": {
+        "registration": "OELKF",
+	  "information": "Venezia"    
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OEIVA"
       }
