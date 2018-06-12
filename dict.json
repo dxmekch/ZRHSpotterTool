@@ -62,31 +62,31 @@
        {
       "masterflight": {
         "registration": "A6EEW",
-        "specials": "EXPO green"
+        "information": "EXPO green"
       }
     },
 	  {
       "masterflight": {
         "registration": "A6EOG",
-        "specials": "Zayed"
+        "information": "Zayed"
       }
     },
 	    {
       "masterflight": {
         "registration": "A6EOJ",
-        "specials": "EXPO green"
+        "information": "EXPO green"
       }
     },
 {
       "masterflight": {
         "registration": "A6EOL",
-        "specials": "EXPO green"
+        "information": "EXPO green"
       }
     },
 {
       "masterflight": {
         "registration": "A6EOK",
-        "specials": "EXPO green"
+        "information": "EXPO green"
       }
     },
 	  {
@@ -98,271 +98,271 @@
     		  {
       "masterflight": {
         "registration": "A6EUA",
-        "specials": "Zayed"
+        "information": "Zayed"
       }
     },
     {
       "masterflight": {
         "registration": "A6EUB",
-        "specials": "PSG"
+        "information": "PSG"
       }
     },
     {
       "masterflight": {
         "registration": "A6EUG",
-        "specials": "Real Madrid"
+        "information": "Real Madrid"
       }
     },
 	{
       "masterflight": {
         "registration": "A6EUV",
-        "specials": "100th A380 / Zayed"
+        "information": "100th A380 / Zayed"
       }
     },
     {
       "masterflight": {
         "registration": "A6EYE",
-        "specials": "Manchester City"
+        "information": "Manchester City"
       }
     },
 	{
       "masterflight": {
         "registration": "A7ALZ",
-		"status" : "Oneworld"
+		"information" : "Oneworld"
       }
     },
     {
       "masterflight": {
         "registration": "B6075",
-		"status" : "Zijin Hao"
+		"information" : "Zijin Hao"
       }
     },
     {
       "masterflight": {
         "registration": "B6076",
-		"status" : "Zichen Hao"
+		"information" : "Zichen Hao"
       }
     },
     {
       "masterflight": {
         "registration": "B6091",
-		"status" : "Star Alliance"
+		"information" : "Star Alliance"
       }
     },
     {
       "masterflight": {
         "registration": "B6093",
-		"status" : "Star Alliance"
+		"information" : "Star Alliance"
       }
     },
     {
       "masterflight": {
         "registration": "BKPB",
-		"status" : "Spirit of Hong Kong"
+		"information" : "Spirit of Hong Kong"
       }
     },
     {
       "masterflight": {
         "registration": "CGHLM",
-		"status" : "Star Alliance"
+		"information" : "Star Alliance"
       }
     },
         {
       "masterflight": {
         "registration": "CNRGF",
-	      "status" : "Wings of African Art (Saidou Dicko)"
+	      "information" : "Wings of African Art (Saidou Dicko)"
       }
     },
     {
       "masterflight": {
         "registration": "CNRGG",
-	      "status" : "Wings of African Art (Sara Ouhaddou)"
+	      "information" : "Wings of African Art (Sara Ouhaddou)"
       }
     },
     {
       "masterflight": {
         "registration": "CNRGH",
-	      "status" : "WWings of African Art (Mboko Lagriffe)"
+	      "information" : "WWings of African Art (Mboko Lagriffe)"
       }
     },
     {
       "masterflight": {
         "registration": "CNRGN",
-	      "status" : "50th B737"
+	      "information" : "50th B737"
       }
     },
     {
       "masterflight": {
         "registration": "CNRGV",
-	      "status" : "60 years"
+	      "information" : "60 years"
       }
     },
     {
       "masterflight": {
         "registration": "CSTNP",
-	      "status" : "Star Alliance"
+	      "information" : "Star Alliance"
       }
     },
     {
       "masterflight": {
         "registration": "DABDP",
-	      "status" : "Croatia"
+	      "information" : "Croatia"
       }
       },
     {
       "masterflight": {
         "registration": "DABDQ",
-	      "status" : "Europapark Rust"
+	      "information" : "Europapark Rust"
       }
         },
                {
       "masterflight": {
         "registration": "DACKD",
-	      "status" : "25 years"
+	      "information" : "25 years"
       }
     },
     {
       "masterflight": {
         "registration": "DAEWG",
-	      "status" : "Visit Sweden/Göteborg"
+	      "information" : "Visit Sweden/Göteborg"
       }
     },
     {
       "masterflight": {
         "registration": "DAEWM",
-	      "status" : "Boomerang Club"
+	      "information" : "Boomerang Club"
       }
     },
     {
       "masterflight": {
         "registration": "DAGER",
-	      "status" : "30 years"
+	      "information" : "30 years"
       }
     },
         {
       "masterflight": {
         "registration": "DAIDV",
-	      "status" : "Retro"
+	      "information" : "Retro"
       }
     },
     {
       "masterflight": {
         "registration": "DAILF",
-	      "status" : "Star Allinace"
+	      "information" : "Star Allinace"
       }
     },
     {
       "masterflight": {
         "registration": "DAILU",
-	      "status" : "Lu"
+	      "information" : "Lu"
       }
     },
     {
       "masterflight": {
         "registration": "DAINA",
-	      "status" : "Neo"
+	      "information" : "Neo"
       }
     },
     {
       "masterflight": {
         "registration": "DAINB",
-	      "status" : "Neo"
+	      "information" : "Neo"
       }
     },
     {
       "masterflight": {
         "registration": "DAINC",
-	      "status" : "Neo"
+	      "information" : "Neo"
       }
     },
     {
       "masterflight": {
         "registration": "DAIND",
-	      "status" : "Neo"
+	      "information" : "Neo"
       }
     },
 	  {
       "masterflight": {
         "registration": "DAIPC",
-	      "status" : "Star Allinace"
+	      "information" : "Star Allinace"
       }
     },
     {
       "masterflight": {
         "registration": "DAIPD",
-	      "status" : "Star Allinace"
+	      "information" : "Star Allinace"
       }
     },
     {
       "masterflight": {
         "registration": "DAIRW",
-	      "status" : "Star Allinace"
+	      "information" : "Star Allinace"
       }
     },
     {
       "masterflight": {
         "registration": "DAIRY",
-	      "status" : "Die Maus"
+	      "information" : "Die Maus"
       }
     },
     {
       "masterflight": {
         "registration": "DAISP",
-	      "status" : "new c/s"
+	      "information" : "new c/s"
       }
 	 },
 	       {
       "masterflight": {
         "registration": "DAIZR",
-        "specialcs": "BVB"
+        "information": "BVB"
       }
     },
     {
       "masterflight": {
         "registration": "DAIZX",
-        "specialcs": "5 Star Hansa"
+        "information": "5 Star Hansa"
       }
     },
     {
       "masterflight": {
         "registration": "DASTT",
-	      "status" : "Zypern"
+	      "information" : "Zypern"
       }
     },
     {
       "masterflight": {
         "registration": "ECMQH",
-		"status" : "Gowair"
+		"information" : "Gowair"
       }
     },
     {
       "masterflight": {
         "registration": "ECKHM",
-        "specialcs": "Oneworld"
+        "information": "Oneworld"
       }
     },
     {
       "masterflight": {
         "registration": "ECMJQ",
-        "specialcs": "hybrid c/s"
+        "information": "hybrid c/s"
       }
     },
     {
       "masterflight": {
         "registration": "ECMLE",
-        "specialcs": "Disneyland"
+        "information": "Disneyland"
       }
     },
     {
       "masterflight": {
         "registration": "ECMNZ",
-        "specialcs": "Love Barcelona"
+        "information": "Love Barcelona"
       }
     },
     {
       "masterflight": {
         "registration": "ECMOG",
-        "specialcs": "Tourismo de Cantabria"
+        "information": "Tourismo de Cantabria"
       }
     },
 	  {
@@ -447,13 +447,13 @@
     {
       "masterflight": {
         "registration": "FHBAL",
-        "specialcs": "Aigle Azur basic c/s"
+        "information": "Aigle Azur basic c/s"
       }
     },
 	  {
       "masterflight": {
         "registration": "FHBIS",
-        "specialcs": "Aigle Azur basic c/s"
+        "information": "Aigle Azur basic c/s"
       }
     },
 	  {
@@ -474,7 +474,7 @@
         {
       "masterflight": {
         "registration": "GEZBF",
-		"specialcs": "ex Tartan (orange aera)"
+		"information": "ex Tartan (orange aera)"
       }
 },
 	  {
@@ -495,13 +495,13 @@
 	{
       "masterflight": {
         "registration": "OELQY",
-		"specialcs": "Europcar"
+		"information": "Europcar"
       }
     },
     {
       "masterflight": {
         "registration": "OELKF",
-	  "specialcs": "Venezia"    
+	  "information": "Venezia"    
       }
     },
     {
@@ -562,31 +562,31 @@
     {
       "masterflight": {
         "registration": "GUZHA",
-"specialcs": "Neo" 
+"information": "Neo" 
       }
     },
    {
       "masterflight": {
         "registration": "GUZHB",
-"specialcs": "Neo" 
+"information": "Neo" 
       }
     },
 	{
       "masterflight": {
         "registration": "GUZHC",
-"specialcs": "Neo" 
+"information": "Neo" 
       }
     },
 	 {
       "masterflight": {
         "registration": "GUZHD",
-"specialcs": "Neo" 
+"information": "Neo" 
       }
     },
 	 {
       "masterflight": {
         "registration": "GUZHE",
-"specialcs": "Neo" 
+"information": "Neo" 
       }
     },
 	  {
@@ -617,7 +617,7 @@
     {
       "masterflight": {
         "registration": "HZSKY2",
-		"specialcs" : "Sky Prime Aviation"
+		"information" : "Sky Prime Aviation"
       }
     },  
     {
@@ -628,7 +628,7 @@
 	    {
       "masterflight": {
         "registration": "IADJV",
-		"status": "Star Alliance"
+		"information": "Star Alliance"
       }
     },
     {
@@ -925,7 +925,7 @@
     {
       "masterflight": {
         "registration": "TCSNN",
-        "specials": "Sun Express Playstation"
+        "information": "Sun Express Playstation"
       }
     },
     {
@@ -936,13 +936,13 @@
     {
       "masterflight": {
         "registration": "TCSNY",
-        "specials": "Sun Express Peter Hase"
+        "information": "Sun Express Peter Hase"
       }
     },
     {
       "masterflight": {
         "registration": "TCSOH",
-        "specials": "Sun Express Minions"
+        "information": "Sun Express Minions"
       }
     },
     {
@@ -968,13 +968,13 @@
     {
       "masterflight": {
         "registration": "TFISX",
-        "specials": "100 Fullvedi Islands"
+        "information": "100 Fullvedi Islands"
       }
     },
 	  {
       "masterflight": {
         "registration": "TSIMP",
-        "specials": "Carthage Eagles"
+        "information": "Carthage Eagles"
       }
     },
 	  {
@@ -1016,7 +1016,7 @@
     {
       "masterflight": {
         "registration": "YLLCU",
-        "info": "EasyJet Sticker"
+        "information": "EasyJet Sticker"
       }
     },
     
