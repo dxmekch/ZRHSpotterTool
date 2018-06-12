@@ -338,28 +338,31 @@
     {
       "masterflight": {
         "registration": "ECKHM",
-        "specialcs": "one world"
+        "specialcs": "Oneworld"
       }
     },
     {
       "masterflight": {
         "registration": "ECMJQ",
-        "specialcs": "SAS CRJ1000"
+        "specialcs": "hybrid c/s"
       }
     },
     {
       "masterflight": {
-        "registration": "ECMLE"
+        "registration": "ECMLE",
+        "specialcs": "Disneyland"
       }
     },
     {
       "masterflight": {
-        "registration": "ECMNZ"
+        "registration": "ECMNZ",
+        "specialcs": "Love Barcelona"
       }
     },
     {
       "masterflight": {
-        "registration": "ECMOG"
+        "registration": "ECMOG",
+        "specialcs": "Tourismo de Cantabria"
       }
     },
 	  {
@@ -368,39 +371,46 @@
         "information": "Disneyland Marvel"
       }
 },
-    {
+	  {
       "masterflight": {
-        "registration": "EIDEI"
+        "registration": "EIDEI",
+        "information": "Irish Rugby team"
       }
     },
     {
       "masterflight": {
-        "registration": "EIDEO"
+        "registration": "EIDEO",
+        "information": "Irish Rugby team"
       }
     },
     {
       "masterflight": {
-        "registration": "EIDSM"
+        "registration": "EIDSM",
+        "information": "Calabria"
+	      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDSW",
+        "information": "Jeep Renegade"
       }
     },
     {
       "masterflight": {
-        "registration": "EIDSW"
+        "registration": "EIDTJ",
+        "information": "Employee Signatures"
       }
     },
     {
       "masterflight": {
-        "registration": "EIDTJ"
+        "registration": "EIDVM",
+        "information": "Retro"
       }
     },
     {
       "masterflight": {
-        "registration": "EIDVM"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "EIRND"
+        "registration": "EIRND",
+        "information": "Skyteam"
       }
     },
     {
