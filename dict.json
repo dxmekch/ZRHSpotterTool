@@ -80,6 +80,16 @@
       }
 },
 	{  "masterflight": {
+        "registration": "9HGTC",
+        "information": "Air Horizont"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HHUE",
+        "information": "Air Horizont"
+      }
+},
+	  {  "masterflight": {
         "registration": "9HJAI",
         "information": "Hi Fly Malta"
       }
@@ -90,7 +100,12 @@
         "information": "Maleth-Aero"
       }
     },	
-	{
+	{  "masterflight": {
+        "registration": "9HMPW",
+        "information": "Air Horizont"
+      }
+},
+	  {
       "masterflight": {
         "registration": "9HMTF",
         "information": "Maleth-Aero"
@@ -136,7 +151,12 @@
         "information": "Maleth-Aero"
       }
     },	
-	 	  {
+	 {  "masterflight": {
+        "registration": "9HZAZ",
+        "information": "Air Horizont"
+      }
+},	
+	  {
       "masterflight": {
         "registration": "A6AFA",
         "information": "Visit Abu Dhabi"
