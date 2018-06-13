@@ -34,18 +34,49 @@
         "information": "La Valetta"
       }
     },
-    {
+     {  "masterflight": {
+        "registration": "9HAGJ",
+        "information": "Hi Fly Malta"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HAGK",
+        "information": "Hi Fly Malta"
+      }
+},
+	  {
       "masterflight": {
         "registration": "9HAHR",
         "information": "hybrid c/s"
       }
     },
-    {
+     {  "masterflight": {
+        "registration": "9HFOX",
+        "information": "Hi Fly Malta"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HJAI",
+        "information": "Hi Fly Malta"
+      }
+},
+	 {
       "masterflight": {
         "registration": "9HOME",
         "information": "hybrid c/s"
       }
-    },{
+    },
+	   {  "masterflight": {
+        "registration": "9HSOL",
+        "information": "Hi Fly Malta"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HSUN",
+        "information": "Hi Fly Malta"
+      }
+},
+	  {
       "masterflight": {
         "registration": "A6AFA",
         "information": "Visit Abu Dhabi"
@@ -213,7 +244,7 @@
 	      "information" : "60 years"
       }
     },
-   {
+     {
       "masterflight": {
         "registration": "CSTFM",
 	      "information" : "EuroAtlantic Airways"
@@ -223,6 +254,24 @@
       "masterflight": {
         "registration": "CSTFU",
 	      "information" : "White"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTFW",
+	      "information" : "Hi Fly"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTFX",
+	      "information" : "Hi Fly"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTFZ",
+	      "information" : "Hi Fly"
       }
 },
 	  {
@@ -249,10 +298,22 @@
 	      "information" : "Star Alliance"
       }
     },
-   {
+  {
+      "masterflight": {
+        "registration": "CSTKW",
+	      "information" : "Hi Fly"
+      }
+},
+	  {
       "masterflight": {
         "registration": "CSTQJ",
 	      "information" : "White"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQP",
+	      "information" : "Hi Fly"
       }
 },
 	  {
@@ -261,7 +322,25 @@
 	      "information" : "EuroAtlantic Airways"
       }
 },
-	{
+	 {
+      "masterflight": {
+        "registration": "CSTQW",
+	      "information" : "Hi Fly"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQY",
+	      "information" : "Hi Fly"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQZ",
+	      "information" : "Hi Fly"
+      }
+},
+	  {
       "masterflight": {
         "registration": "CSTRO",
 	      "information" : "White"
