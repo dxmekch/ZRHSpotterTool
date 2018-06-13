@@ -221,6 +221,12 @@
 },
 	{
       "masterflight": {
+        "registration": "CSTFU",
+	      "information" : "White"
+      }
+},
+	  {
+      "masterflight": {
         "registration": "CSTKR",
 	      "information" : "EuroAtlantic Airways"
       }
@@ -243,10 +249,22 @@
 	      "information" : "Star Alliance"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "CSTQJ",
+	      "information" : "White"
+      }
+},
+	  {
       "masterflight": {
         "registration": "CSTQU",
 	      "information" : "EuroAtlantic Airways"
+      }
+},
+	{
+      "masterflight": {
+        "registration": "CSTRO",
+	      "information" : "White"
       }
 },
 	  {
