@@ -1138,6 +1138,42 @@
 		"information": "Avion Express"
       }
 	    },
+	 {
+      "masterflight": {
+        "registration": "LZBOO",
+		"information": "Bul Air"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZBOT",
+		"information": "Bul Air"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZBVL",
+		"information": "Bul Air"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LZBVM",
+		"information": "Bul Air"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LZBVN",
+		"information": "Bul Air"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZBVR",
+		"information": "Bul Air"
+      }
+	    },
 	  {
       "masterflight": {
         "registration": "N16065",
