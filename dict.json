@@ -1749,6 +1749,30 @@
         "registration": "YRFZA",
         "information": "Carpatair"
       }
+     },
+  {
+      "masterflight": {
+        "registration": "YUAND",
+        "information": "Aviolet"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANI",
+        "information": "Aviolet"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANJ",
+        "information": "Aviolet"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANK",
+        "information": "Aviolet"
+      }
     }
   ]
 }
