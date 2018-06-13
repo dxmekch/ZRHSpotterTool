@@ -982,13 +982,61 @@
 		"information": "Grand Cru Airlines"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "LYCGC",
+		"information": "GetJet Airlines"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYEWE",
+		"information": "GetJet Airlines"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYFOX",
+		"information": "GetJet Airlines"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYGTW",
+		"information": "GetJet Airlines"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYLGC",
+		"information": "GetJet Airlines"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYMGC",
+		"information": "GetJet Airlines"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYPGC",
+		"information": "GetJet Airlines"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYSPC",
+		"information": "GetJet Airlines"
+      }
+	    },
 	  {
       "masterflight": {
         "registration": "LYVEB",
 		"information": "leased A320"
       }
 	    },
-    {
+    	 {
       "masterflight": {
         "registration": "LYVEI",
 		"information": "leased A320"
