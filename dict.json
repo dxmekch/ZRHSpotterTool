@@ -887,97 +887,122 @@
     },
     {
       "masterflight": {
-        "registration": "TCAGI"
+        "registration": "TCAGI",
+		"information": "Bank O'Atlas"
       }
     },
     {
       "masterflight": {
-        "registration": "TCATF"
+        "registration": "TCATF",
+		"information": "Bank O'Atlas"
       }
     },
     {
       "masterflight": {
-        "registration": "TCCPN"
+        "registration": "TCCPN",
+		"information": "Ada N."
       }
     },
     {
       "masterflight": {
-        "registration": "TCETN"
+        "registration": "TCETN",
+		"information": "Bank O'Atlas"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJHC"
+        "registration": "TCJHC",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJHE"
+        "registration": "TCJHE",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJIZ"
+        "registration": "TCJIZ",
+		"information": "Invest in Turkey"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJNC"
+        "registration": "TCJNC",
+		"information": "Retro"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJPF"
+        "registration": "TCJPF",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJPP"
+        "registration": "TCJPP",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJPS"
+        "registration": "TCJPS",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRA"
+        "registration": "TCJRA",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRB"
+        "registration": "TCJRB",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRG"
+        "registration": "TCJRG",
+		"information": "Discover the potential"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRL"
+        "registration": "TCJRL",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRO"
+        "registration": "TCJRO",
+		"information": "Euroleague"
       }
     },
 	{
       "masterflight": {
-        "registration": "TCJTP"
+        "registration": "TCJRP",
+		"information": "Star Alliance"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCJTP",
+		"information": "Year of Troy"
       }
     },
     {
       "masterflight": {
-        "registration": "TCLNB"
+        "registration": "TCLNB",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "TCLNC"
+        "registration": "TCLNC",
+		"information": "300th aircraft"
       }
     },
     {
@@ -988,39 +1013,38 @@
     },
     {
       "masterflight": {
-        "registration": "TCSNT"
+        "registration": "TCSNT",
+		"information": "hybrid c/s"
       }
     },
     {
       "masterflight": {
         "registration": "TCSNY",
-        "information": "Sun Express Peter Hase"
+        "information": "Peter Hase"
       }
     },
     {
       "masterflight": {
         "registration": "TCSOH",
-        "information": "Sun Express Minions"
+        "information": "Minions"
       }
     },
     {
       "masterflight": {
-        "registration": "TCTJJ"
+        "registration": "TCTJJ",
+		"information": "Detur"
+      }
+    },
+       {
+      "masterflight": {
+        "registration": "TFFIR",
+		"information": "80 years"
       }
     },
     {
       "masterflight": {
-        "registration": "TCJRP"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "TFFIR"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "TFFIU"
+        "registration": "TFFIU",
+		"information": "Hekla Aurora"
       }
     },
     {
@@ -1037,50 +1061,50 @@
     },
 	  {
       "masterflight": {
-        "registration": "VPBDK"
+        "registration": "VPBDK",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
         "registration": "VPBEE",
-        "information" : "95 Years Special"
+        "information" : "95 Years"
       }
     },
     {
       "masterflight": {
-        "registration": "VPBMB"
+        "registration": "VPBMB",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "VPBNT"
+        "registration": "VPBNT",
+		"information": "Retro"
       }
     },
     {
       "masterflight": {
-        "registration": "VPBTL"
+        "registration": "VPBTL",
+		"information": "Manchester United"
       }
     },
     {
       "masterflight": {
-        "registration": "VPBWD"
+        "registration": "VPBWD",
+		"information": "CSKA Moscow"
       }
     },
     {
       "masterflight": {
-        "registration": "VPBWE"
+        "registration": "VPBWE",
+		"information": "CSKA Moscow"
       }
     },
     {
       "masterflight": {
-        "registration": "YLLCU",
-        "information": "EasyJet Sticker"
-      }
-    },
-    
-    {
-      "masterflight": {
-        "registration": "YLBBN"
+        "registration": "YLBBN",
+		"information": "Sotchi"
       }
     }
   ]
