@@ -1324,7 +1324,19 @@
 	  "information": "Venezia"    
       }
     },
-	      {
+	  {
+      "masterflight": {
+        "registration": "OELMK",
+	  "information": "People's Viennaline"    
+      }
+    },   
+	 {
+      "masterflight": {
+        "registration": "OELTK",
+	  "information": "People's Viennaline"    
+      }
+    },   
+	  {
       "masterflight": {
         "registration": "OELWH",
 		"information": "Star Alliance"
