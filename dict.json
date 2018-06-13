@@ -44,23 +44,7 @@
         "information": "Hi Fly Malta"
       }
 },
-	  {
-      "masterflight": {
-        "registration": "9HAHR",
-        "information": "hybrid c/s"
-      }
-    },
-     {  "masterflight": {
-        "registration": "9HFOX",
-        "information": "Hi Fly Malta"
-      }
-},
-	 {  "masterflight": {
-        "registration": "9HJAI",
-        "information": "Hi Fly Malta"
-      }
-},
-	{
+	 {
       "masterflight": {
         "registration": "9HAHA",
         "information": "Air X Charter"
@@ -68,10 +52,50 @@
     },
 	  {
       "masterflight": {
+        "registration": "9HAHR",
+        "information": "hybrid c/s"
+      }
+    },
+     	 {
+      "masterflight": {
+        "registration": "9HAJW",
+        "information": "Maleth-Aero"
+      }
+    },	
+	  {
+      "masterflight": {
         "registration": "9HBIG",
         "information": "Air X Charter"
       }
     },
+	{
+      "masterflight": {
+        "registration": "9HBRE",
+        "information": "Maleth-Aero"
+      }
+    },	
+	  {  "masterflight": {
+        "registration": "9HFOX",
+        "information": "Hi Fly Malta"
+      }
+},
+	{  "masterflight": {
+        "registration": "9HJAI",
+        "information": "Hi Fly Malta"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "9HMAC",
+        "information": "Maleth-Aero"
+      }
+    },	
+	{
+      "masterflight": {
+        "registration": "9HMTF",
+        "information": "Maleth-Aero"
+      }
+    },	
 	  {
       "masterflight": {
         "registration": "9HOME",
@@ -80,10 +104,16 @@
     },
 	{
       "masterflight": {
-        "registration": "9HYES",
-        "information": "Air X Charter"
+        "registration": "9HPAM",
+        "information": "Maleth-Aero"
       }
-    },
+    },	
+	 {
+      "masterflight": {
+        "registration": "9HPGS",
+        "information": "Maleth-Aero"
+      }
+    },	
 	  {  "masterflight": {
         "registration": "9HSOL",
         "information": "Hi Fly Malta"
@@ -95,6 +125,18 @@
       }
 },
 	  {
+      "masterflight": {
+        "registration": "9HYES",
+        "information": "Air X Charter"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "9HZAK",
+        "information": "Maleth-Aero"
+      }
+    },	
+	 	  {
       "masterflight": {
         "registration": "A6AFA",
         "information": "Visit Abu Dhabi"
