@@ -833,47 +833,56 @@
     },
     	  {
       "masterflight": {
-        "registration": "S5AAV"
+        "registration": "S5AAV",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "SPLDK"
+        "registration": "SPLDK",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "SPLII"
+        "registration": "SPLII",
+		"information": "600th e-jet"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDGC"
+        "registration": "SXDGC",
+		"information": "visitgreece.gr"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDGD"
+        "registration": "SXDGD",
+		"information": "visitgreece.gr"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDGI"
+        "registration": "SXDGI",
+		"information": "visitgreece.gr"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDVQ"
+        "registration": "SXDVQ",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDVU"
+        "registration": "SXDVU",
+		"information": "Acropolis museum"
       }
     },
     {
       "masterflight": {
-        "registration": "SXDVV"
+        "registration": "SXDVV",
+		"information": "Acropolis museum"
       }
     },
     {
