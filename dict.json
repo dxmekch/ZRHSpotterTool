@@ -621,6 +621,12 @@
         "information": "Bordeaux"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "GILLR",
+        "information": "Cello Aviation"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "GLCYN",
@@ -633,6 +639,12 @@
         "information": "hybrid c/s"
 	  }
           },
+	 {
+      "masterflight": {
+        "registration": "GMISG",
+        "information": "Cello Aviation"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "GUZHA",
