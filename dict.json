@@ -60,13 +60,31 @@
         "information": "Hi Fly Malta"
       }
 },
-	 {
+	{
       "masterflight": {
-        "registration": "9HOME",
-        "information": "hybrid c/s"
+        "registration": "9HAHA",
+        "information": "Air X Charter"
       }
     },
-	   {  "masterflight": {
+	  {
+      "masterflight": {
+        "registration": "9HBIG",
+        "information": "Air X Charter"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "9HOME",
+        "information": "Air X Charter, hybrid c/s"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "9HYES",
+        "information": "Air X Charter"
+      }
+    },
+	  {  "masterflight": {
         "registration": "9HSOL",
         "information": "Hi Fly Malta"
       }
@@ -474,6 +492,24 @@
     },
     {
       "masterflight": {
+        "registration": "ECHDS",
+		"information" : "Privilege Style"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "ECISY",
+		"information" : "Privilege Style"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "ECLZO",
+		"information" : "Privilege Style"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "ECMQH",
 		"information" : "Gowair"
       }
@@ -490,7 +526,7 @@
         "information": "hybrid c/s"
       }
     },
-    {
+    	  {
       "masterflight": {
         "registration": "ECMLE",
         "information": "Disneyland"
@@ -506,6 +542,12 @@
       "masterflight": {
         "registration": "ECMOG",
         "information": "Tourismo de Cantabria"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "ECMUA",
+		"information" : "Privilege Style"
       }
     },
 	  {
