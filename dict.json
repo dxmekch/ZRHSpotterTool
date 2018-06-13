@@ -1360,6 +1360,12 @@
 		"information": "Happy Holidays"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "OMFEX",
+		"information": "AirExplore"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "OMGTB",
@@ -1384,7 +1390,37 @@
 		"information": "Go2Sky"
       }
     },
+	{
+      "masterflight": {
+        "registration": "OMGEX",
+		"information": "AirExplore"
+      }
+    },
 	 {
+      "masterflight": {
+        "registration": "OMHEX",
+		"information": "AirExplore"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMIEX",
+		"information": "AirExplore"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMJEX",
+		"information": "AirExplore"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMKEX",
+		"information": "AirExplore"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OYJRK",
 		"information": "Danish Air Transport"
