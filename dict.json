@@ -933,6 +933,30 @@
     },
 	  {
       "masterflight": {
+        "registration": "OMGTB",
+		"information": "Go2Sky"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMGTD",
+		"information": "Go2Sky"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMGTE",
+		"information": "Go2Sky"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMGTF",
+		"information": "Go2Sky"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "OYKBO",
 		"information": "Retro"
       }
