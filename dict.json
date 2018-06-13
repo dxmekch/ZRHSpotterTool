@@ -821,12 +821,20 @@
     },
     {
       "masterflight": {
-        "registration": "LYVEB"
+        "registration": "LYBBC",
+		"information": "Grand Cru Airlines"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "LYVEB",
+		"information": "leased A320"
       }
 	    },
     {
       "masterflight": {
-        "registration": "LYVEI"
+        "registration": "LYVEI",
+		"information": "leased A320"
       }
     },
 	  {
