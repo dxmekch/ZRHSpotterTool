@@ -1186,13 +1186,61 @@
 		"information": "Go2Sky"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "OYJRK",
+		"information": "Danish Air Transport"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYJRZ",
+		"information": "Danish Air Transport"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "OYKBO",
 		"information": "Retro"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "OYLHD",
+		"information": "Danish Air Transport"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUE",
+		"information": "Danish Air Transport"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUS",
+		"information": "Danish Air Transport"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYRUT",
+		"information": "Danish Air Transport"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUU",
+		"information": "Danish Air Transport"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYRUZ",
+		"information": "Danish Air Transport"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "PHBXO",
 		"information": "Skyteam"
