@@ -990,6 +990,12 @@
 	    },
 	{
       "masterflight": {
+        "registration": "LYCOM",
+		"information": "Avion Express"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYEWE",
 		"information": "GetJet Airlines"
       }
@@ -1020,6 +1026,24 @@
 	    },
 	{
       "masterflight": {
+        "registration": "LYNVX",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVY",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVZ",
+		"information": "Avion Express"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYPGC",
 		"information": "GetJet Airlines"
       }
@@ -1030,18 +1054,90 @@
 		"information": "GetJet Airlines"
       }
 	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEA",
+		"information": "Avion Express"
+      }
+	    },
 	  {
       "masterflight": {
         "registration": "LYVEB",
-		"information": "leased A320"
+		"information": "leased A320 from Avion Express"
       }
 	    },
     	 {
       "masterflight": {
+        "registration": "LYVEC",
+		"information": "Avion Express"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVED",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEF",
+		"information": "Avion Express"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYVEG",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEH",
+		"information": "Avion Express"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYVEI",
-		"information": "leased A320"
+		"information": "leased A320 from Avion Express"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "LYVEL",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEN",
+		"information": "Avion Express"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVEQ",
+		"information": "Avion Express"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVET",
+		"information": "Avion Express"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEV",
+		"information": "Avion Express"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVEW",
+		"information": "Avion Express"
+      }
+	    },
 	  {
       "masterflight": {
         "registration": "N16065",
