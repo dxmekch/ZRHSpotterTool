@@ -802,6 +802,12 @@
         "information": "Cello Aviation"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "GJOTR",
+        "information": "JOTA Aviation"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "GLCYN",
@@ -818,6 +824,12 @@
       "masterflight": {
         "registration": "GMISG",
         "information": "Cello Aviation"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GSMLA",
+        "information": "JOTA Aviation"
       }
     },
 	  {
