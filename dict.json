@@ -2,6 +2,22 @@
   "timetable": [
     {
       "masterflight": {
+        "registration": "9ABTD",
+        "information": "Trade Air"
+      }
+},
+	  {  "masterflight": {
+        "registration": "9ABTE",
+        "information": "Trade Air"
+      }
+},
+	  {"masterflight": {
+        "registration": "9ABTG",
+        "information": "Trade Air"
+      }
+},
+	  {
+      "masterflight": {
         "registration": "9HAEI",
         "information": "retro"
       }
@@ -479,7 +495,13 @@
         "information": "Olympia 2012 Golden Dove"
       }
     },
-        {
+       {
+      "masterflight": {
+        "registration": "GEUNB",
+        "information": "Titan Airways"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "GEZBF",
 		"information": "ex Tartan (orange aera)"
@@ -611,7 +633,79 @@
 "information": "Neo" 
       }
     },
-	         {
+	 {
+      "masterflight": {
+        "registration": "GPOWC",
+        "information": "Titan Airways"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWD",
+        "information": "Titan Airways"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWH",
+        "information": "Titan Airways"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWK",
+        "information": "Titan Airways"
+      }
+    }, 
+	{
+      "masterflight": {
+        "registration": "GPOWM",
+        "information": "Titan Airways"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWN",
+        "information": "Titan Airways"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWP",
+        "information": "Titan Airways"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWS",
+        "information": "Titan Airways"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWT",
+        "information": "Titan Airways"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWU",
+        "information": "Titan Airways"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWV",
+        "information": "Titan Airways"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GZAPX",
+        "information": "Titan Airways"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "HL7783",
 		"information": "Skyteam"
@@ -1105,6 +1199,24 @@
       "masterflight": {
         "registration": "YLBBN",
 		"information": "Sotchi"
+      }
+	    },
+    {
+      "masterflight": {
+        "registration": "YRFKA",
+        "information": "Carpatair"
+      }
+	    },
+    {
+      "masterflight": {
+        "registration": "YRFKB",
+        "information": "Carpatair"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "YRFZA",
+        "information": "Carpatair"
       }
     }
   ]
