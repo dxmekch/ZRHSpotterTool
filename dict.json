@@ -611,24 +611,22 @@
 "information": "Neo" 
       }
     },
-	      {
+	         {
       "masterflight": {
-        "registration": "HBJJG"
+        "registration": "HL7783",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "HL7783"
+        "registration": "HL8212",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "HL8212"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "HL8275"
+        "registration": "HL8275",
+		"information": "Children's Drawing Contest"
       }
     },
     {
@@ -639,7 +637,8 @@
     },  
     {
       "masterflight": {
-        "registration": "IADJS"
+        "registration": "IADJS",
+		"information": "25th anniversary"
       }
     },
 	    {
@@ -650,17 +649,20 @@
     },
     {
       "masterflight": {
-        "registration": "JYAYP"
+        "registration": "JYAYP",
+		"information": "Oneworld"
       }
     },
     {
       "masterflight": {
-        "registration": "LNRRL"
+        "registration": "LNRRL",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "LNRRW"
+        "registration": "LNRRW",
+		"information": "Star Alliance"
       }
     },
     {
@@ -675,45 +677,89 @@
     },
 	  {
       "masterflight": {
-        "registration": "N16065"
+        "registration": "N16065",
+		"information": "Atlanta Ambassador"
       }
     },
     {
       "masterflight": {
-        "registration": "N175DZ"
+        "registration": "N175DZ",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "N343AN"
+        "registration": "N343AN",
+		"information": "Oneworld"
       }
     },
     {
       "masterflight": {
-        "registration": "N653UA"
+        "registration": "N653UA",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "N76055"
+        "registration": "N76055",
+		"information": "Star Alliance"
       }
     },
     {
       "masterflight": {
-        "registration": "N841MH"
+        "registration": "N841MH",
+		"information": "Replay for life"
       }
     },
     {
       "masterflight": {
-        "registration": "N844MH"
+        "registration": "N844MH",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "N845MH"
+        "registration": "N845MH",
+		"information": "Breast Cancer Research Foundation"
       }
     },
    {
+      "masterflight": {
+        "registration": "OEIVA",
+		"information": "Austria"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OEIZQ",
+		"information": "Berlin"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBA",
+		"information": "myDreamteam"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBP",
+		"information": "Retro"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBX",
+		"information": "Star Alliance"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELBZ",
+		"information": "Star Alliance"
+      }
+    },
+    	  {
       "masterflight": {
         "registration": "OELQY",
 		"information": "Europcar"
@@ -725,93 +771,67 @@
 	  "information": "Venezia"    
       }
     },
+	      {
+      "masterflight": {
+        "registration": "OELWH",
+		"information": "Star Alliance"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLKN",
+		"information": "Oneworld"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLVO",
+		"information": "Oneworld"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLXD",
+		"information": "Happy Holidays"
+      }
+    },
 	  {
       "masterflight": {
-        "registration": "OEIVA"
+        "registration": "OYKBO",
+		"information": "Retro"
       }
     },
     {
       "masterflight": {
-        "registration": "OEIZQ"
+        "registration": "PHBXO",
+		"information": "Skyteam"
       }
     },
     {
       "masterflight": {
-        "registration": "OELBA"
+        "registration": "PHEZX",
+		"information": "Skyteam"
       }
     },
-    {
-      "masterflight": {
-        "registration": "OELBP"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OELBX"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OELBZ"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OELCL"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OELWH"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OHLKN"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OHLVO"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "OYKBO"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHBXO"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHEZX"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHHZG"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHKZU"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHHSE"
-      }
-    },
-    {
+          {
       "masterflight": {
         "registration": "PHHSI",
-        "info": "Peter Pan"
+		"information": "Peter Pan"
       }
     },
     {
+      "masterflight": {
+        "registration": "PHHSR",
+		"information": "FlyDubai hybrid"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "PHHZG",
+		"information": "Sunweb"
+      }
+    },
+    	  {
       "masterflight": {
         "registration": "S5AAV"
       }
