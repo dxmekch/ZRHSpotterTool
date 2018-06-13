@@ -477,10 +477,46 @@
         "information": "Skyteam"
       }
     },
+	   {
+      "masterflight": {
+        "registration": "ESSAK",
+        "info": "SmartLynx"
+      }
+    },
     {
       "masterflight": {
+        "registration": "ESSAM",
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAN",
+        "info": "SmartLynx"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "ESSAO",
+        "info": "SmartLynx"
+      }
+    },
+	 	  {
+      "masterflight": {
+        "registration": "ESSAP",
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "ESSAQ",
-        "info": "EasyJet Sticker"
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAS",
+        "info": "SmartLynx"
       }
     },
 	  {
@@ -1293,13 +1329,67 @@
 		"information": "Sotchi"
       }
 	    },
-    {
+     {
+      "masterflight": {
+        "registration": "YLLCL",
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCN",
+        "info": "SmartLynx"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCO",
+        "info": "SmartLynx"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCP",
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCQ",
+        "info": "SmartLynx"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCS",
+        "info": "SmartLynx"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCT",
+        "info": "SmartLynx"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCU",
+        "info": "SmartLynx"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCV",
+        "info": "SmartLynx"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "YRFKA",
         "information": "Carpatair"
       }
 	    },
-    {
+    	 {
       "masterflight": {
         "registration": "YRFKB",
         "information": "Carpatair"
