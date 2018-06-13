@@ -213,13 +213,43 @@
 	      "information" : "60 years"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "CSTFM",
+	      "information" : "EuroAtlantic Airways"
+      }
+},
+	{
+      "masterflight": {
+        "registration": "CSTKR",
+	      "information" : "EuroAtlantic Airways"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTKS",
+	      "information" : "EuroAtlantic Airways"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTKT",
+	      "information" : "EuroAtlantic Airways"
+      }
+},
+	  {
       "masterflight": {
         "registration": "CSTNP",
 	      "information" : "Star Alliance"
       }
     },
     {
+      "masterflight": {
+        "registration": "CSTQU",
+	      "information" : "EuroAtlantic Airways"
+      }
+},
+	  {
       "masterflight": {
         "registration": "DABDP",
 	      "information" : "Croatia"
