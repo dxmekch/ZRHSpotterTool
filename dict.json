@@ -552,13 +552,37 @@
         "information": "5 Star Hansa"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "DAMGL",
+        "information": "WDL Aviation"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "DASTT",
 	      "information" : "Zypern"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "DAWBA",
+        "information": "WDL Aviation"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAWUE",
+        "information": "WDL Aviation"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAZFR",
+        "information": "WDL Aviation"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "ECHDS",
 		"information" : "Privilege Style"
