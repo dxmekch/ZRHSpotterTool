@@ -540,7 +540,13 @@
 	      "information" : "new c/s"
       }
 	 },
-	       {
+	  {
+      "masterflight": {
+        "registration": "DAISQ",
+	      "information" : "Mannschaftsflieger Fanhansa, new c/s"
+      }
+	 },     
+	  {
       "masterflight": {
         "registration": "DAIZR",
         "information": "BVB"
