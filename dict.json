@@ -564,6 +564,36 @@
         "information": "WDL Aviation"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "DASPC",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "DASPD",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DASPE",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "DASPF",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+{
+      "masterflight": {
+        "registration": "DASPI",
+	      "information" : "Small Planet Airlines"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "DASTT",
@@ -1154,10 +1184,34 @@
 	    },
 	  {
       "masterflight": {
+        "registration": "LYONJ",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "LYONL",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "LYPGC",
 		"information": "GetJet Airlines"
       }
 	    },
+	 {
+      "masterflight": {
+        "registration": "LYSPA",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "LYSPB",
+	      "information" : "Small Planet Airlines"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "LYSPC",
@@ -1165,6 +1219,24 @@
       }
 	    },
 	 {
+      "masterflight": {
+        "registration": "LYSPD",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "LYSPF",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "LYSPI",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "LYVEA",
 		"information": "Avion Express"
@@ -1567,6 +1639,78 @@
       }
     },
     {
+      "masterflight": {
+        "registration": "SPHAB",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAC",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPHAD",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAG",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPHAH",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAI",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPHAU",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAV",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAX",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAY",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAZ",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPHAB",
+	      "information" : "Small Planet Airlines"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "SPLDK",
 		"information": "Star Alliance"
