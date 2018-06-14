@@ -1358,6 +1358,102 @@
 	    },
 	  {
       "masterflight": {
+        "registration": "LZLAA",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLAB",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLAC",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAD",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAE",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAF",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDJ",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDK",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDM",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDN",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDP",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDS",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDT",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDU",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDW",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDY",
+		"information": "Bulgarian Air Charter"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "N16065",
 		"information": "Atlanta Ambassador"
       }
