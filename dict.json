@@ -1320,7 +1320,19 @@
 		"information": "Avion Express"
       }
 	    },
-	 {
+	{
+      "masterflight": {
+        "registration": "LZAOA",
+		"information": "Bulgarian Eagle"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZAOC",
+		"information": "Bulgarian Eagle"
+      }
+	    },
+	  {
       "masterflight": {
         "registration": "LZBOO",
 		"information": "Bul Air"
