@@ -228,7 +228,13 @@
         "information": "United for Wildlife"
       }
     },
-    		  {
+    	{
+      "masterflight": {
+        "registration": "A6EOW",
+        "information": "EXPO green"
+      }
+    },	
+	  {
       "masterflight": {
         "registration": "A6EUA",
         "information": "Zayed"
@@ -864,7 +870,13 @@
         "information": "Amsterdam"
       }
     },
-	      {
+	     {
+      "masterflight": {
+        "registration": "GEZEN",
+        "information": "hybrid c/s"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "GEZEZ",
         "information": "Napoli"
