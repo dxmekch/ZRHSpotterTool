@@ -972,43 +972,7 @@
         "information": "Cello Aviation"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "GSMLA",
-        "information": "JOTA Aviation"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "GUZHA",
-"information": "Neo" 
-      }
-    },
-   {
-      "masterflight": {
-        "registration": "GUZHB",
-"information": "Neo" 
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "GUZHC",
-"information": "Neo" 
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "GUZHD",
-"information": "Neo" 
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "GUZHE",
-"information": "Neo" 
-      }
-    },
-	 {
+	 	 {
       "masterflight": {
         "registration": "GPOWC",
         "information": "Titan Airways"
@@ -1074,7 +1038,49 @@
         "information": "Titan Airways"
       }
     },
+	  {
+      "masterflight": {
+        "registration": "GSMLA",
+        "information": "JOTA Aviation"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GUZHA",
+"information": "Neo" 
+      }
+    },
+   {
+      "masterflight": {
+        "registration": "GUZHB",
+"information": "Neo" 
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GUZHC",
+"information": "Neo" 
+      }
+    },
 	 {
+      "masterflight": {
+        "registration": "GUZHD",
+"information": "Neo" 
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GUZHE",
+"information": "Neo" 
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GUZHF",
+"information": "Neo" 
+      }
+    },
+	  {
       "masterflight": {
         "registration": "GZAPX",
         "information": "Titan Airways"
