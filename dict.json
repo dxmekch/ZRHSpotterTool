@@ -1868,6 +1868,12 @@
     },
     {
       "masterflight": {
+        "registration": "SPLVD",
+		"information": "100 years of independence"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "SXDGC",
 		"information": "visitgreece.gr"
       }
