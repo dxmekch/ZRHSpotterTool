@@ -656,6 +656,12 @@
     },
     {
       "masterflight": {
+        "registration": "ECMFP",
+        "information": "Lets make a tastier world"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "ECMJQ",
         "information": "hybrid c/s"
       }
