@@ -450,7 +450,19 @@
 	      "information" : "Europapark Rust"
       }
         },
-               {
+          {
+      "masterflight": {
+        "registration": "DABDU",
+	      "information" : "Moving forward"
+      }
+        },    
+	 {
+      "masterflight": {
+        "registration": "DABHC",
+	      "information" : "ex AB Oneworld"
+      }
+        },
+	  {
       "masterflight": {
         "registration": "DACKD",
 	      "information" : "25 years"
