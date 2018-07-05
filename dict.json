@@ -2208,7 +2208,19 @@
         "information": "Carpatair"
       }
      },
-  {
+ {
+      "masterflight": {
+        "registration": "YRSEA",
+        "information": "Star East"
+      }
+     },
+	  {
+      "masterflight": {
+        "registration": "YRSEB",
+        "information": "Star East"
+      }
+     },
+	  {
       "masterflight": {
         "registration": "YUAND",
         "information": "Aviolet"
