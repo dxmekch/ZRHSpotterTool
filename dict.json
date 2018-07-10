@@ -230,6 +230,12 @@
     },
     	{
       "masterflight": {
+        "registration": "A6EOU",
+        "information": "EXPO orange"
+      }
+    },	
+	  {
+      "masterflight": {
         "registration": "A6EOW",
         "information": "EXPO green"
       }
