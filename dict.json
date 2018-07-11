@@ -2040,6 +2040,12 @@
 		"information": "300th aircraft"
       }
     },
+	   {
+      "masterflight": {
+        "registration": "TCSOEC",
+        "information": "AtlasGlobal hybrid"
+      }
+    },
     {
       "masterflight": {
         "registration": "TCSNN",
