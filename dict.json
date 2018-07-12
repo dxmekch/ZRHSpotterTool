@@ -1968,7 +1968,13 @@
 		"information": "Retro"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "TCJOG",
+		"information": "Year of Troy"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCJPF",
 		"information": "Star Alliance"
