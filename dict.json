@@ -1878,6 +1878,12 @@
 		"information": "100 years of independence"
       }
     },
+	{
+      "masterflight": {
+        "registration": "SXATF",
+		"information": "GainJet"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "SXDGC",
@@ -1914,7 +1920,13 @@
 		"information": "Acropolis museum"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "SXRFA",
+		"information": "GainJet"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCAGI",
 		"information": "Bank O'Atlas"
