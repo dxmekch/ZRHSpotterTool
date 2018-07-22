@@ -932,12 +932,6 @@
     },
     {
       "masterflight": {
-        "registration": "GEZPC",
-        "information": "Europcar"
-      }
-    },
-    {
-      "masterflight": {
         "registration": "GEZPD",
         "information": "Europcar"
       }
@@ -1566,7 +1560,13 @@
 		"information": "Austria"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "OEIVV",
+        "information": "Europcar"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OEIZQ",
 		"information": "Berlin"
