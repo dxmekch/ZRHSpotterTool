@@ -1188,7 +1188,13 @@
 		"information": "GetJet Airlines"
       }
 	    },
-	 {
+		 {
+      "masterflight": {
+        "registration": "LYGGC",
+		"information": "Grand Cru Airlines"
+      }
+		 },
+	  {
       "masterflight": {
         "registration": "LYGTW",
 		"information": "GetJet Airlines"
