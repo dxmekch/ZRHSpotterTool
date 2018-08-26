@@ -240,7 +240,13 @@
         "information": "United for Wildlife"
       }
     },
-    	{
+    	 {
+      "masterflight": {
+        "registration": "A6EON",
+        "information": "EXPO green"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EOU",
         "information": "EXPO orange"
