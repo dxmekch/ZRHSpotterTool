@@ -282,7 +282,19 @@
 		"information" : "Oneworld"
       }
     },
+	  {
+      "masterflight": {
+        "registration": "B1343",
+		"information" : "Kung Fu Panda (gold)"
+      }
+    },
     {
+      "masterflight": {
+        "registration": "B1540",
+		"information" : "Kung Fu Panda"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "B6075",
 		"information" : "Zijin Hao"
@@ -307,6 +319,18 @@
       }
     },
     {
+      "masterflight": {
+        "registration": "B6998",
+		"information" : "Kung Fu Panda (red)"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "B7302",
+		"information" : "Kung Fu Panda (yellow)"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "BKPB",
 		"information" : "Spirit of Hong Kong"
