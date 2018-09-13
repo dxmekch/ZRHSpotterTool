@@ -611,7 +611,13 @@
         "registration": "DAIZR",
         "information": "BVB"
       }
-    },
+    },     
+	  {
+      "masterflight": {
+        "registration": "DAIZX",
+        "information": "5 Starhansa"
+      }
+	  },
        {
       "masterflight": {
         "registration": "DAMGL",
