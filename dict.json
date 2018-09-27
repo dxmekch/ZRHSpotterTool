@@ -215,7 +215,12 @@
         "information": "EXPO green"
       }
     },
-	  {
+	 {
+      "masterflight": {
+        "registration": "A6EOC",
+        "information": "EXPO blue"
+      }
+}, {
       "masterflight": {
         "registration": "A6EOG",
         "information": "Zayed"
