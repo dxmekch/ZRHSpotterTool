@@ -528,6 +528,12 @@
     },
     {
       "masterflight": {
+        "registration": "DAEWS",
+	      "information" : "Avis"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "DAGER",
 	      "information" : "30 years"
       }
