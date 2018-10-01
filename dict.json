@@ -976,13 +976,7 @@
         "information": "Linate-Fiumicino per tutti"
       }
     },
-    {
-      "masterflight": {
-        "registration": "GEZOL",
-        "information": "250th aircraft"
-      }
-    },
-    {
+        {
       "masterflight": {
         "registration": "GEZOX",
         "information": "20 years"
@@ -1619,6 +1613,12 @@
       }
     },
    {
+      "masterflight": {
+        "registration": "OEICC",
+        "information": "250th aircraft"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OEIVA",
 		"information": "Austria"
