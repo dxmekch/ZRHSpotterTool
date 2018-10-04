@@ -2152,7 +2152,13 @@
 		"information": "Detur"
       }
     },
-       {
+      {
+      "masterflight": {
+        "registration": "TFFIA",
+		"information": "Official airline of the icelandic national team titles "
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TFFIR",
 		"information": "80 years"
