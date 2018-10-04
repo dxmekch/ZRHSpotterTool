@@ -1852,6 +1852,12 @@
 		"information": "Star Alliance"
       }
     },
+	   {
+      "masterflight": {
+        "registration": "SEROA",
+	      "information" : "Netflix The Rain"
+      }
+    },
     {
       "masterflight": {
         "registration": "SPHAB",
