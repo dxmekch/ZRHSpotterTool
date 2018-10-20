@@ -220,7 +220,14 @@
         "registration": "A6EOC",
         "information": "EXPO blue"
       }
-}, {
+}, 
+	  {
+      "masterflight": {
+        "registration": "A6EOA",
+        "information": "EXPO orange"
+      }
+}, 
+	  {
       "masterflight": {
         "registration": "A6EOG",
         "information": "Zayed"
