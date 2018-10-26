@@ -2111,7 +2111,13 @@
 		"information": "Year of Troy"
       }
     },
-    {
+    	  {
+      "masterflight": {
+        "registration": "TCJSU",
+		"information": "Social media"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCLNB",
 		"information": "Star Alliance"
