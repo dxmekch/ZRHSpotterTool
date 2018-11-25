@@ -535,6 +535,12 @@
     },
     {
       "masterflight": {
+        "registration": "DAEWK",
+	      "information" : "Kvarner"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "DAEWM",
 	      "information" : "Boomerang Club"
       }
