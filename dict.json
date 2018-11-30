@@ -1,13 +1,6 @@
 {
   "timetable": [
-    {
-      "masterflight": {
-	      "id":"0",
-        "registration": "BITTE NICHT LOESCHEN",
-        "information": "PLEASE DO NOT DELETE"
-      }
-},
-	   {
+  {
       "masterflight": {
         "registration": "4XEKU",
         "information": "basic Up! c/s"
