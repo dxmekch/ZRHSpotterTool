@@ -2,6 +2,13 @@
   "timetable": [
     {
       "masterflight": {
+	      "id":"",
+        "registration": "",
+        "information": ""
+      }
+},
+	   {
+      "masterflight": {
         "registration": "4XEKU",
         "information": "basic Up! c/s"
       }
