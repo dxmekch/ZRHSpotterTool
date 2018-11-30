@@ -2,9 +2,9 @@
   "timetable": [
     {
       "masterflight": {
-	      "id":"",
-        "registration": "",
-        "information": ""
+	      "id":"0",
+        "registration": "0",
+        "information": "0"
       }
 },
 	   {
