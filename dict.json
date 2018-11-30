@@ -1933,12 +1933,6 @@
     },
 	  {
       "masterflight": {
-        "registration": "SPHAB",
-	      "information" : "Small Planet Airlines"
-      }
-    },
-	  {
-      "masterflight": {
         "registration": "SPLDK",
 		"information": "Star Alliance"
       }
