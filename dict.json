@@ -1145,13 +1145,7 @@
         "information": "TITAN AIRWAYS"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "HBJCA",
-		"information": "FICHTRE / SUISSE ROMANDIE"
-      }
-    },
-	  {
+	  	  {
       "masterflight": {
         "registration": "HL7783",
 		"information": "SKYTEAM"
