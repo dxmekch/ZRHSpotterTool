@@ -2161,6 +2161,12 @@
     },
 	  {
       "masterflight": {
+        "registration": "TSIOP",
+        "information": "Retro"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "VPBDK",
 		"information": "SKYTEAM"
       }
