@@ -1957,6 +1957,12 @@
     },
     {
       "masterflight": {
+        "registration": "SXDVP",
+		"information": "VISITGREECE.GR"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "SXDVQ",
 		"information": "STAR ALLIANCE"
       }
