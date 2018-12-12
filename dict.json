@@ -527,13 +527,7 @@
 	      "information" : "EX AB ONEWORLD"
       }
         },
-	  {
-      "masterflight": {
-        "registration": "DACKD",
-	      "information" : "25 YEARS"
-      }
-    },
-    {
+	      {
       "masterflight": {
         "registration": "DAEWG",
 	      "information" : "VISIT SWEDEN/GOETEBORG"
