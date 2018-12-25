@@ -317,10 +317,76 @@
 		"information" : "ONEWORLD"
       }
     },
-	    {
+	     {
+      "masterflight": {
+        "registration": "A7AAG",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7AAH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HBJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHE",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHF",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7HHH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A7HHK",
-        "information": "Government of Qatar"
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    }, 
+	   {
+      "masterflight": {
+        "registration": "A7HHM",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HJJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A7HSJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7MBK",
+        "information": "QATAR AMIRI FLIGHT"
       }
     },
 	  {
@@ -329,7 +395,19 @@
 		"information" : "KUNG FU PANDA (GOLD)"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "A7MED",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7MHH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "B1540",
 		"information" : "KUNG FU PANDA"
