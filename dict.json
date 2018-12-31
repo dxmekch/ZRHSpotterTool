@@ -2183,7 +2183,13 @@
 		"information": "300TH AIRCRAFT"
       }
     },
-	   {
+	  {
+      "masterflight": {
+        "registration": "TCODC",
+        "information": "GGMGASTRO.COM"
+      }
+    }, 
+	  {
       "masterflight": {
         "registration": "TCOEC",
         "information": "ATLASGLOBAL HYBRID"
