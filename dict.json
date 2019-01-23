@@ -2017,6 +2017,12 @@
     },
 	  {
       "masterflight": {
+        "registration": "SPLIO",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "SPLVD",
 		"information": "100 YEARS OF INDEPENDENCE"
       }
