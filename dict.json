@@ -2105,7 +2105,13 @@
 		"information": "INVEST IN TURKEY"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "TCJLU",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCJNC",
 		"information": "RETRO"
