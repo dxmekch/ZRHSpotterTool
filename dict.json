@@ -1715,7 +1715,13 @@
 		"information": "BERLIN"
       }
     },
-           {
+        {
+      "masterflight": {
+        "registration": "OELBO",
+		"information": "RETRO"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OELBX",
 		"information": "STAR ALLIANCE"
