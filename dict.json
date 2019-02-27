@@ -173,19 +173,18 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
-    {
+   {
+      "masterflight": {
+        "registration": "A6BLG",
+        "information": "SPECIAL OLYMPICS WORLD GAMES"
+      }		  
+    }, {
       "masterflight": {
         "registration": "A6BLV",
         "information": "FORMULA 1"
       }		  
     },
-    {
-      "masterflight": {
-        "registration": "A6DDE",
-        "information": "ZAYED"
-      }
-    },
-    {
+        {
       "masterflight": {
         "registration": "A6EEQ",
         "information": "UNITED FOR WILDLIFE"
@@ -197,13 +196,7 @@
         "information": "UNITED FOR WILDLIFE"
       }
     },
-    {
-      "masterflight": {
-        "registration": "A6EEU",
-        "information": "ZAYED"
-      }
-    },
-       {
+           {
       "masterflight": {
         "registration": "A6EEW",
         "information": "EXPO GREEN"
@@ -239,13 +232,7 @@
         "information": "EXPO ORANGE"
       }
 }, 
-	  {
-      "masterflight": {
-        "registration": "A6EOG",
-        "information": "ZAYED"
-      }
-    },
-	    {
+	  	    {
       "masterflight": {
         "registration": "A6EOJ",
         "information": "EXPO GREEN"
@@ -293,13 +280,7 @@
         "information": "EXPO GREEN"
       }
     },	
-	  {
-      "masterflight": {
-        "registration": "A6EUA",
-        "information": "ZAYED"
-      }
-    },
-        	{
+	         	{
       "masterflight": {
         "registration": "A6EUV",
         "information": "100TH A380 / ZAYED"
