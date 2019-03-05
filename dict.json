@@ -214,7 +214,13 @@
         "information": "EXPO GREEN"
       }
     },
-	 {
+	{
+      "masterflight": {
+        "registration": "A6EOB",
+        "information": "EXPO ORANGE"
+      }
+       },
+	  {
       "masterflight": {
         "registration": "A6EOC",
         "information": "EXPO BLUE"
