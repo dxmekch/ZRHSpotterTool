@@ -1698,6 +1698,12 @@
     },
    {
       "masterflight": {
+        "registration": "OEIVK",
+        "information": "NANTES"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "OEIVV",
         "information": "EUROPCAR"
       }
