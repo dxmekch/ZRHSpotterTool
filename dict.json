@@ -1224,6 +1224,12 @@
     },
 	  	  {
       "masterflight": {
+        "registration": "HBJCA",
+        "information": "Fête des Vignerons 2019"
+      }
+    },
+	  	  {
+      "masterflight": {
         "registration": "HL7783",
 		"information": "SKYTEAM"
       }
