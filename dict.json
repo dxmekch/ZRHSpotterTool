@@ -184,7 +184,13 @@
         "information": "FORMULA 1"
       }		  
     },
-        {
+         {
+      "masterflight": {
+        "registration": "A6EEB",
+        "information": "ARSENAL"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EEQ",
         "information": "UNITED FOR WILDLIFE"
