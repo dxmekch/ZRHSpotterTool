@@ -929,7 +929,13 @@
         "information": "SMARTLYNX"
       }	
     },
-	 {
+	  {
+      "masterflight": {
+        "registration": "ESSAV",
+        "information": "SMARTLYNX"
+      }	
+    },
+	  {
       "masterflight": {
         "registration": "ESZGI",
         "information": "SMARTLYNX"
@@ -2366,6 +2372,18 @@
 	{
       "masterflight": {
         "registration": "YLLCV",
+        "information": "SMARTLYNX"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "YLLCX",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCZ",
         "information": "SMARTLYNX"
       }
     },
