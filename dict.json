@@ -1055,12 +1055,6 @@
         "information": "LINATE-FIUMICINO PER TUTTI"
       }
     },
-        {
-      "masterflight": {
-        "registration": "GEZOX",
-        "information": "20 YEARS"
-      }
-    },
     {
       "masterflight": {
         "registration": "GEZPD",
@@ -1689,6 +1683,12 @@
       "masterflight": {
         "registration": "OEIJB",
         "information": "250TH AIRCRAFT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OEINQ",
+        "information": "20 YEARS"
       }
     },
 	  {
