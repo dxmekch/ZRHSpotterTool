@@ -186,6 +186,12 @@
     },
          {
       "masterflight": {
+        "registration": "A6EEA",
+        "information": "EXPO ORANGE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "A6EEB",
         "information": "ARSENAL"
       }
