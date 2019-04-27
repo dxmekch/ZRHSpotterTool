@@ -1345,6 +1345,12 @@
 	    },
 	  {
       "masterflight": {
+        "registration": "LYNVU",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYNVX",
 		"information": "AVION EXPRESS"
       }
@@ -2234,7 +2240,7 @@
 	      {
       "masterflight": {
         "registration": "TCSNN",
-        "information": "SUN EXPRESS PLAYSTATION"
+        "information": "PLAYSTATION"
       }
     },
         {
