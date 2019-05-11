@@ -2,8 +2,9 @@
 # ZRHSpotterTool
 
 ---
+(formerly: mnemocron/ZRHMovementsSpottertool)
 
-This Python script can fetch the full arrival / departure list of the Zürich airport (ZRH). The output format is 'json'. There are multiple lists available. Both the arrivals and depatrures of regular civil flights, as well as both the arrivals and departures of all available flights (including private and freight flights). Typically a regular list contains ~400 flights per day, while a spotter list contains ~450 flights.
+> This Python script can fetch the full arrival / departure list of the Zürich airport (ZRH). The output format is 'json'. There are multiple lists available. Both the arrivals and depatrures of regular civil flights, as well as both the arrivals and departures of all available flights (including private and freight flights). Typically a regular list contains ~400 flights per day, while a spotter list contains ~450 flights.
 
 Furthermore there is a `dict.json` that contains further information for given registration numbers.
 
