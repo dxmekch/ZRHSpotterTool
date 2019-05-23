@@ -1343,9 +1343,15 @@
 		"information": "AVION EXPRESS"
       }
 	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVU",
+		"information": "AVION EXPRESS"
+      }
+	    },
 	  {
       "masterflight": {
-        "registration": "LYNVX",
+        "registration": "LYNVV",
 		"information": "AVION EXPRESS"
       }
 	    },
