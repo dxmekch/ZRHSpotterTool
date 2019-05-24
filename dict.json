@@ -186,6 +186,12 @@
     },
          {
       "masterflight": {
+        "registration": "A6EDF",
+        "information": "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "A6EEA",
         "information": "EXPO ORANGE"
       }
