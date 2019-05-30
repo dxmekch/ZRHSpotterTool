@@ -1229,6 +1229,12 @@
 		"information": "SKYTEAM"
       }
     },
+	  {
+      "masterflight": {
+        "registration": "HL8009",
+		"information": "50 YEARS"
+      }
+    },
     {
       "masterflight": {
         "registration": "HL8212",
@@ -2217,6 +2223,12 @@
       "masterflight": {
         "registration": "TCJSU",
 		"information": "LEGO"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "TCJTE",
+		"information": "30 YEARS"
       }
     },
 	  {
