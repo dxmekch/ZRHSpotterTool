@@ -2329,6 +2329,12 @@
     },
     {
       "masterflight": {
+        "registration": "VPBLP",
+        "information" : "SKYTEAM"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "VPBMB",
 		"information": "SKYTEAM"
       }
