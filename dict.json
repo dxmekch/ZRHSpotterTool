@@ -743,7 +743,13 @@
         "information": "SAY YES TO EUROPE"
       }
     },     
-    	  	  {
+    	    {
+      "masterflight": {
+        "registration": "DAIZH",
+        "information": "STAR ALLIANCE"
+      }
+    },     	  
+	  {
       "masterflight": {
         "registration": "DAIZR",
         "information": "BVB MANNSCHAFTSAIRBUS"
