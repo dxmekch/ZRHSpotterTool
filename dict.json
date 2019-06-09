@@ -210,6 +210,12 @@
     },
            {
       "masterflight": {
+        "registration": "A6EEU",
+        "information": "RUGBY WORLD CUP"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "A6EEW",
         "information": "EXPO GREEN"
       }
