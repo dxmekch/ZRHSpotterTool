@@ -2279,7 +2279,13 @@
         "information": "PETER HASE"
       }
     },
-      {
+    {
+      "masterflight": {
+        "registration": "TCSOP",
+        "information": "ASPENDOS 2019"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCTJJ",
 		"information": "DETUR"
