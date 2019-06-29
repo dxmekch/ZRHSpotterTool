@@ -1315,8 +1315,38 @@
 	    },
 	{
       "masterflight": {
+        "registration": "LYCOB",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYCOM",
 		"information": "AVION EXPRESS"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYEEL",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELF",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELK",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYEMU",
+		"information": "GETJET AIRLINES"
       }
 	    },
 	  {
@@ -1350,6 +1380,24 @@
       }
 	    },
 	{
+      "masterflight": {
+        "registration": "LYKEA",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYKIT",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYLCG",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
       "masterflight": {
         "registration": "LYMGC",
 		"information": "GETJET AIRLINES"
@@ -1393,53 +1441,23 @@
 	    },
 	  {
       "masterflight": {
-        "registration": "LYONJ",
-	      "information" : "SMALL PLANET AIRLINES"
+        "registration": "LYOWL",
+		"information": "GETJET AIRLINES"
       }
-    },
-	 {
-      "masterflight": {
-        "registration": "LYONL",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
+	    },	
 	  {
       "masterflight": {
         "registration": "LYPGC",
 		"information": "GETJET AIRLINES"
       }
 	    },
-	 {
-      "masterflight": {
-        "registration": "LYSPA",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "LYSPB",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "LYSPC",
 		"information": "GETJET AIRLINES"
       }
 	    },
-	 {
-      "masterflight": {
-        "registration": "LYSPD",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "LYSPF",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
+	 	{
       "masterflight": {
         "registration": "LYSPI",
 	      "information" : "SMALL PLANET AIRLINES"
