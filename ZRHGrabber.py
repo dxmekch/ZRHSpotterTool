@@ -10,11 +10,12 @@ import urllib
 from bs4 import BeautifulSoup
 import requests
 
-
-import pprint
-
 # ToDo: Tested: headers seem to be not required
 # Edit: Seems to be required sometimes
+# Notice:
+# I tried to use the most recent headers with a super long Cookie string and a 
+# few additional parameters. The request was rejected.
+# These Headers seem to still work fine.
 headers = { 'Host': 'www.zurich-airport.com',
 		'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
 		'Accept': '*/*',
@@ -36,7 +37,6 @@ class ZRHGrabber:
         self.url_base = url_base
         self.UTC_correction = 2.00
         
-
     def parse_table(self, flighttable):
         dict_flighttable = []
         try:
@@ -109,7 +109,6 @@ class ZRHGrabber:
                                      'page' : str(page_n), \
                                      '__RequestVerificationToken' : ''})
             url = self.url_base + fetch_type + 'DetailData'
-            print(body)
             
             # send POST request and parse using LXML
             response = requests.post(url, data=body, headers=self.hdr)
@@ -130,7 +129,7 @@ class ZRHGrabber:
                 if (page_n > 0):
                     if(dict_flighttable['timetable'][-1]['flightcode'] in flighttable):
                         last_flight_fetched = True
-                        print('ABORTED')
+                        print('last page reached')
                         print(dict_flighttable['timetable'][-1]['flightcode'])
     
                 # TODO: merging of tables not working
@@ -139,7 +138,6 @@ class ZRHGrabber:
                 
                 
                 page_n = page_n + 1
-                print(str(page_n))
                 
                 if(page_n > 20):
                     print('RunawayError: Too many pages requested. Aborting possible infinite loop')
