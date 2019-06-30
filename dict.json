@@ -184,7 +184,13 @@
         "information": "FORMULA 1"
       }		  
     },
-         {
+       	  {
+      "masterflight": {
+        "registration": "A6EEA",
+        "information": "EXPO ORANGE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EEB",
         "information": "ARSENAL"
@@ -203,6 +209,12 @@
       }
     },
            {
+      "masterflight": {
+        "registration": "A6EEU",
+        "information": "RUGBY WORLD CUP"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EEW",
         "information": "EXPO GREEN"
@@ -245,7 +257,13 @@
         "information": "EXPO ORANGE"
       }
 }, 
-	   {
+	 {
+      "masterflight": {
+        "registration": "A6EOF",
+        "information": "EXPO BLAU"
+      }
+}, 
+	  {
       "masterflight": {
         "registration": "A6EOH",
         "information": "CRICKET WORLD CUP"
@@ -725,7 +743,19 @@
 	      "information" : "DIE MAUS"
       }
     },
-    	  	  {
+	  	  {
+      "masterflight": {
+        "registration": "DAIZG",
+        "information": "SAY YES TO EUROPE"
+      }
+    },     
+    	    {
+      "masterflight": {
+        "registration": "DAIZH",
+        "information": "STAR ALLIANCE"
+      }
+    },     	  
+	  {
       "masterflight": {
         "registration": "DAIZR",
         "information": "BVB MANNSCHAFTSAIRBUS"
@@ -793,11 +823,17 @@
     },
 	 {
       "masterflight": {
+        "registration": "ECIJN",
+		"information" : "CANTABRIA"
+      }
+    },
+	{
+      "masterflight": {
         "registration": "ECISY",
 		"information" : "PRIVILEGE STYLE"
       }
     },
-	 {
+	  {
       "masterflight": {
         "registration": "ECLZO",
 		"information" : "PRIVILEGE STYLE"
@@ -814,13 +850,7 @@
         "registration": "ECKHM",
         "information": "ONEWORLD"
       }
-    },
-    {
-      "masterflight": {
-        "registration": "ECMFP",
-        "information": "LETS MAKE A TASTIER WORLD"
-      }
-    },
+       },
     	  {
       "masterflight": {
         "registration": "ECMLE",
@@ -869,13 +899,7 @@
         "information": "CALABRIA"
 	      }
     },
-    {
-      "masterflight": {
-        "registration": "EIDSW",
-        "information": "JEEP RENEGADE"
-      }
-    },
-    {
+       {
       "masterflight": {
         "registration": "EIDTJ",
         "information": "EMPLOYEE SIGNATURES"
@@ -1055,13 +1079,7 @@
         "information": "UNICEF"
       }
     },
-    {
-      "masterflight": {
-        "registration": "GEZIW",
-        "information": "LINATE-FIUMICINO PER TUTTI"
-      }
-    },
-    {
+       {
       "masterflight": {
         "registration": "GEZPD",
         "information": "EUROPCAR"
@@ -1073,13 +1091,7 @@
         "information": "TEST PAINTING SHEME"
       }
     },
-        {
-      "masterflight": {
-        "registration": "GEZUH",
-        "information": "BORDEAUX"
-      }
-    },
-	 {
+       	 {
       "masterflight": {
         "registration": "GILLR",
         "information": "CELLO AVIATION"
@@ -1229,6 +1241,12 @@
 		"information": "SKYTEAM"
       }
     },
+	  {
+      "masterflight": {
+        "registration": "HL8009",
+		"information": "50 YEARS"
+      }
+    },
     {
       "masterflight": {
         "registration": "HL8212",
@@ -1237,7 +1255,7 @@
     },
     {
       "masterflight": {
-        "registration": "HL8275",
+        "registration": "HL8274",
 		"information": "CHILDREN'S DRAWING CONTEST"
       }
     },
@@ -1297,8 +1315,38 @@
 	    },
 	{
       "masterflight": {
+        "registration": "LYCOB",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYCOM",
 		"information": "AVION EXPRESS"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYEEL",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELF",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELK",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYEMU",
+		"information": "GETJET AIRLINES"
       }
 	    },
 	  {
@@ -1333,13 +1381,49 @@
 	    },
 	{
       "masterflight": {
+        "registration": "LYKEA",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYKIT",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYLCG",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
         "registration": "LYMGC",
 		"information": "GETJET AIRLINES"
       }
 	    },
 	{
       "masterflight": {
-        "registration": "LYNVX",
+        "registration": "LYNVQ",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYNVU",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVU",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYNVV",
 		"information": "AVION EXPRESS"
       }
 	    },
@@ -1357,53 +1441,23 @@
 	    },
 	  {
       "masterflight": {
-        "registration": "LYONJ",
-	      "information" : "SMALL PLANET AIRLINES"
+        "registration": "LYOWL",
+		"information": "GETJET AIRLINES"
       }
-    },
-	 {
-      "masterflight": {
-        "registration": "LYONL",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
+	    },	
 	  {
       "masterflight": {
         "registration": "LYPGC",
 		"information": "GETJET AIRLINES"
       }
 	    },
-	 {
-      "masterflight": {
-        "registration": "LYSPA",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "LYSPB",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "LYSPC",
 		"information": "GETJET AIRLINES"
       }
 	    },
-	 {
-      "masterflight": {
-        "registration": "LYSPD",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "LYSPF",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
+	 	{
       "masterflight": {
         "registration": "LYSPI",
 	      "information" : "SMALL PLANET AIRLINES"
@@ -1685,7 +1739,13 @@
 		"information": "BREAST CANCER RESEARCH FOUNDATION"
       }
     },
-   {
+    {
+      "masterflight": {
+        "registration": "OEICF",
+        "information": "BORDEAUX"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "OEIJB",
         "information": "250TH AIRCRAFT"
@@ -1695,6 +1755,12 @@
       "masterflight": {
         "registration": "OEINQ",
         "information": "20 YEARS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OEIQD",
+        "information": "EUROWINGS HOLIDAYS"
       }
     },
 	  {
@@ -2021,6 +2087,12 @@
 		"information": "STAR ALLIANCE"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "SPLNB",
+		"information": "GRZESKI"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "SPLVD",
@@ -2183,16 +2255,16 @@
 		"information": "STAR ALLIANCE"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "TCJTP",
-		"information": "YEAR OF TROY"
-      }
-    },
     	  {
       "masterflight": {
         "registration": "TCJSU",
 		"information": "LEGO"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "TCJTE",
+		"information": "30 YEARS MILES & SMILES"
       }
     },
 	  {
@@ -2213,16 +2285,10 @@
         "information": "GGMGASTRO.COM"
       }
     }, 
-	  {
-      "masterflight": {
-        "registration": "TCOEC",
-        "information": "ATLASGLOBAL HYBRID"
-      }
-    },
-    {
+	      {
       "masterflight": {
         "registration": "TCSNN",
-        "information": "SUN EXPRESS PLAYSTATION"
+        "information": "PLAYSTATION"
       }
     },
         {
@@ -2231,7 +2297,13 @@
         "information": "PETER HASE"
       }
     },
-      {
+    {
+      "masterflight": {
+        "registration": "TCSOR",
+        "information": "ASPENDOS 2019"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCTJJ",
 		"information": "DETUR"
@@ -2246,7 +2318,7 @@
 	  {
       "masterflight": {
         "registration": "TFFIR",
-		"information": "80 Years"
+		"information": "80 YEARS"
       }
     },
     {
@@ -2263,6 +2335,12 @@
         },
 	  {
       "masterflight": {
+        "registration": "TSIML",
+        "information": "CARTHAGE EAGLES"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "TSIMP",
         "information": "CARTHAGE EAGLES"
       }
@@ -2276,7 +2354,7 @@
 	  {
       "masterflight": {
         "registration": "TSIOP",
-        "information": "Retro"
+        "information": "RETRO"
       }
     },
 	  {
@@ -2292,6 +2370,12 @@
       }
     },
     {
+      "masterflight": {
+        "registration": "VPBLP",
+        "information" : "SKYTEAM"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "VPBMB",
 		"information": "SKYTEAM"
@@ -2327,10 +2411,16 @@
 		"information": "SOTCHI"
       }
 	    },
+	 {
+      "masterflight": {
+        "registration": "YLCSJ",
+        "information": "ESTONIA"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "YLCSL",
-        "information": " LATVIA 100 YEARS "
+        "information": "LATVIA 100 YEARS"
       }
     },
      {

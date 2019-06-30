@@ -77,6 +77,9 @@ def main():
         else:
             raise FileNotFoundError('Output directory not found')
         
+        if(outdir[-1] not in ['/']):
+            outdir = outdir + '/'
+        
         zrh = ZRHGrabber()
         
         if(opts.today):

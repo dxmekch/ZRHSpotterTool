@@ -91,6 +91,9 @@ If the cookie headers are not set, the script will fail with `AttributeError: 'N
 
 Python 3
 
+```bash
+sudo apt install python3-bs4
+```
 
 
 ---
