@@ -1,6 +1,6 @@
 #!/bin/bash
 
-path="/mnt/c/Users/simon/Downloads/workspace/SPYDER/ZRHSpotterTool"
+path="/home/user/ZRHSpotterTool"
 path_tables="./timetables"
 
 telegram_user = "@mnemocron"
