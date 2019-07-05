@@ -1,0 +1,394 @@
+{
+    "timetable": [
+        {
+            "airportinformation": {
+                "airport_city": "AMSTERDAM"
+            },
+            "expected": "13:19",
+            "flightcode": "XXE 830",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "PHCTH"
+            },
+            "scheduled": "13:00",
+            "status": "landed"
+        },
+        {
+            "airportinformation": {
+                "airport_city": "PARIS"
+            },
+            "expected": "12:36",
+            "flightcode": "VJT 624",
+            "masterflight": {
+                "aircrafttype": " CRJ 200",
+                "registration": "9HILV"
+            },
+            "scheduled": "13:00",
+            "status": "landed"
+        },
+        {
+            "airportinformation": {
+                "airport_city": "PRAGUE"
+            },
+            "expected": "13:14",
+            "flightcode": "XXJ 711",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "OKAST"
+            },
+            "scheduled": "13:15",
+            "status": "landed"
+        },
+        {
+            "airportinformation": {
+                "airport_city": "INNSBRUCK"
+            },
+            "expected": "13:22",
+            "flightcode": "XXJ 074",
+            "masterflight": {
+                "aircrafttype": " Beech light aircraft",
+                "registration": "9HRBA"
+            },
+            "scheduled": "13:20",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "LONDON BIGGIN HILL"
+            },
+            "expected": "13:28",
+            "flightcode": "CAZ 501",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBIAU"
+            },
+            "scheduled": "13:20",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "GENUA"
+            },
+            "expected": "",
+            "flightcode": "XXE 1145",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "MPIRA"
+            },
+            "scheduled": "13:45",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "MILAN"
+            },
+            "expected": "",
+            "flightcode": "XXJ 4545",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "A7HHH"
+            },
+            "scheduled": "14:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "ABU DHABI"
+            },
+            "expected": "14:44",
+            "flightcode": "XXJ 007",
+            "masterflight": {
+                "aircrafttype": " 737-800",
+                "registration": "A6AUH"
+            },
+            "scheduled": "15:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "LONDON HEATHROW"
+            },
+            "expected": "",
+            "flightcode": "BA 714",
+            "masterflight": {
+                "aircrafttype": " A319",
+                "registration": "GEUPJ"
+            },
+            "scheduled": "15:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "MUNICH"
+            },
+            "expected": "",
+            "flightcode": "VJT 425",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "9HVCC"
+            },
+            "scheduled": "15:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "FRANKFURT"
+            },
+            "expected": "",
+            "flightcode": "LX 1073",
+            "masterflight": {
+                "aircrafttype": " A220-300",
+                "registration": "HBJCA"
+            },
+            "scheduled": "15:10",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "KARLSRUHE-BADEN"
+            },
+            "expected": "",
+            "flightcode": "XXG 1315",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBKHK"
+            },
+            "scheduled": "15:15",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": ""
+            },
+            "expected": "",
+            "flightcode": "ZRH 0004",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBCYH"
+            },
+            "scheduled": "15:30",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "LONDON LUTON"
+            },
+            "expected": "",
+            "flightcode": "EZY 2045",
+            "masterflight": {
+                "aircrafttype": " A319",
+                "registration": "GEZBF"
+            },
+            "scheduled": "16:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": ""
+            },
+            "expected": "",
+            "flightcode": "ZRH 0011",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBZTD"
+            },
+            "scheduled": "16:50",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "ANTALYA"
+            },
+            "expected": "",
+            "flightcode": "XQ 122",
+            "masterflight": {
+                "aircrafttype": " A320-100/200",
+                "registration": "LYVEI"
+            },
+            "scheduled": "17:05",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": ""
+            },
+            "expected": "",
+            "flightcode": "XXC 1705",
+            "masterflight": {
+                "aircrafttype": " PC-12",
+                "registration": "HBFVD"
+            },
+            "scheduled": "17:20",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "VIENNA"
+            },
+            "expected": "",
+            "flightcode": "NJE 714",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "CSDXW"
+            },
+            "scheduled": "17:25",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "NICE"
+            },
+            "expected": "",
+            "flightcode": "AHO 333",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "DAHOI"
+            },
+            "scheduled": "17:30",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "ATHENS"
+            },
+            "expected": "",
+            "flightcode": "ZRH 0003",
+            "masterflight": {
+                "aircrafttype": " Global Express",
+                "registration": "CSGLA"
+            },
+            "scheduled": "17:52",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "MANNHEIM"
+            },
+            "expected": "",
+            "flightcode": "XXC 222",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "DICCB"
+            },
+            "scheduled": "18:10",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": ""
+            },
+            "expected": "",
+            "flightcode": "ZRH 0001",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBCHX"
+            },
+            "scheduled": "18:40",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "BASEL"
+            },
+            "expected": "",
+            "flightcode": "XXE 1015",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "MTHOR"
+            },
+            "scheduled": "19:15",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "ZURICH"
+            },
+            "expected": "",
+            "flightcode": "ZRH 0010",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBCYH"
+            },
+            "scheduled": "19:40",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "IBIZA"
+            },
+            "expected": "",
+            "flightcode": "XXJ 1610",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "LYDSK"
+            },
+            "scheduled": "19:40",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "MAILAND"
+            },
+            "expected": "",
+            "flightcode": "XXC 063",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "GFXAP"
+            },
+            "scheduled": "20:35",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "FRIEDRICHSHAFEN"
+            },
+            "expected": "",
+            "flightcode": "XXG 191",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "N203AP"
+            },
+            "scheduled": "21:00",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "IBIZA"
+            },
+            "expected": "",
+            "flightcode": "WK 267",
+            "masterflight": {
+                "aircrafttype": " A220-300",
+                "registration": "HBJCA"
+            },
+            "scheduled": "21:35",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "GENEVA"
+            },
+            "expected": "",
+            "flightcode": "ZRH 0008",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBVMX"
+            },
+            "scheduled": "22:42",
+            "status": ""
+        },
+        {
+            "airportinformation": {
+                "airport_city": "GENEVA"
+            },
+            "expected": "",
+            "flightcode": "ZRH 0008",
+            "masterflight": {
+                "aircrafttype": "",
+                "registration": "HBVMX"
+            },
+            "scheduled": "22:42",
+            "status": ""
+        }
+    ]
+}
