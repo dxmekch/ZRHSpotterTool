@@ -37,8 +37,8 @@ python3 sort-flights.py -a "$path_tables/timetable.arrival.standard.json" -b "$p
 python3 sort-flights.py -a "$path_tables/timetable.departure.tom.standard.json" -b "$path_tables/timetable.departure.tom.spotter.json" -o "$path_tables/timetable.zrh.tom.departure.json"
 
 
-# send via custom telegram script
-python3 print-table.py -i "$path_tables/timetable.arrival.special.json" -t "Zurich Airport ZRH - Arrivals (specials)" | telegram-bot -u $telegram_user --stdin
-python3 print-table.py -i "$path_tables/timetable.departure.special.json" -t "Zurich Airport ZRH - Departure (specials)" | telegram-bot -u $telegram_user --stdin
+# send via custom telegram script - OPT IN for use
+# python3 print-table.py -i "$path_tables/timetable.zrh.arrival.json" -t "Zurich Airport ZRH - Arrivals (specials)" | telegram-bot -u $telegram_user --stdin
+# python3 print-table.py -i "$path_tables/timetable.zrh.departure.json" -t "Zurich Airport ZRH - Departure (specials)" | telegram-bot -u $telegram_user --stdin
 
 
