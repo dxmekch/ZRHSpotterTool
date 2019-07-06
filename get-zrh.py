@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 27 10:33:29 2019
@@ -106,23 +107,23 @@ def main():
             if(opts.std):
                 if(opts.arr):
                     print('[+] downloading (standard) (arrivals)  (tomorrow) ...')
-                    arrival_standard_tomorrow    = zrh.fetch('Arrival', spotter=False, tomorrow=False)
+                    arrival_standard_tomorrow    = zrh.fetch('Arrival', spotter=False, tomorrow=True)
                     dump_to_json_file(arrival_standard_tomorrow,    outdir + 'timetable.arrival.tom.standard.json')
                 if(opts.dep):
                     print('[+] downloading (standard) (departures) (tomorrow) ...')
-                    departures_standard_tomorrow = zrh.fetch('Departure', spotter=False, tomorrow=False)
+                    departures_standard_tomorrow = zrh.fetch('Departure', spotter=False, tomorrow=True)
                     dump_to_json_file(departures_standard_tomorrow, outdir + 'timetable.departure.tom.standard.json')
             if(opts.spt):
                 if(opts.arr):
                     print('[+] downloading (spotter)  (arrivals)  (tomorrow) ...')
-                    arrival_spotter_tomorrow     = zrh.fetch('Arrival', spotter=True, tomorrow=False)
+                    arrival_spotter_tomorrow     = zrh.fetch('Arrival', spotter=True, tomorrow=True)
                     dump_to_json_file(arrival_spotter_tomorrow,     outdir + 'timetable.arrival.tom.spotter.json')
                 if(opts.dep):
                     print('[+] downloading (spotter)  (departures) (tomorrow) ...')
-                    departures_spotter_tomorrow  = zrh.fetch('Departure', spotter=True, tomorrow=False)
+                    departures_spotter_tomorrow  = zrh.fetch('Departure', spotter=True, tomorrow=True)
                     dump_to_json_file(departures_spotter_tomorrow,  outdir + 'timetable.departure.tom.spotter.json')
         
-        print('[+] done!')
+        print('[+] fetching done!')
     # enables abortion of the program through CTRL + C
     except KeyboardInterrupt:
         print('')

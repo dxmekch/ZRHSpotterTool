@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
 Created on Sat Jun 29 11:50:40 2019
@@ -24,7 +25,7 @@ parser.add_option('-d', '--dict',             dest='dict',    type='string', hel
 path_prefix = './timetables/'
 path_standard = path_prefix + 'timetable.arrival.standard.json'
 path_spotter  = path_prefix + 'timetable.arrival.spotter.json'
-path_special  = path_prefix + 'timetable.arrival.special.json'
+path_special  = path_prefix + 'timetable.zrh.arrival.json'  # for the special flights
 path_dict     = './dict.json'
 
 # check if input files is given and exists
@@ -89,7 +90,7 @@ def main():
             table_special['timetable'].append(entry.raw)
         
         dump_to_json_file(table_special, path_special)
-        print('[+] done!')
+        print('[+] sorting done!')
         
     # enables abortion of the program through CTRL + C
     except KeyboardInterrupt:

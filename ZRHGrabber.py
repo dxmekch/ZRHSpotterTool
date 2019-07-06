@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 # -*- coding: utf-8 -*-
 """
 Created on Thu Jun 27 10:47:03 2019
@@ -139,7 +140,7 @@ class ZRHGrabber:
                 
                 page_n = page_n + 1
                 
-                if(page_n > 20):
+                if(page_n > 40):  # stop at 40+ requests
                     print('RunawayError: Too many pages requested. Aborting possible infinite loop')
                     last_flight_fetched = True
                     
