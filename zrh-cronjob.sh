@@ -5,8 +5,7 @@ path="/home/$user/workspace/ZRHSpotterTool"
 path_tables="$path/timetables"
 telegram_user="@dxmekch"
 
-# pwd
-
+# Move to directory $path
 cd $path
 
 # Delete the last downloads except the sorted files
