@@ -9,9 +9,7 @@ telegram_user="@dxmekch"
 
 cd $path
 
-# rm "$path_tables/timetable.arrival.special.json" > /dev/null 2>&1
-# rm "$path_tables/timetable.departure.special.json" > /dev/null 2>&1
-
+# Delete the last downloads except the sorted files
 rm "$path_tables/timetable.arrival.spotter.json" > /dev/null 2>&1
 rm "$path_tables/timetable.arrival.standard.json" > /dev/null 2>&1
 rm "$path_tables/timetable.arrival.tom.spotter.json" > /dev/null 2>&1
