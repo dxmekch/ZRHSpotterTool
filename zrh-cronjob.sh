@@ -1,6 +1,7 @@
 #!/bin/bash
 
-path="/home/user/ZRHSpotterTool"
+user="YourUsername"
+path="/home/$user/workspace/ZRHSpotterTool"
 path_tables="$path/timetables"
 telegram_user="@dxmekch"
 
