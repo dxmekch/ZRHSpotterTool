@@ -92,7 +92,7 @@ class ZRHGrabber:
         date_today = datetime.now().strftime('%Y-%m-%d')
         if(tomorrow==True):
             date_today = (datetime.now() + timedelta(days=1) ).strftime('%Y-%m-%d')
-        utc_time = (datetime.now() - timedelta(minutes = self.UTC_correction*60) ).strftime('%H:00:00')
+        utc_time = datetime.now().strftime('02:00:00')
         page_n = 0
         search_term = ''
         if(spotter==True):
