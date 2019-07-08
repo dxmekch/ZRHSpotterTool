@@ -30,7 +30,7 @@ rm "$path_tables/timetable.zrh.tom.departure.json" > /dev/null 2>&1
 # Sort the new files
 python3 sort-flights.py -a "$path_tables/timetable.arrival.standard.json" -b "$path_tables/timetable.arrival.spotter.json" -o "$path_tables/timetable.zrh.arrival.json"
 python3 sort-flights.py -a "$path_tables/timetable.departure.standard.json" -b "$path_tables/timetable.departure.spotter.json" -o "$path_tables/timetable.zrh.departure.json"
-python3 sort-flights.py -a "$path_tables/timetable.arrival.standard.json" -b "$path_tables/timetable.arrival.tom.spotter.json" -o "$path_tables/timetable.zrh.tom.arrival.json"
+python3 sort-flights.py -a "$path_tables/timetable.arrival.tom.standard.json" -b "$path_tables/timetable.arrival.tom.spotter.json" -o "$path_tables/timetable.zrh.tom.arrival.json"
 python3 sort-flights.py -a "$path_tables/timetable.departure.tom.standard.json" -b "$path_tables/timetable.departure.tom.spotter.json" -o "$path_tables/timetable.zrh.tom.departure.json"
 
 
