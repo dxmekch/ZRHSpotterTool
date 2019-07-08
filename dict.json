@@ -2111,6 +2111,18 @@
 		"information": "GRZESKI"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "SPLNN",
+		"information": "AZUL HYBRID"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLNO",
+		"information": "SARATOV HYBRID"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "SPLVD",
