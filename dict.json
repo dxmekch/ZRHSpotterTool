@@ -826,7 +826,13 @@
 		"information" : "PRIVILEGE STYLE"
       }
     },
-	 	{
+	 {
+      "masterflight": {
+        "registration": "ECIJN",
+		"information" : "CANTABRIA"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "ECISY",
 		"information" : "PRIVILEGE STYLE"
