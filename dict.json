@@ -1978,6 +1978,12 @@
 		"information": "DANISH AIR TRANSPORT"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "PHBXK",
+		"information": "100 YEARS"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "PHBXO",
@@ -2129,6 +2135,12 @@
       }
     },
 	{
+      "masterflight": {
+        "registration": "SPLWE",
+		"information": "NEW GEN"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "SXATF",
 		"information": "GAINJET"
