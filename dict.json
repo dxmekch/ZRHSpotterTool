@@ -334,13 +334,7 @@
         "information": "EXPO GREEN"
       }
     },	
-	         	{
-      "masterflight": {
-        "registration": "A6EUV",
-        "information": "100TH A380 / ZAYED"
-      }
-    },
-   		  {
+	     		  {
       "masterflight": {
         "registration": "A6EYE",
         "information": "MANCHESTER CITY"
@@ -463,7 +457,7 @@
 	  {
       "masterflight": {
         "registration": "B6075",
-		"information" : "ZIJIN HAO"
+		"information" : "STAR ALLIANCE"
       }
     },
     {
@@ -508,13 +502,7 @@
 		"information" : "STAR ALLIANCE"
       }
     },
-        {
-      "masterflight": {
-        "registration": "CNRGF",
-	      "information" : "WINGS OF AFRICAN ART (SAIDOU DICKO)"
-      }
-    },
-    {
+           {
       "masterflight": {
         "registration": "CNRGG",
 	      "information" : "WINGS OF AFRICAN ART (SARA OUHADDOU)"
@@ -832,7 +820,7 @@
 		"information" : "CANTABRIA"
       }
     },
-	{
+	  {
       "masterflight": {
         "registration": "ECISY",
 		"information" : "PRIVILEGE STYLE"
@@ -1984,6 +1972,12 @@
 		"information": "DANISH AIR TRANSPORT"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "PHBXK",
+		"information": "100 YEARS"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "PHBXO",
@@ -2135,6 +2129,12 @@
       }
     },
 	{
+      "masterflight": {
+        "registration": "SPLWE",
+		"information": "NEW GEN"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "SXATF",
 		"information": "GAINJET"
