@@ -94,7 +94,10 @@ Python 3
 ```bash
 sudo apt install python3-bs4
 ```
-
+or
+```bash
+pip install bs4
+```
 
 ---
 
