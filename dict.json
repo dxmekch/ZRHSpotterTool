@@ -1,0 +1,2582 @@
+{
+  "timetable": [
+  {
+      "masterflight": {
+        "registration": "4XEKU",
+        "information": "BASIC UP! C/S"
+      }
+},
+	{
+      "masterflight": {
+        "registration": "9ABTD",
+        "information": "TRADE AIR"
+      }
+},  {  "masterflight": {
+        "registration": "9ABTE",
+        "information": "TRADE AIR"
+      }
+},
+	  {"masterflight": {
+        "registration": "9ABTG",
+        "information": "TRADE AIR"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "9HAEI",
+        "information": "RETRO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "9HAEJ",
+        "information": "HYBRID C/S"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "9HAEO",
+        "information": "LA VALETTA"
+      }
+    },
+     {  "masterflight": {
+        "registration": "9HAGJ",
+        "information": "HI FLY MALTA"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HAGK",
+        "information": "HI FLY MALTA"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "9HAHA",
+        "information": "AIR X CHARTER"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "9HAHR",
+        "information": "HYBRID C/S"
+      }
+    },
+     	 {
+      "masterflight": {
+        "registration": "9HAJW",
+        "information": "MALETH-AERO"
+      }
+    },	
+	  {
+      "masterflight": {
+        "registration": "9HBIG",
+        "information": "AIR X CHARTER"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "9HBRE",
+        "information": "MALETH-AERO"
+      }
+    },	
+	  {  "masterflight": {
+        "registration": "9HFOX",
+        "information": "HI FLY MALTA"
+      }
+},
+	{  "masterflight": {
+        "registration": "9HGTC",
+        "information": "AIR HORIZONT"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HHUE",
+        "information": "AIR HORIZONT"
+      }
+},
+	  {  "masterflight": {
+        "registration": "9HJAI",
+        "information": "HI FLY MALTA"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "9HMAC",
+        "information": "MALETH-AERO"
+      }
+    },	
+	{  "masterflight": {
+        "registration": "9HMPW",
+        "information": "AIR HORIZONT"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "9HMTF",
+        "information": "MALETH-AERO"
+      }
+    },	
+	{
+      "masterflight": {
+        "registration": "9HNEO",
+        "information": "NICKELODEON"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "9HOME",
+        "information": "AIR X CHARTER"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "9HPAM",
+        "information": "MALETH-AERO"
+      }
+    },	
+	 {
+      "masterflight": {
+        "registration": "9HPGS",
+        "information": "MALETH-AERO"
+      }
+    },	
+	  {  "masterflight": {
+        "registration": "9HSOL",
+        "information": "HI FLY MALTA"
+      }
+},
+	 {  "masterflight": {
+        "registration": "9HSUN",
+        "information": "HI FLY MALTA"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "9HYES",
+        "information": "AIR X CHARTER"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "9HZAK",
+        "information": "MALETH-AERO"
+      }
+    },	
+	 {  "masterflight": {
+        "registration": "9HZAZ",
+        "information": "AIR HORIZONT"
+      }
+},	
+	  {
+      "masterflight": {
+        "registration": "A6AFA",
+        "information": "VISIT ABU DHABI"
+      }
+		  },
+   {
+      "masterflight": {
+        "registration": "A6BLG",
+        "information": "SPECIAL OLYMPICS WORLD GAMES"
+      }		  
+    }, {
+      "masterflight": {
+        "registration": "A6BLV",
+        "information": "FORMULA 1"
+      }		  
+    },
+       	  {
+      "masterflight": {
+        "registration": "A6EEA",
+        "information": "EXPO ORANGE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EEB",
+        "information": "ARSENAL"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EEQ",
+        "information": "UNITED FOR WILDLIFE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "A6EER",
+        "information": "UNITED FOR WILDLIFE"
+      }
+    },
+           {
+      "masterflight": {
+        "registration": "A6EEU",
+        "information": "RUGBY WORLD CUP"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A6EEV",
+        "information": "50 YEARS DUBAI RUGBY"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EEW",
+        "information": "EXPO GREEN"
+      }
+    },
+       {
+      "masterflight": {
+        "registration": "A6EEY",
+        "information": "EXPO ORANGE"
+      }
+       },
+	{
+      "masterflight": {
+        "registration": "A6EEZ",
+        "information": "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EOA",
+        "information": "EXPO ORANGE"
+      }
+}, 
+	  {
+      "masterflight": {
+        "registration": "A6EOB",
+        "information": "EXPO ORANGE"
+      }
+       },
+	  {
+      "masterflight": {
+        "registration": "A6EOC",
+        "information": "EXPO BLUE"
+      }
+}, 
+	 {
+      "masterflight": {
+        "registration": "A6EOD",
+        "information": "EXPO BLUE"
+      }
+}, 
+	 {
+      "masterflight": {
+        "registration": "A6EOE",
+        "information": "EXPO ORANGE"
+      }
+}, 
+	 {
+      "masterflight": {
+        "registration": "A6EOF",
+        "information": "EXPO BLAU"
+      }
+}, 
+	  {
+      "masterflight": {
+        "registration": "A6EOH",
+        "information": "CRICKET WORLD CUP"
+      }
+}, 
+	  	    {
+      "masterflight": {
+        "registration": "A6EOJ",
+        "information": "EXPO GREEN"
+      }
+    },
+{
+      "masterflight": {
+        "registration": "A6EOL",
+        "information": "EXPO GREEN"
+      }
+    },
+{
+      "masterflight": {
+        "registration": "A6EOK",
+        "information": "EXPO GREEN"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EOM",
+        "information": "UNITED FOR WILDLIFE"
+      }
+    },
+    	 {
+      "masterflight": {
+        "registration": "A6EON",
+        "information": "EXPO GREEN"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A6EOS",
+        "information": "EXPO BLUE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EOT",
+        "information": "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EOU",
+        "information": "EXPO ORANGE"
+      }
+    },	
+	 {
+      "masterflight": {
+        "registration": "A6EOV",
+        "information": "EXPO ORANGE"
+      }
+    },	
+	  {
+      "masterflight": {
+        "registration": "A6EOW",
+        "information": "EXPO GREEN"
+      }
+    },	
+	     		  {
+      "masterflight": {
+        "registration": "A6EYE",
+        "information": "MANCHESTER CITY"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "A7ALZ",
+		"information" : "ONEWORLD"
+      }
+    },
+	     {
+      "masterflight": {
+        "registration": "A7AAG",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7AAH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HBJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHE",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHF",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7HHH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HHK",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    }, 
+	   {
+      "masterflight": {
+        "registration": "A7HHM",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7HJJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A7HSJ",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7MBK",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "B1343",
+		"information" : "KUNG FU PANDA (GOLD)"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "A7MED",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7MHH",
+        "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "B1540",
+		"information" : "KUNG FU PANDA"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "B5923",
+		"information" : "WULIANGYE"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "B5929",
+		"information" : "WULIANGYE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "B6075",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6076",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6091",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6093",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "B6998",
+		"information" : "KUNG FU PANDA (RED)"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "B7302",
+		"information" : "KUNG FU PANDA (YELLOW)"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "BKPB",
+		"information" : "SPIRIT OF HONG KONG"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CGHLM",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+           {
+      "masterflight": {
+        "registration": "CNRGG",
+	      "information" : "WINGS OF AFRICAN ART (SARA OUHADDOU)"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGH",
+	      "information" : "WINGS OF AFRICAN ART (MBOKO LAGRIFFE)"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGN",
+	      "information" : "50TH B737"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "CNRGV",
+	      "information" : "60 YEARS"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "CSTFM",
+	      "information" : "EUROATLANTIC AIRWAYS"
+      }
+},
+	{
+      "masterflight": {
+        "registration": "CSTFU",
+	      "information" : "WHITE"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTFW",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTFX",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTFZ",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTKR",
+	      "information" : "EUROATLANTIC AIRWAYS"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTKS",
+	      "information" : "EUROATLANTIC AIRWAYS"
+      }
+},
+{
+      "masterflight": {
+        "registration": "CSTKT",
+	      "information" : "EUROATLANTIC AIRWAYS"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTNP",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+  {
+      "masterflight": {
+        "registration": "CSTKW",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTQJ",
+	      "information" : "WHITE"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQP",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTQU",
+	      "information" : "EUROATLANTIC AIRWAYS"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQW",
+	      "information" : "HI FLY"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQY",
+	      "information" : "HI FLY"
+      }
+},
+	 {
+      "masterflight": {
+        "registration": "CSTQZ",
+	      "information" : "HI FLY"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "CSTRO",
+	      "information" : "WHITE"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "DABDP",
+	      "information" : "CROATIA"
+      }
+      },
+    {
+      "masterflight": {
+        "registration": "DABDQ",
+	      "information" : "EUROPAPARK RUST"
+      }
+        },
+          {
+      "masterflight": {
+        "registration": "DABDU",
+	      "information" : "100 YEARS HERTZ"
+      }
+            },
+    {
+      "masterflight": {
+        "registration": "DAEWK",
+	      "information" : "KVARNER"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAEWM",
+	      "information" : "BOOMERANG CLUB"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAEWS",
+	      "information" : "AVIS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAGER",
+	      "information" : "30 YEARS"
+      }
+    },
+        {
+      "masterflight": {
+        "registration": "DAIDV",
+	      "information" : "RETRO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAILF",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAILU",
+	      "information" : "LU"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINA",
+	      "information" : " NEO SPECIAL TITLES "
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINB",
+	      "information" : " NEO SPECIAL TITLES "
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAINC",
+	      "information" : " NEO SPECIAL TITLES "
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIND",
+	      "information" : "NEO SPECIAL TITLES"
+      }
+	    },
+	  	  {
+      "masterflight": {
+        "registration": "DAIPC",
+	      "information" : " STAR ALLIANCE "
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIPD",
+	      "information" : " STAR ALLIANCE "
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIRW",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "DAIRY",
+	      "information" : "DIE MAUS"
+      }
+    },
+	  	  {
+      "masterflight": {
+        "registration": "DAIZG",
+        "information": "SAY YES TO EUROPE"
+      }
+    },     
+    	    {
+      "masterflight": {
+        "registration": "DAIZH",
+        "information": "STAR ALLIANCE"
+      }
+    },     	  
+	  {
+      "masterflight": {
+        "registration": "DAIZR",
+        "information": "BVB MANNSCHAFTSAIRBUS"
+      }
+    },     
+	         {
+      "masterflight": {
+        "registration": "DAMGL",
+        "information": "WDL AVIATION"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "DASPC",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "DASPD",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DASPE",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "DASPF",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+{
+      "masterflight": {
+        "registration": "DASPI",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DASTT",
+	      "information" : "ZYPERN"
+      }
+    },
+   	  {
+      "masterflight": {
+        "registration": "DAWUE",
+        "information": "WDL AVIATION"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAZFR",
+        "information": "WDL AVIATION"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ECHDS",
+		"information" : "PRIVILEGE STYLE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "ECIJN",
+		"information" : "CANTABRIA"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ECISY",
+		"information" : "PRIVILEGE STYLE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ECLZO",
+		"information" : "PRIVILEGE STYLE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ECMQH",
+		"information" : "GOWAIR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECKHM",
+        "information": "ONEWORLD"
+      }
+       },
+    	  {
+      "masterflight": {
+        "registration": "ECMLE",
+        "information": "DISNEYLAND"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ECMNZ",
+        "information": "LOVE BARCELONA"
+      }
+    },
+    	{
+      "masterflight": {
+        "registration": "ECMUA",
+		"information" : "PRIVILEGE STYLE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ECMYC",
+        "information": "DISNEYLAND MARVEL"
+      }
+},
+	{
+      "masterflight": {
+        "registration": "ECNAJ",
+        "information": "WE LOVE PLACES"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "EIDEI",
+        "information": "IRISH RUGBY TEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDEO",
+        "information": "IRISH RUGBY TEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDSM",
+        "information": "CALABRIA"
+	      }
+    },
+       {
+      "masterflight": {
+        "registration": "EIDTJ",
+        "information": "EMPLOYEE SIGNATURES"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIDVM",
+        "information": "RETRO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "EIRND",
+        "information": "SKYTEAM"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "ESSAK",
+        "information": "SMARTLYNX"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "ESSAM",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAN",
+        "information": "SMARTLYNX"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "ESSAO",
+        "information": "SMARTLYNX"
+      }
+    },
+	 	  {
+      "masterflight": {
+        "registration": "ESSAP",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAQ",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAS",
+        "information": "SMARTLYNX"
+      }	
+    },
+	  {
+      "masterflight": {
+        "registration": "ESSAV",
+        "information": "SMARTLYNX"
+      }	
+    },
+	  {
+      "masterflight": {
+        "registration": "ESZGI",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "FGKXI",
+        "information": "PARIS CANDIDATUR OLYMPIA 2024"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGKXJ",
+        "information": "PARIS CANDIDATUR OLYMPIA 2024"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGKXS",
+        "information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGRXL",
+        "information": "PARIS CANDIDATUR OLYMPIA 2024"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FGTAE",
+        "information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "FHBAL",
+        "information": "BASIC AIGLE AZUR C/S"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "FHBIS",
+        "information": "BASIC AIGLE AZUR C/S"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "FHEPI",
+        "information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEJAR",
+        "information": "UNICEF"
+      }
+    },
+           {
+      "masterflight": {
+        "registration": "GEUNB",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GEUPJ",
+        "information": "RETRO"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GEZBF",
+		"information": "EX TARTAN (ORANGE AERA)"
+      }
+},
+	  {
+      "masterflight": {
+        "registration": "GEZBG",
+        "information": "HAMBURG"
+      }
+    },
+        	{
+      "masterflight": {
+        "registration": "GEZDN",
+        "information": "AMSTERDAM"
+      }
+    },
+	     {
+      "masterflight": {
+        "registration": "GEZEH",
+        "information": "HYBRID C/S"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GEZEN",
+        "information": "Hybrid C/S"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GEZEZ",
+        "information": "NAPOLI"
+      }
+    },
+          {
+      "masterflight": {
+        "registration": "GEZIO",
+        "information": "UNICEF"
+      }
+    },
+       {
+      "masterflight": {
+        "registration": "GEZPD",
+        "information": "EUROPCAR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "GEZUA",
+        "information": "TEST PAINTING SHEME"
+      }
+    },
+       	 {
+      "masterflight": {
+        "registration": "GILLR",
+        "information": "CELLO AVIATION"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GJOTR",
+        "information": "JOTA AVIATION"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GLCYN",
+        "information": "700TH E-JET"
+	  }
+          },
+	 {
+      "masterflight": {
+        "registration": "GMISG",
+        "information": "CELLO AVIATION"
+      }
+    },
+	 	 {
+      "masterflight": {
+        "registration": "GPOWC",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWD",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWH",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWK",
+        "information": "TITAN AIRWAYS"
+      }
+    }, 
+	{
+      "masterflight": {
+        "registration": "GPOWM",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GPOWN",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWP",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWS",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GPOWT",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWU",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GPOWV",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GSMLA",
+        "information": "JOTA AVIATION"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GUZHA",
+"information": "NEO" 
+      }
+    },
+   {
+      "masterflight": {
+        "registration": "GUZHB",
+"information": "NEO" 
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GUZHC",
+"information": "NEO" 
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GUZHD",
+"information": "NEO" 
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "GUZHE",
+"information": "NEO" 
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "GUZHF",
+"information": "NEO" 
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "GZAPX",
+        "information": "TITAN AIRWAYS"
+      }
+    },
+	  	  {
+      "masterflight": {
+        "registration": "HBJCA",
+        "information": "FETE DES VIGNERONS 2019"
+      }
+    },
+	  	  {
+      "masterflight": {
+        "registration": "HL7783",
+		"information": "SKYTEAM"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "HL8009",
+		"information": "50 YEARS"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HL8212",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HL8274",
+		"information": "CHILDREN'S DRAWING CONTEST"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "HZSKY2",
+		"information" : "SKY PRIME AVIATION"
+      }
+    },    
+	  {
+      "masterflight": {
+        "registration": "IADJS",
+		"information": "25TH ANNIVERSARY"
+      }
+    },
+	    {
+      "masterflight": {
+        "registration": "IADJV",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "JYAYP",
+		"information": "ONEWORLD"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "LNRRE",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "LNRRL",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "LNRRW",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "LYBBC",
+		"information": "GRAND CRU AIRLINES"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "LYCGC",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYCOB",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYCOM",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYEEL",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELF",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYELK",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYEMU",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYEWE",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYFOX",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+		 {
+      "masterflight": {
+        "registration": "LYGGC",
+		"information": "GRAND CRU AIRLINES"
+      }
+		 },
+	  {
+      "masterflight": {
+        "registration": "LYGTW",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYLGC",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYKEA",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYKIT",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LYLCG",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYMGC",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYNVQ",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYNVR",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVS",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVT",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYNVU",
+		"information": "AVION EXPRESS"
+      }
+	   	    },
+	  {
+      "masterflight": {
+        "registration": "LYNVV",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVW",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYNVY",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYNVZ",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYOWL",
+		"information": "GETJET AIRLINES"
+      }
+	    },	
+	  {
+      "masterflight": {
+        "registration": "LYPGC",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 	  {
+      "masterflight": {
+        "registration": "LYSPC",
+		"information": "GETJET AIRLINES"
+      }
+	    },
+	 	{
+      "masterflight": {
+        "registration": "LYSPI",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "LYVEA",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYVEB",
+		"information": "AVION EXPRESS"
+      }
+	    },
+    	 {
+      "masterflight": {
+        "registration": "LYVEC",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVED",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEF",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYVEG",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEH",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LYVEI",
+		"information": " AVION EXPRESS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "LYVEL",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LYVEN",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVEQ",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVET",
+		"information": "AVION EXPRESS"
+      }
+	    	    },
+	  {
+      "masterflight": {
+        "registration": "LYVEV",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LYVEW",
+		"information": "AVION EXPRESS"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZAOA",
+		"information": "BULGARIAN EAGLE"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZAOC",
+		"information": "BULGARIAN EAGLE"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZBOO",
+		"information": "BUL AIR"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZBOT",
+		"information": "BUL AIR"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZBVL",
+		"information": "BUL AIR"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LZBVM",
+		"information": "BUL AIR"
+      }
+	    },
+	   {
+      "masterflight": {
+        "registration": "LZBVN",
+		"information": "BUL AIR"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZBVR",
+		"information": "BUL AIR"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAA",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLAB",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLAC",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAD",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAE",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "LZLAF",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDJ",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDK",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDM",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDN",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDP",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDS",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDT",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDU",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	{
+      "masterflight": {
+        "registration": "LZLDW",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "LZLDY",
+		"information": "BULGARIAN AIR CHARTER"
+      }
+	    },
+	  {
+      "masterflight": {
+        "registration": "N16065",
+		"information": "ATLANTA AMBASSADOR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N175DZ",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N343AN",
+		"information": "ONEWORLD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N653UA",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N76055",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N841MH",
+		"information": "REPLAY FOR LIFE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N844MH",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "N845MH",
+		"information": "BREAST CANCER RESEARCH FOUNDATION"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OEICF",
+        "information": "BORDEAUX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OEIJB",
+        "information": "250TH AIRCRAFT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OEINQ",
+        "information": "20 YEARS"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OEIQD",
+        "information": "EUROWINGS HOLIDAYS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OEIVA",
+		"information": "AUSTRIA"
+      }
+    },
+   {
+      "masterflight": {
+        "registration": "OEIVK",
+        "information": "NANTES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OEIVV",
+        "information": "EUROPCAR"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OEIZQ",
+		"information": "BERLIN"
+      }
+    },
+        {
+      "masterflight": {
+        "registration": "OELBO",
+		"information": "RETRO"
+      }
+    },
+	     {
+      "masterflight": {
+        "registration": "OELBZ",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    	  {
+      "masterflight": {
+        "registration": "OELQY",
+		"information": "EUROPCAR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OELKF",
+	  "information": "VENEZIA"    
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OELMK",
+	  "information": "PEOPLE'S VIENNALINE"    
+      }
+    },   
+	 {
+      "masterflight": {
+        "registration": "OELTK",
+	  "information": "PEOPLE'S VIENNALINE"    
+      }
+    },   
+	  {
+      "masterflight": {
+        "registration": "OELWH",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLKN",
+		"information": "ONEWORLD"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "OHLVD",
+		"information": "ONEWORLD"
+      }
+    },
+    	 {
+      "masterflight": {
+        "registration": "OMFEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OMGTB",
+		"information": "GO2SKY"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMGTD",
+		"information": "GO2SKY"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMGTE",
+		"information": "GO2SKY"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMGTF",
+		"information": "GO2SKY"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMGEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMHEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMIEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OMJEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OMKEX",
+		"information": "AIREXPLORE"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "OOVLN",
+		"information": "VIZION AIR"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYJRK",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYJRZ",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYKBO",
+		"information": "RETRO"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "OYLHD",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUE",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUS",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYRUT",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OYRUU",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "OYRUZ",
+		"information": "DANISH AIR TRANSPORT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "PHBXK",
+		"information": "100 YEARS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "PHBXO",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHEZX",
+		"information": "SKYTEAM"
+      }
+    },
+          {
+      "masterflight": {
+        "registration": "PHHSI",
+		"information": "PETER PAN"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "PHHSR",
+		"information": "FLYDUBAI HYBRID"
+      }
+    },
+	    	  {
+      "masterflight": {
+        "registration": "S5AAV",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	    {
+      "masterflight": {
+        "registration": "SPHAB",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAC",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPHAD",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAG",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPHAH",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAI",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPHAU",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAV",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAX",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAY",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPHAZ",
+	      "information" : "SMALL PLANET AIRLINES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLDK",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SPLII",
+		"information": "600TH E-JET"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SPLIM",
+		"information": "RETRO"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLIO",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPLNB",
+		"information": "GRZESKI"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "SPLNN",
+		"information": "AZUL HYBRID"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLNO",
+		"information": "SARATOV HYBRID"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLVD",
+		"information": "100 YEARS OF INDEPENDENCE"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "SPLWE",
+		"information": "NEW GEN"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SXATF",
+		"information": "GAINJET"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SXDGC",
+		"information": "VISITGREECE.GR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDGD",
+		"information": "VISITGREECE.GR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDGI",
+		"information": "VISITGREECE.GR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVP",
+		"information": "DISCOVERGREECE.GR"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SXDVQ",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVU",
+		"information": "ACROPOLIS MUSEUM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "SXDVV",
+		"information": "ACROPOLIS MUSEUM"
+      }
+    },
+   {
+      "masterflight": {
+        "registration": "SXRFA",
+		"information": "GAINJET"
+      }
+    },
+	        {
+      "masterflight": {
+        "registration": "TCCPN",
+		"information": "ADA N."
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJHC",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJHE",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJIZ",
+		"information": "INVEST IN TURKEY"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "TCJLU",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCJNC",
+		"information": "RETRO"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "TCJOG",
+		"information": "YEAR OF TROY"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCJPF",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJPP",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJPS",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRA",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRB",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRG",
+		"information": "DISCOVER THE POTENTIAL"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRL",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCJRO",
+		"information": "EUROLEAGUE"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "TCJRP",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "TCJRS",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    	  {
+      "masterflight": {
+        "registration": "TCJSU",
+		"information": "LEGO"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "TCJTE",
+		"information": "30 YEARS MILES & SMILES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCLNB",
+		"information": "STAR ALLIANCE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCLNC",
+		"information": "300TH AIRCRAFT"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCODC",
+        "information": "GGMGASTRO.COM"
+      }
+    }, 
+	      {
+      "masterflight": {
+        "registration": "TCSNN",
+        "information": "PLAYSTATION"
+      }
+    },
+        {
+      "masterflight": {
+        "registration": "TCSNY",
+        "information": "PETER HASE"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TCSOR",
+        "information": "ASPENDOS 2019"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCTJJ",
+		"information": "DETUR"
+      }
+    },
+      {
+      "masterflight": {
+        "registration": "TFFIA",
+		"information": "NATIONAL TEAM TITLES "
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TFFIR",
+		"information": "80 YEARS"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TFFIU",
+		"information": "HEKLA AURORA"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "TFISX",
+        "information": "100 FULLVEDI ISLANDS"
+      }
+        },
+	  {
+      "masterflight": {
+        "registration": "TSIML",
+        "information": "CARTHAGE EAGLES"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TSIMP",
+        "information": "CARTHAGE EAGLES"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "TSIMW",
+        "information": "70 YEARS"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TSIOP",
+        "information": "RETRO"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "VPBDK",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBEE",
+        "information" : "95 YEARS"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBLP",
+        "information" : "SKYTEAM"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "VPBMB",
+		"information": "SKYTEAM"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBNT",
+		"information": "RETRO"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBTL",
+		"information": "MANCHESTER UNITED"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBWD",
+		"information": "CSKA MOSCOW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "VPBWE",
+		"information": "CSKA MOSCOW"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "YLBBN",
+		"information": "SOTCHI"
+      }
+	    },
+	 {
+      "masterflight": {
+        "registration": "YLCSJ",
+        "information": "ESTONIA"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLCSL",
+        "information": "LATVIA 100 YEARS"
+      }
+    },
+     {
+      "masterflight": {
+        "registration": "YLLCL",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCN",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCO",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCP",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCQ",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YLLCS",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCT",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCU",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCV",
+        "information": "SMARTLYNX"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "YLLCX",
+        "information": "SMARTLYNX"
+      }
+    },
+	{
+      "masterflight": {
+        "registration": "YLLCZ",
+        "information": "SMARTLYNX"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "YRFKA",
+        "information": "CARPATAIR"
+      }
+	    },
+    	 {
+      "masterflight": {
+        "registration": "YRFKB",
+        "information": "CARPATAIR"
+      }
+    },
+    {
+      "masterflight": {
+        "registration": "YRFZA",
+        "information": "CARPATAIR"
+      }
+     },
+ {
+      "masterflight": {
+        "registration": "YRSEA",
+        "information": "STAR EAST"
+      }
+     },
+	  {
+      "masterflight": {
+        "registration": "YRSEB",
+        "information": "STAR EAST"
+      }
+     },
+	  {
+      "masterflight": {
+        "registration": "YUAND",
+        "information": "AVIOLET"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANI",
+        "information": "AVIOLET"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANJ",
+        "information": "AVIOLET"
+      }
+  },
+	  {
+      "masterflight": {
+        "registration": "YUANK",
+        "information": "AVIOLET"
+      }
+    }
+  ]
+}
