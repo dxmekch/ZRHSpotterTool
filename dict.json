@@ -634,6 +634,12 @@
 	      "information" : "WHITE"
       }
 },
+	{
+      "masterflight": {
+        "registration": "CSTVF",
+	      "information" : "STAR ALLIANCE"
+      }
+      },
 	  {
       "masterflight": {
         "registration": "DABDP",
