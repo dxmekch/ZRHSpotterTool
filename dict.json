@@ -178,7 +178,14 @@
         "registration": "A6BLG",
         "information": "SPECIAL OLYMPICS WORLD GAMES"
       }		  
-    }, {
+    }, 
+	 {
+      "masterflight": {
+        "registration": "A6BLI",
+        "information": "ADMOC"
+      }		  
+    },
+	  {
       "masterflight": {
         "registration": "A6BLV",
         "information": "FORMULA 1"
