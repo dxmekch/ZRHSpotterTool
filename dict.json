@@ -2455,8 +2455,14 @@
     },
 	  {
       "masterflight": {
+        "registration": "YLCSK",
+        "information": "LITHUANIA"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "YLCSL",
-        "information": "LATVIA 100 YEARS"
+        "information": "LATVIA"
       }
     },
      {
