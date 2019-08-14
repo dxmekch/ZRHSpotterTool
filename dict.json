@@ -178,7 +178,14 @@
         "registration": "A6BLG",
         "information": "SPECIAL OLYMPICS WORLD GAMES"
       }		  
-    }, {
+    }, 
+	 {
+      "masterflight": {
+        "registration": "A6BLI",
+        "information": "ADMOC"
+      }		  
+    },
+	  {
       "masterflight": {
         "registration": "A6BLV",
         "information": "FORMULA 1"
@@ -190,13 +197,7 @@
         "information": "EXPO ORANGE"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "A6EEB",
-        "information": "ARSENAL"
-      }
-    },
-	  {
+	  	  {
       "masterflight": {
         "registration": "A6EEQ",
         "information": "UNITED FOR WILDLIFE"
@@ -634,6 +635,12 @@
 	      "information" : "WHITE"
       }
 },
+	{
+      "masterflight": {
+        "registration": "CSTVF",
+	      "information" : "STAR ALLIANCE"
+      }
+      },
 	  {
       "masterflight": {
         "registration": "DABDP",
@@ -742,13 +749,7 @@
 	      "information" : "DIE MAUS"
       }
     },
-	  	  {
-      "masterflight": {
-        "registration": "DAIZG",
-        "information": "SAY YES TO EUROPE"
-      }
-    },     
-    	    {
+	    	    {
       "masterflight": {
         "registration": "DAIZH",
         "information": "STAR ALLIANCE"
@@ -1259,6 +1260,12 @@
       }
     },
     {
+      "masterflight": {
+        "registration": "HL8346",
+		"information": "200TH BOEING STICKER"
+      }
+    },
+		  {
       "masterflight": {
         "registration": "HZSKY2",
 		"information" : "SKY PRIME AVIATION"
@@ -2454,8 +2461,14 @@
     },
 	  {
       "masterflight": {
+        "registration": "YLCSK",
+        "information": "LITHUANIA"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "YLCSL",
-        "information": "LATVIA 100 YEARS"
+        "information": "LATVIA"
       }
     },
      {
