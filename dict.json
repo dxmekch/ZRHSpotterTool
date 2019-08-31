@@ -1243,6 +1243,12 @@
     },
 	  {
       "masterflight": {
+        "registration": "HL8008",
+		"information": "50 YEARS"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "HL8009",
 		"information": "50 YEARS"
       }
