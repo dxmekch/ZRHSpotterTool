@@ -659,7 +659,13 @@
 	      "information" : "100 YEARS HERTZ"
       }
             },
-    {
+   {
+      "masterflight": {
+        "registration": "DABHC",
+	      "information" : "HOTELS BUCHEN FÜR ÜBERFLIEGER"
+      }
+            },
+	  {
       "masterflight": {
         "registration": "DAEWK",
 	      "information" : "KVARNER"
