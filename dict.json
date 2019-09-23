@@ -191,7 +191,13 @@
         "information": "FORMULA 1"
       }		  
     },
-       	  {
+       	 {
+      "masterflight": {
+        "registration": "A6BND",
+        "information": "MANCHESTER UNITED"
+      }		  
+    },
+	  {
       "masterflight": {
         "registration": "A6EEA",
         "information": "EXPO ORANGE"
