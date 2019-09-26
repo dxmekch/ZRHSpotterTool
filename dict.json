@@ -2363,7 +2363,13 @@
         "information": "PLAYSTATION"
       }
     },
-        {
+         {
+      "masterflight": {
+        "registration": "TCSNU",
+        "information": "SHAUN THE SHEEP"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCSNY",
         "information": "PETER HASE"
