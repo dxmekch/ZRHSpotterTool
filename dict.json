@@ -2357,7 +2357,13 @@
         "information": "GGMGASTRO.COM"
       }
     }, 
-	      {
+	  {
+      "masterflight": {
+        "registration": "TCODD",
+        "information": "GGMGASTRO.COM"
+      }
+    },    
+	  {
       "masterflight": {
         "registration": "TCSNN",
         "information": "PLAYSTATION"
