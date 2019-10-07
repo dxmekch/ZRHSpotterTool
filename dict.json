@@ -167,7 +167,13 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
-   {
+    {
+      "masterflight": {
+        "registration": "A6BLF",
+        "information": "CHOOSE CHINA"
+      }		  
+    }, 
+	  {
       "masterflight": {
         "registration": "A6BLG",
         "information": "SPECIAL OLYMPICS WORLD GAMES"
