@@ -2353,6 +2353,12 @@
     },
 	 {
       "masterflight": {
+        "registration": "TCJTK",
+		"information": "PINK CAP"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "TCJTR",
 		"information": "TEK FESTIVAL"
       }
