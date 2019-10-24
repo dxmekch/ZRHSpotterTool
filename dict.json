@@ -167,7 +167,19 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
+	   {
+      "masterflight": {
+        "registration": "A6BLC",
+        "information": "CHOOSE USA"
+      }		  
+    }, 
    {
+      "masterflight": {
+        "registration": "A6BLA",
+        "information": "CHOOSE SINGAPORE"
+      }		  
+    }, 
+	  {
       "masterflight": {
         "registration": "A6BLA",
         "information": "CHOOSE SINGAPORE"
