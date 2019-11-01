@@ -2155,6 +2155,12 @@
     },
 	 {
       "masterflight": {
+        "registration": "SPLNC",
+		"information": "SLIWKA NALECZOWSKA"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "SPLNN",
 		"information": "AZUL HYBRID"
       }
