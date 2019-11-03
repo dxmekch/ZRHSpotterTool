@@ -1,12 +1,6 @@
 {
   "timetable": [
-  {
-      "masterflight": {
-        "registration": "4XEKU",
-        "information": "BASIC UP! C/S"
-      }
-},
-	{
+  	{
       "masterflight": {
         "registration": "9ABTD",
         "information": "TRADE AIR"
