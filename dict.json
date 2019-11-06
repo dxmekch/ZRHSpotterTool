@@ -2405,7 +2405,13 @@
         "information": "PETER HASE"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "TCSOC",
+        "information": "30 YEARS"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCSOR",
         "information": "ASPENDOS 2019"
