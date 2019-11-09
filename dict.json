@@ -175,6 +175,12 @@
     }, 
 	  {
       "masterflight": {
+        "registration": "A6BLE",
+        "information": "CHOOSE USA"
+      }		  
+    }, 
+	  {
+      "masterflight": {
         "registration": "A6BLF",
         "information": "CHOOSE CHINA"
       }		  
