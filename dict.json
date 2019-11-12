@@ -1109,7 +1109,13 @@
         "information": "UNICEF"
       }
     },
-       {
+      {
+      "masterflight": {
+        "registration": "GEZOA",
+        "information": "HOLIDAYS"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "GEZPD",
         "information": "EUROPCAR"
