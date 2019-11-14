@@ -781,6 +781,12 @@
     },     	  
 	  {
       "masterflight": {
+        "registration": "DAIZN",
+        "information": "STAR ALLIANCE"
+      }
+    },     	  
+	  {
+      "masterflight": {
         "registration": "DAIZR",
         "information": "BVB MANNSCHAFTSAIRBUS"
       }
