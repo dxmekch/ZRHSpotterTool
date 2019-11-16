@@ -215,6 +215,12 @@
         "information": "CHOOSE JAPAN"
       }		  
     },
+	{
+      "masterflight": {
+        "registration": "A6BLR",
+        "information": "CHOOSE SINGAPORE"
+      }		  
+    }, 
 	  {
       "masterflight": {
         "registration": "A6BLV",
@@ -1271,13 +1277,7 @@
         "information": "TITAN AIRWAYS"
       }
     },
-	  	  {
-      "masterflight": {
-        "registration": "HBJCA",
-        "information": "FETE DES VIGNERONS 2019"
-      }
-    },
-	  	  {
+	  	 	  	  {
       "masterflight": {
         "registration": "HL7783",
 		"information": "SKYTEAM"
