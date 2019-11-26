@@ -2531,7 +2531,13 @@
 		"information": "CSKA MOSCOW"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "VQBEJ",
+		"information": "CSKA MOSCOW"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "YLBBN",
 		"information": "SOTCHI"
