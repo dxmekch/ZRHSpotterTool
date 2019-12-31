@@ -751,6 +751,18 @@
     },
     {
       "masterflight": {
+        "registration": "DAILS",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "DAILT",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "DAILU",
 	      "information" : "LU"
       }
