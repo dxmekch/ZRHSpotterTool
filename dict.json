@@ -253,6 +253,30 @@
     },
 	  {
       "masterflight": {
+        "registration": "A6ECC",
+		"information" : "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6ECD",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A6ECQ",
+		"information" : "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6ECU",
+		"information" : "EXPP ORANGE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "A6EEA",
         "information": "EXPO ORANGE"
       }
@@ -288,6 +312,48 @@
       }
     },
 	 {
+      "masterflight": {
+        "registration": "A6EGB",
+		"information" : "EXPO BLUE"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A6ENB",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 	   {
+      "masterflight": {
+        "registration": "A6ENG",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6ENH",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6ENI",
+		"information" : "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6ENM",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A6ENR",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EOA",
         "information": "EXPO ORANGE"
@@ -383,13 +449,67 @@
         "information": "EXPO GREEN"
       }
     },	
-	     		  {
+	   {
       "masterflight": {
-        "registration": "A6EYE",
-        "information": "MANCHESTER CITY"
+        "registration": "A6EPB",
+		"information" : "EXPO ORANGE"
+      }
+    },   	
+	  {
+      "masterflight": {
+        "registration": "A6EPD",
+		"information" : "EXPO BLUE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EPE",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EPF",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EPI",
+		"information" : "EXPO GREEN"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EPK",
+		"information" : "EXPO BLUE"
       }
     },
 	{
+      "masterflight": {
+        "registration": "A6EPL",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EPO",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A6EPU",
+		"information" : "EXPO GREEN"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A6EQO",
+		"information" : "EXPO ORANGE"
+      }
+    },
+	  	  {
       "masterflight": {
         "registration": "A7ALZ",
 		"information" : "ONEWORLD"
@@ -405,6 +525,36 @@
       "masterflight": {
         "registration": "A7AAH",
         "information": "QATAR AMIRI FLIGHT"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A7BAA",
+		"information" : "ONEWORLD"
+      }
+    },
+		   {
+      "masterflight": {
+        "registration": "A7BAB",
+		"information" : "ONEWORLD"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "A7BAF",
+		"information" : "ONEWORLD"
+      }
+    },
+	   {
+      "masterflight": {
+        "registration": "A7BAG",
+		"information" : "ONEWORLD"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "A7BAX",
+		"information" : "FIFA WORLD CUP"
       }
     },
 	  {
