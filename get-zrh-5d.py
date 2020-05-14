@@ -38,7 +38,7 @@ JSON format kept from the old ZRH website's api
 #%%
 
 
-from ZRHGrabber import ZRHGrabber
+from ZRHGrabber-5d import ZRHGrabber-5d
 import json
 import os
 import optparse
