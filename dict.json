@@ -705,7 +705,19 @@
 		"information" : "SPIRIT OF HONG KONG"
       }
     },
-    {
+ {
+      "masterflight": {
+        "registration": "CCEGI",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "CCEGP",
+		"information" : "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "CGHLM",
 		"information" : "STAR ALLIANCE"
