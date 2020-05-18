@@ -75,7 +75,7 @@ elif(opts.timeoffs == 2):
     opts.timeoffs = 2
 elif(opts.timeoffs == 3):
     opts.timeoffs = 3
-elif(opts.timeoff) == 4):
+elif(opts.timeoffs == 4):
     opts.timeoffs = 4
 elif(opts.timeoffs == 5):
     opts.timeoffs = 5
