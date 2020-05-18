@@ -91,7 +91,7 @@ class ZRHGrabber:
         # set time - 'HH:MM:SS'   ---   GMT/UTC format ! -> Swiss time 06:00:00 would be 04:00:00
         date_today = datetime.now().strftime('%Y-%m-%d')
         if(tomorrow==True):
-            date_today = (datetime.now() + timedelta(days=str(opts.timeoffs)) + timedelta(hours=0) ).strftime('%Y-%m-%d')
+            date_today = (datetime.now() + timedelta(days=int(opts.timeoffs)) + timedelta(hours=0) ).strftime('%Y-%m-%d')
         utc_time = (datetime.now() - timedelta(minutes = self.UTC_correction*60) ).strftime('%H:00:00')
         if(tomorrow==True):
             utc_time = datetime.now().strftime('00:00:05')
