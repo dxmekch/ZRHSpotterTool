@@ -68,9 +68,18 @@ if(opts.arr == False and opts.dep == False):
     opts.dep = True
     
 if(int(opts.timeoffs) == 0):
-    int(opts.timeoffs) = 0
-else
-    int(opts.timeoffs) = ops.timeoffs
+    opts.timeoffs = 0
+elif(int(opts.timeoffs) == 1):
+    opts.timeoffs = 1
+elif(int(opts.timeoffs) == 2):
+    opts.timeoffs = 2
+elif(int(opts.timeoffs) == 3):
+    opts.timeoffs = 3
+elif(int(opts.timeoffs) == 4):
+    opts.timeoffs = 4
+elif(int(opts.timeoffs) == 5):
+    opts.timeoffs = 5
+ 
 
 # Writes a dict in json format to a file
 def dump_to_json_file(data, filename):
