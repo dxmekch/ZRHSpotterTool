@@ -38,6 +38,19 @@ class ZRHGrabber:
         self.url_base = url_base
         self.UTC_correction = 4.00
 
+if(int(opts.timeoffs) == 0):
+    opts.timeoffs = 0
+elif(int(opts.timeoffs) == 1):
+    opts.timeoffs = 1
+elif(int(opts.timeoffs) == 2):
+    opts.timeoffs = 2
+elif(int(opts.timeoffs) == 3):
+    opts.timeoffs = 3
+elif(int(opts.timeoffs) == 4):
+    opts.timeoffs = 4
+elif(int(opts.timeoffs) == 5):
+    opts.timeoffs = 5
+        
     def parse_table(self, flighttable):
         dict_flighttable = []
         try:
