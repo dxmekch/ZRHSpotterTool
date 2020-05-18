@@ -45,7 +45,7 @@ import optparse
 
 parser = optparse.OptionParser('get-zrh')
 parser.add_option('--today',    dest='today',    action='store_true', default=False, help='only fetch flights for today')
-parser.add_option('--tomorroy', dest='tomorrow', action='store_true', default=False, help='only fetch flights for tomorrow')
+parser.add_option('--tomorrow', dest='tomorrow', action='store_true', default=False, help='only fetch flights for tomorrow')
 parser.add_option('--standard', dest='std',      action='store_true', default=False, help='only fetch standard table')
 parser.add_option('--spotter',  dest='spt',      action='store_true', default=False, help='only fetch spotter table')
 parser.add_option('--arrivals',   dest='arr',    action='store_true', default=False, help='only fetch arrivals')
