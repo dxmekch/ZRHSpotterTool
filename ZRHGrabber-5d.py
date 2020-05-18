@@ -14,21 +14,21 @@ import requests
 # ToDo: Tested: headers seem to be not required
 # Edit: Seems to be required sometimes
 # Notice:
-# I tried to use the most recent headers with a super long Cookie string and a
+# I tried to use the most recent headers with a super long Cookie string and a 
 # few additional parameters. The request was rejected.
 # These Headers seem to still work fine.
 headers = { 'Host': 'www.zurich-airport.com',
-                'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
-                'Accept': '*/*',
-                'Accept-Language': 'en-US,en;q=0.5',
-                'Accept-Encoding': 'gzip, deflate, br',
-                'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
-                'X-Requested-With': 'XMLHttpRequest',
-                'Referer': 'https://www.zurich-airport.com/passengers-and-visitors/arrivals-and-departures/',
-                'Content-Length': '85',
-                'Cookie': 'sc_expview=0; website#lang=en; ASP.NET_SessionId=tewblvuqsehbozbq5yakat2n; __RequestVerificationToken=vIUKElZhB4SVQfWDXu2DyJAYluqyOAecVSwB5sDOniFyFMTvSZJnrZNudEVMbrRzvtLS1v2GurbyFTCScCMOME-ybd81; TS01cd1ab8=018735b6f7dff7a3e09286a67ae052f4e2011617ee8846a666a6630182514b91ee5552f129831d7f6267e740d9595f99ca9149393dae9ac848ae68b61d427320fffd9b5eb9890ba550276dd5bd9c357f6c979b7a89d7ebac45ad4fe23564114c99cdab08f117858652ebe1195e659af262baa071e0bbd6fc395fb0b81a1ebd6bfe2799de00bde795de96bab4b0a8b52993ab0995a2',
-                'DNT': '1',
-                'Connection': 'keep-alive' }
+		'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64; rv:52.0) Gecko/20100101 Firefox/52.0',
+		'Accept': '*/*',
+		'Accept-Language': 'en-US,en;q=0.5',
+		'Accept-Encoding': 'gzip, deflate, br',
+		'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8',
+		'X-Requested-With': 'XMLHttpRequest',
+		'Referer': 'https://www.zurich-airport.com/passengers-and-visitors/arrivals-and-departures/',
+		'Content-Length': '85',
+		'Cookie': 'sc_expview=0; website#lang=en; ASP.NET_SessionId=tewblvuqsehbozbq5yakat2n; __RequestVerificationToken=vIUKElZhB4SVQfWDXu2DyJAYluqyOAecVSwB5sDOniFyFMTvSZJnrZNudEVMbrRzvtLS1v2GurbyFTCScCMOME-ybd81; TS01cd1ab8=018735b6f7dff7a3e09286a67ae052f4e2011617ee8846a666a6630182514b91ee5552f129831d7f6267e740d9595f99ca9149393dae9ac848ae68b61d427320fffd9b5eb9890ba550276dd5bd9c357f6c979b7a89d7ebac45ad4fe23564114c99cdab08f117858652ebe1195e659af262baa071e0bbd6fc395fb0b81a1ebd6bfe2799de00bde795de96bab4b0a8b52993ab0995a2',
+		'DNT': '1',
+		'Connection': 'keep-alive' }
 
 url_base = 'https://www.zurich-airport.com/api/sitecore/FlightScheduleDetail/'
 
@@ -36,8 +36,8 @@ class ZRHGrabber:
     def __init__(self):
         self.hdr = headers
         self.url_base = url_base
-        self.UTC_correction = 4.00
-
+        self.UTC_correction = 2.00
+        
     def parse_table(self, flighttable):
         dict_flighttable = []
         try:
@@ -54,7 +54,7 @@ class ZRHGrabber:
                     f_status = flight.find('td', attrs={'class', 'status'}).text.replace('\n', '') # status information
                     f_airc = str( flight.find('a', attrs={'class', 'main-code'}).get('title') )
                     f_airc = f_airc.split('Typ')[1].strip().replace(':', '').replace('e ', '')
-
+                
                     entry = {}
                     entry['airportinformation'] = {}
                     entry['airportinformation']['airport_city'] = f_loc
@@ -66,7 +66,7 @@ class ZRHGrabber:
                     entry['scheduled'] = f_time
                     entry['expected'] = f_texp
                     entry['status'] = f_status
-
+                
                     dict_flighttable.append({})
                     index = len(dict_flighttable)-1
                     dict_flighttable[index] = entry
@@ -78,8 +78,8 @@ class ZRHGrabber:
             print('Error')
 
         return dict_flighttable
-
-
+                
+                
     def fetch(self, fetch_type='arrival', spotter=False, tomorrow=False):
         if(fetch_type in ['arrival', 'arr', 'arrivals', 'Arrival']):
             fetch_type = 'Arrival'
@@ -87,22 +87,22 @@ class ZRHGrabber:
             fetch_type = 'Departure'
         else:
             raise ValueError('Unknown fetch type [arrival, departure]: {}'.format(fetch_type))
-
+        
         # set time - 'HH:MM:SS'   ---   GMT/UTC format ! -> Swiss time 06:00:00 would be 04:00:00
         date_today = datetime.now().strftime('%Y-%m-%d')
         if(tomorrow==True):
-            date_today = (datetime.now() + timedelta(days=int(opts.timeoffs)) + timedelta(hours=0) ).strftime('%Y-%m-%d')
+            date_today = (datetime.now() + timedelta(days=1) ).strftime('%H:00:00')
         utc_time = (datetime.now() - timedelta(minutes = self.UTC_correction*60) ).strftime('%H:00:00')
-        if(tomorrow==True):
-            utc_time = datetime.now().strftime('00:00:05')
+	if(tomorrow==True):
+            utc_time = datetime.now().strftime('02:00:00')
         page_n = 0
         search_term = ''
         if(spotter==True):
             search_term = 'spotter'
-
+            
         dict_flighttable = {}
         dict_flighttable['timetable'] = []
-
+        
         # fetch every flight by scrolling through pages
         last_flight_fetched = False
         while(not last_flight_fetched):
@@ -112,14 +112,14 @@ class ZRHGrabber:
                                      'page' : str(page_n), \
                                      '__RequestVerificationToken' : ''})
             url = self.url_base + fetch_type + 'DetailData'
-
+            
             # send POST request and parse using LXML
             response = requests.post(url, data=body, headers=self.hdr)
             parsed_html = BeautifulSoup(response.text, 'lxml')
 
             # Chech if the website returns a "No Result Title" message when
             # the last page is reached.
-            # this is an odd behaviour since in the webbrowser there is no such
+            # this is an odd behaviour since in the webbrowser there is no such 
             # Error message but the last available flight(s)
             # The Arrival page returns "No Result Title" ...
             # The Departure page returns "No flights found" ...
@@ -128,29 +128,29 @@ class ZRHGrabber:
                 last_flight_fetched = True
             else:
                 flighttable = parsed_html.find('div', attrs={'class', 'desktop-only'})
-
+    
                 if (page_n > 0):
                     if(dict_flighttable['timetable'][-1]['flightcode'] in flighttable):
                         last_flight_fetched = True
                         print('last page reached')
                         print(dict_flighttable['timetable'][-1]['flightcode'])
-
+    
                 # TODO: merging of tables not working
                 table_to_add = self.parse_table(flighttable)
                 dict_flighttable['timetable'].extend(table_to_add)
-
-
+                
+                
                 page_n = page_n + 1
-
+                
                 if(page_n > 40):  # stop at 40+ requests
                     print('RunawayError: Too many pages requested. Aborting possible infinite loop')
                     last_flight_fetched = True
-
+                    
         return dict_flighttable
-
-
-
-
+        
+        
+        
+        
 
 """
 <tr>
