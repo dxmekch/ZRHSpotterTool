@@ -66,8 +66,9 @@ if(opts.std == False and opts.spt == False):
 if(opts.arr == False and opts.dep == False):
     opts.arr = True
     opts.dep = True
-
-opts.timeoffs = int(opts.timeoffs)
+    
+opts.timeoffs:
+  opts.timeoffs = int(opts.timeoffs)
 
 # Writes a dict in json format to a file
 def dump_to_json_file(data, filename):
