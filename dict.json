@@ -155,7 +155,12 @@
         "information": "AIR HORIZONT"
       }
 },	
-	 {  "masterflight": {
+	  {  "masterflight": {
+        "registration": "9VSMF",
+        "information": "10000TH AIRBUS AIRCRAFT"
+      }
+},	
+	  {  "masterflight": {
         "registration": "9VSWI",
         "information": "STAR ALLIANCE"
       }
