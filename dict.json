@@ -15,12 +15,6 @@
         "information": "TRADE AIR"
       }
 },
-	  {
-      "masterflight": {
-        "registration": "9HAEI",
-        "information": "RETRO"
-      }
-    },
     {
       "masterflight": {
         "registration": "9HAEJ",
@@ -734,7 +728,13 @@
 	      "information" : "WINGS OF AFRICAN ART (MBOKO LAGRIFFE)"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "CNRGJ",
+	      "information" : "ONEWORLD"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "CNRGN",
 	      "information" : "50TH B737"
