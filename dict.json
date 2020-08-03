@@ -2546,13 +2546,7 @@
         "information": "GGMGASTRO.COM"
       }
     },    
-        {
-      "masterflight": {
-        "registration": "TCSNO",
-        "information": "30 YEARS"
-      }
-    },
-	  {
+        	  {
       "masterflight": {
         "registration": "TCSNU",
         "information": "SHAUN THE SHEEP"
@@ -2564,13 +2558,7 @@
         "information": "PETER HASE"
       }
     },
-     {
-      "masterflight": {
-        "registration": "TCSOC",
-        "information": "30 YEARS"
-      }
-    },
-	  {
+     	  {
       "masterflight": {
         "registration": "TCSOR",
         "information": "ASPENDOS 2019"
