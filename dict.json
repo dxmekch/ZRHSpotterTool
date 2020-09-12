@@ -2552,13 +2552,19 @@
         "information": "PETER HASE"
       }
     },
-     	  {
+     	{
       "masterflight": {
         "registration": "TCSOR",
         "information": "ASPENDOS 2019"
       }
     },
 	  {
+      "masterflight": {
+        "registration": "TCSPC",
+        "information": "EINTRACHT FRANKFURT"
+      }
+    },
+		  {
       "masterflight": {
         "registration": "TCTJJ",
 		"information": "DETUR"
