@@ -776,6 +776,12 @@
 	      "information" : "HI FLY"
       }
 },
+	 {
+      "masterflight": {
+        "registration": "CSTJR",
+	      "information" : "RETRO"
+      }
+},
 	  {
       "masterflight": {
         "registration": "CSTKR",
