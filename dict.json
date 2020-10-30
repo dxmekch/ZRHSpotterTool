@@ -944,16 +944,22 @@
 	      "information" : "LU"
       }
     },
-            	  	  {
+            {
+      "masterflight": {
+        "registration": "DAINZ",
+	      "information" : "HAUPTSTADTFLIEGER"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "DAIPC",
-	      "information" : " STAR ALLIANCE "
+	      "information" : "STAR ALLIANCE"
       }
     },
     {
       "masterflight": {
         "registration": "DAIPD",
-	      "information" : " STAR ALLIANCE "
+	      "information" : "STAR ALLIANCE"
       }
     },
     {
