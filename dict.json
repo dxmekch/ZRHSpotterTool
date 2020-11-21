@@ -523,6 +523,12 @@
 		"information" : "EXPO ORANGE"
       }
     },
+		   {
+      "masterflight": {
+        "registration": "A7ALL",
+		"information" : "FIFA World Cup 2020"
+      }
+    },
 	  	  {
       "masterflight": {
         "registration": "A7ALZ",
@@ -569,6 +575,12 @@
       "masterflight": {
         "registration": "A7BAX",
 		"information" : "FIFA WORLD CUP"
+      }
+    },
+		   {
+      "masterflight": {
+        "registration": "A7BEB",
+		"information" : "FIFA World Cup 2020"
       }
     },
 	  {
