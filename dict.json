@@ -1071,6 +1071,12 @@
     },
 	  {
       "masterflight": {
+        "registration": "ECLPQ",
+		"information" : "SKYTEAM"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "ECLZO",
 		"information" : "PRIVILEGE STYLE"
       }
