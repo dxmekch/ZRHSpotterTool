@@ -2065,6 +2065,18 @@
 	  "information": "VENEZIA"    
       }
     },
+	 {
+      "masterflight": {
+        "registration": "OELGO",
+	  "information": "STAR ALLIANCE"    
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "OELGQ",
+	  "information": "STAR ALLIANCE"    
+      }
+    },
 	  {
       "masterflight": {
         "registration": "OELMK",
