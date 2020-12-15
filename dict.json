@@ -913,7 +913,13 @@
 	      "information" : "30 YEARS"
       }
     },
-        {
+      {
+      "masterflight": {
+        "registration": "DAIBJ",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "DAIDV",
 	      "information" : "RETRO"
