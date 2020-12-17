@@ -2509,7 +2509,13 @@
 		"information": "STAR ALLIANCE"
       }
     },
-    {
+   {
+      "masterflight": {
+        "registration": "TCJRD",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCJRG",
 		"information": "DISCOVER THE POTENTIAL"
