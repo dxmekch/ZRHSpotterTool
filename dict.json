@@ -1125,6 +1125,12 @@
 },
 	{
       "masterflight": {
+        "registration": "ECNIX",
+        "information": "VISIT TENERIFE"
+      }
+},
+	  {
+      "masterflight": {
         "registration": "ECNFZ",
         "information": "ONEWORLD"
       }
