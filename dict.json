@@ -1003,7 +1003,13 @@
         "information": "BVB MANNSCHAFTSAIRBUS"
       }
     },     
-	         {
+	  {
+      "masterflight": {
+        "registration": "DAIZS",
+        "information": "DAS BESTE TEAM DER WELT"
+      }
+    },           
+	  {
       "masterflight": {
         "registration": "DAMGL",
         "information": "WDL AVIATION"
