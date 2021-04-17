@@ -1081,6 +1081,12 @@
 		"information" : "PRIVILEGE STYLE"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "ECMJA",
+		"information" : "MADRID"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "ECMQH",
