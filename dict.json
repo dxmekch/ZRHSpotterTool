@@ -15,16 +15,10 @@
         "information": "TRADE AIR"
       }
 },
-    {
-      "masterflight": {
-        "registration": "9HAEJ",
-        "information": "HYBRID C/S"
-      }
-    },
-    {
+        {
       "masterflight": {
         "registration": "9HAEO",
-        "information": "LA VALETTA"
+        "information": "MALTA MEDAIR/LA VALETTA"
       }
     },
      {  "masterflight": {
@@ -43,13 +37,7 @@
         "information": "AIR X CHARTER"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "9HAHR",
-        "information": "HYBRID C/S"
-      }
-    },
-     	 {
+	       	 {
       "masterflight": {
         "registration": "9HAJW",
         "information": "MALETH-AERO"
@@ -181,13 +169,7 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
-	   {
-      "masterflight": {
-        "registration": "A6BLA",
-        "information": "CHOOSE SINGAPORE"
-      }		  
-    }, 
-   {
+	      {
       "masterflight": {
         "registration": "A6BLC",
         "information": "CHOOSE USA"
@@ -286,7 +268,7 @@
 	  {
       "masterflight": {
         "registration": "A6ECU",
-		"information" : "EXPP ORANGE"
+		"information" : "EXPO ORANGE"
       }
     },
 	  {
@@ -331,13 +313,7 @@
 		"information" : "EXPO BLUE"
       }
     },
-	   {
-      "masterflight": {
-        "registration": "A6ENB",
-		"information" : "EXPO GREEN"
-      }
-    },
-	 	   {
+	   	 	   {
       "masterflight": {
         "registration": "A6ENG",
 		"information" : "EXPO ORANGE"
@@ -643,13 +619,7 @@
         "information": "QATAR AMIRI FLIGHT"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "B1343",
-		"information" : "KUNG FU PANDA (GOLD)"
-      }
-    },
-     {
+	      {
       "masterflight": {
         "registration": "A7MED",
         "information": "QATAR AMIRI FLIGHT"
@@ -661,67 +631,7 @@
         "information": "QATAR AMIRI FLIGHT"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "B1540",
-		"information" : "EX KUNG FU PANDA HYBRID (WHITE)"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "B5923",
-		"information" : "WULIANGYE"
-      }
-    },
-	   {
-      "masterflight": {
-        "registration": "B5929",
-		"information" : "WULIANGYE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "B6075",
-		"information" : "STAR ALLIANCE"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "B6076",
-		"information" : "STAR ALLIANCE"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "B6091",
-		"information" : "STAR ALLIANCE"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "B6093",
-		"information" : "STAR ALLIANCE"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "B6998",
-		"information" : "EX KUNG FU PANDA HYBRID (RED)"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "B7302",
-		"information" : "EX KUNG FU PANDA HYBRID (YELLOW)"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "BKPB",
-		"information" : "SPIRIT OF HONG KONG"
-      }
-    },
- {
+	  	 {
       "masterflight": {
         "registration": "CCEGI",
 		"information" : "STAR ALLIANCE"
