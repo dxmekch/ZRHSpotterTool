@@ -1081,13 +1081,7 @@
         "information": "SKYTEAM"
       }
     },
-    {
-      "masterflight": {
-        "registration": "GEJAR",
-        "information": "UNICEF"
-      }
-    },
-           {
+               {
       "masterflight": {
         "registration": "GEUNB",
         "information": "TITAN AIRWAYS"
@@ -1099,13 +1093,7 @@
         "information": "RETRO"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "GEZBG",
-        "information": "HAMBURG"
-      }
-    },
-        	{
+	          	{
       "masterflight": {
         "registration": "GEZDN",
         "information": "AMSTERDAM"
@@ -1123,19 +1111,7 @@
         "information": "Hybrid C/S"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "GEZEZ",
-        "information": "NAPOLI"
-      }
-    },
-          {
-      "masterflight": {
-        "registration": "GEZIO",
-        "information": "UNICEF"
-      }
-    },
-      {
+	               {
       "masterflight": {
         "registration": "GEZOA",
         "information": "HOLIDAYS"
@@ -1149,12 +1125,6 @@
     },
            	 {
       "masterflight": {
-        "registration": "GILLR",
-        "information": "CELLO AVIATION"
-      }
-    },
-	 {
-      "masterflight": {
         "registration": "GJOTR",
         "information": "JOTA AVIATION"
       }
@@ -1165,25 +1135,7 @@
         "information": "700TH E-JET"
 	  }
           },
-	 {
-      "masterflight": {
-        "registration": "GMISG",
-        "information": "CELLO AVIATION"
-      }
-    },
-	 	 {
-      "masterflight": {
-        "registration": "GPOWC",
-        "information": "TITAN AIRWAYS"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "GPOWD",
-        "information": "TITAN AIRWAYS"
-      }
-    },
-	 {
+	 		 {
       "masterflight": {
         "registration": "GPOWH",
         "information": "TITAN AIRWAYS"
@@ -1219,13 +1171,7 @@
         "information": "TITAN AIRWAYS"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "GPOWT",
-        "information": "TITAN AIRWAYS"
-      }
-    },
-	{
+	  	{
       "masterflight": {
         "registration": "GPOWU",
         "information": "TITAN AIRWAYS"
@@ -1291,31 +1237,13 @@
 		"information": "SKYTEAM"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "HL8008",
-		"information": "50 YEARS"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "HL8009",
-		"information": "50 YEARS"
-      }
-    },
-    {
+	  	     {
       "masterflight": {
         "registration": "HL8212",
 		"information": "SKYTEAM"
       }
     },
-    {
-      "masterflight": {
-        "registration": "HL8274",
-		"information": "CHILDREN'S DRAWING CONTEST"
-      }
-    },
-    {
+        {
       "masterflight": {
         "registration": "HL8346",
 		"information": "200TH BOEING STICKER"
@@ -1621,19 +1549,7 @@
 		"information": "AVION EXPRESS"
       }
 	    },
-	{
-      "masterflight": {
-        "registration": "LZAOA",
-		"information": "BULGARIAN EAGLE"
-      }
-	    },
-	  {
-      "masterflight": {
-        "registration": "LZAOC",
-		"information": "BULGARIAN EAGLE"
-      }
-	    },
-	  {
+		  {
       "masterflight": {
         "registration": "LZBOO",
 		"information": "BUL AIR"
@@ -1764,32 +1680,14 @@
         "registration": "LZLDY",
 		"information": "BULGARIAN AIR CHARTER"
       }
-	    },
-	 {
-      "masterflight": {
-        "registration": "N1015B",
-		"information": "DREAMS TAKE FLIGHT"
-      }
-    },
+	        },
 	  {
       "masterflight": {
         "registration": "N16065",
 		"information": "ATLANTA AMBASSADOR"
       }
     },
-    {
-      "masterflight": {
-        "registration": "N175DZ",
-		"information": "SKYTEAM"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "N343AN",
-		"information": "ONEWORLD"
-      }
-    },
-    {
+            {
       "masterflight": {
         "registration": "N653UA",
 		"information": "STAR ALLIANCE"
