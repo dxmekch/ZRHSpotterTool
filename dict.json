@@ -883,61 +883,7 @@
         "information": "DAS BESTE TEAM DER WELT"
       }
     },           
-	  {
-      "masterflight": {
-        "registration": "DAMGL",
-        "information": "WDL AVIATION"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "DASPC",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "DASPD",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "DASPE",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "DASPF",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-{
-      "masterflight": {
-        "registration": "DASPI",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "DASTT",
-	      "information" : "ZYPERN"
-      }
-    },
-   	  {
-      "masterflight": {
-        "registration": "DAWUE",
-        "information": "WDL AVIATION"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "DAZFR",
-        "information": "WDL AVIATION"
-      }
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "ECHDS",
 		"information" : "PRIVILEGE STYLE"
@@ -1032,13 +978,7 @@
         "registration": "EIDEO",
         "information": "IRISH RUGBY TEAM"
       }
-    },
-    {
-      "masterflight": {
-        "registration": "EIDSM",
-        "information": "CALABRIA"
-	      }
-    },
+        },
        {
       "masterflight": {
         "registration": "EIDTJ",
@@ -1111,13 +1051,7 @@
         "information": "SMARTLYNX"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "FGKXI",
-        "information": "PARIS CANDIDATUR OLYMPIA 2024"
-      }
-    },
-    {
+	      {
       "masterflight": {
         "registration": "FGKXJ",
         "information": "PARIS CANDIDATUR OLYMPIA 2024"
@@ -1141,19 +1075,7 @@
         "information": "SKYTEAM"
       }
     },
-    {
-      "masterflight": {
-        "registration": "FHBAL",
-        "information": "BASIC AIGLE AZUR C/S"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "FHBIS",
-        "information": "BASIC AIGLE AZUR C/S"
-      }
-    },
-	  {
+    	  {
       "masterflight": {
         "registration": "FHEPI",
         "information": "SKYTEAM"
