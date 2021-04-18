@@ -649,13 +649,7 @@
 		"information" : "STAR ALLIANCE"
       }
     },
-               {
-      "masterflight": {
-        "registration": "CNRGH",
-	      "information" : "WINGS OF AFRICAN ART (MBOKO LAGRIFFE)"
-      }
-    },
-   {
+                  {
       "masterflight": {
         "registration": "CNRGJ",
 	      "information" : "ONEWORLD"
@@ -727,13 +721,7 @@
 	      "information" : "EUROATLANTIC AIRWAYS"
       }
 },
-	  {
-      "masterflight": {
-        "registration": "CSTNP",
-	      "information" : "STAR ALLIANCE"
-      }
-    },
-  {
+	   {
       "masterflight": {
         "registration": "CSTKW",
 	      "information" : "HI FLY"
@@ -787,13 +775,7 @@
 	      "information" : "STAR ALLIANCE"
       }
       },
-	  {
-      "masterflight": {
-        "registration": "DABDP",
-	      "information" : "CROATIA"
-      }
-      },
-    {
+	      {
       "masterflight": {
         "registration": "DABDQ",
 	      "information" : "EUROPAPARK RUST"
@@ -811,13 +793,7 @@
 	      "information" : "BOOMERANG CLUB"
       }
     },
-    	  {
-      "masterflight": {
-        "registration": "DAGER",
-	      "information" : "30 YEARS"
-      }
-    },
-      {
+    	        {
       "masterflight": {
         "registration": "DAIBJ",
 	      "information" : "STAR ALLIANCE"
@@ -859,13 +835,7 @@
 	      "information" : "LU"
       }
     },
-            {
-      "masterflight": {
-        "registration": "DAINZ",
-	      "information" : "HAUPTSTADTFLIEGER"
-      }
-    },
-	  {
+           	  {
       "masterflight": {
         "registration": "DAIPC",
 	      "information" : "STAR ALLIANCE"
@@ -886,7 +856,7 @@
     {
       "masterflight": {
         "registration": "DAIRY",
-	      "information" : "DIE MAUS"
+	      "information" : "DIE MAUS-only left side"
       }
     },
 	    	    {
