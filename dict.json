@@ -1957,91 +1957,7 @@
 		"information": "SKYTEAM"
       }
     },
-          {
-      "masterflight": {
-        "registration": "PHHSI",
-		"information": "PETER PAN"
-      }
-    },
-    {
-      "masterflight": {
-        "registration": "PHHSR",
-		"information": "FLYDUBAI HYBRID"
-      }
-    },
-	    	  {
-      "masterflight": {
-        "registration": "S5AAV",
-		"information": "STAR ALLIANCE"
-      }
-    },
-	    {
-      "masterflight": {
-        "registration": "SPHAB",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAC",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "SPHAD",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAG",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "SPHAH",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAI",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "SPHAU",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAV",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAX",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAY",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "SPHAZ",
-	      "information" : "SMALL PLANET AIRLINES"
-      }
-    },
-	  {
+          	  {
       "masterflight": {
         "registration": "SPLDK",
 		"information": "STAR ALLIANCE"
@@ -2257,13 +2173,7 @@
 		"information": "STAR ALLIANCE"
       }
     },
-    		 {
-      "masterflight": {
-        "registration": "TCJTE",
-		"information": "30 YEARS MILES & SMILES"
-      }
-    },
-	 {
+    			 {
       "masterflight": {
         "registration": "TCJTK",
 		"information": "PINK CAP"
@@ -2299,13 +2209,7 @@
         "information": "SHAUN THE SHEEP"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "TCSNY",
-        "information": "PETER HASE"
-      }
-    },
-     	{
+	       	{
       "masterflight": {
         "registration": "TCSOR",
         "information": "ASPENDOS 2019"
