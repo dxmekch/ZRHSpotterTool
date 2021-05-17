@@ -786,13 +786,7 @@
 	      "information" : "EUROPAPARK RUST"
       }
         },
-             {
-      "masterflight": {
-        "registration": "DABHC",
-	      "information" : "HOTELS BUCHEN FÜR ÜBERFLIEGER"
-      }
-            },
-	  {
+             	  {
       "masterflight": {
         "registration": "DAEWM",
 	      "information" : "BOOMERANG CLUB"
