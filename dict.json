@@ -2226,7 +2226,13 @@
 		"information": "DETUR"
       }
     },
-      {
+       {
+      "masterflight": {
+        "registration": "TCTJY",
+		"information": "ANTALYASPOR"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TFFIA",
 		"information": "NATIONAL TEAM TITLES "
