@@ -858,7 +858,13 @@
 	      "information" : "DIE MAUS-only left side"
       }
     },
-	    	    {
+	    {
+      "masterflight": {
+        "registration": "DAIUA",
+	      "information" : "STAR ALLIANCE"
+      }
+	    },
+	  {
       "masterflight": {
         "registration": "DAIZH",
         "information": "STAR ALLIANCE"
@@ -1990,6 +1996,12 @@
       "masterflight": {
         "registration": "SPLNF",
 		"information": "WARMIA MAZURY"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "SPLNI",
+		"information": "BAMBOO"
       }
     },
 	  {
