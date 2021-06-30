@@ -180,13 +180,7 @@
         "information": "CHOOSE USA"
       }		  
     }, 
-	  {
-      "masterflight": {
-        "registration": "A6BLE",
-        "information": "CHOOSE USA"
-      }		  
-    }, 
-	  {
+	  	  {
       "masterflight": {
         "registration": "A6BLF",
         "information": "CHOOSE CHINA"
@@ -204,13 +198,7 @@
         "information": "CHOOSE SAUDI ARABIA"
       }		  
     },
-	 {
-      "masterflight": {
-        "registration": "A6BLJ",
-        "information": "CHOOSE THAILAND"
-      }		  
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "A6BLK",
         "information": "CHOOSE JAPAN"
@@ -648,7 +636,13 @@
 		"information" : "STAR ALLIANCE"
       }
     },
-	  {
+	 {
+      "masterflight": {
+        "registration": "CFVLQ",
+		"information" : "GO CANADA GO"
+      }
+    },
+	 {
       "masterflight": {
         "registration": "CGHLM",
 		"information" : "STAR ALLIANCE"
