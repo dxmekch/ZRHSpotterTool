@@ -1962,7 +1962,13 @@
 		"information": "SKYTEAM"
       }
     },
-          	  {
+           {
+      "masterflight": {
+        "registration": "SPESE",
+		"information": "CHAIR TITLES"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "SPLDK",
 		"information": "STAR ALLIANCE"
@@ -2110,6 +2116,12 @@
       "masterflight": {
         "registration": "TCJLU",
 		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "TCJNB",
+		"information": "TÜRKIYE"
       }
     },
 	  {
