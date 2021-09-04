@@ -174,13 +174,7 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
-	      {
-      "masterflight": {
-        "registration": "A6BLC",
-        "information": "CHOOSE USA"
-      }		  
-    }, 
-	  	  {
+	      	  	  {
       "masterflight": {
         "registration": "A6BLF",
         "information": "CHOOSE CHINA"
@@ -192,13 +186,7 @@
         "information": "CHOOSE ITALY"
       }		  
     },
-	 	  {
-      "masterflight": {
-        "registration": "A6BLK",
-        "information": "CHOOSE JAPAN"
-      }		  
-    },
-		 {
+	 	 		 {
       "masterflight": {
         "registration": "A6BLO",
         "information": "CHOOSE THAILAND"
