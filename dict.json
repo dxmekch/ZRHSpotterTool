@@ -768,6 +768,12 @@
 	      "information" : "STAR ALLIANCE"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "DAICH",
+	      "information" : "RETRO"
+      }
+    }, 
 	  {
       "masterflight": {
         "registration": "DAIDV",
