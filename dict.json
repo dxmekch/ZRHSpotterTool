@@ -282,7 +282,13 @@
 		"information" : "EXPO BLUE"
       }
     },
-	   	 	   {
+	   	 	{
+      "masterflight": {
+        "registration": "A6EGE",
+		"information" : "50 YEARS UAE"
+      }
+    },
+	{
       "masterflight": {
         "registration": "A6ENG",
 		"information" : "EXPO ORANGE"
@@ -465,7 +471,7 @@
 		  {
       "masterflight": {
         "registration": "A6EVG",
-		"information" : "50 YEARS OF UNITED ARAB EMIRATES"
+		"information" : "50 YEARS OF UAE"
       }
     },
 	  {
