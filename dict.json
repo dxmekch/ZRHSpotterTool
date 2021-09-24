@@ -2195,6 +2195,12 @@
 		"information": "300TH AIRCRAFT"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "TCLND",
+		"information": "TEAM TÜRKIYE"
+      }
+    },
 	  {
       "masterflight": {
         "registration": "TCODC",
