@@ -282,7 +282,13 @@
 		"information" : "EXPO BLUE"
       }
     },
-	   	 	{
+	  {
+      "masterflight": {
+        "registration": "A6EGB",
+		"information" : "50 YEARS UAE"
+      } 
+		    },
+	  {
       "masterflight": {
         "registration": "A6EGE",
 		"information" : "50 YEARS UAE"
@@ -374,12 +380,6 @@
     },
 	  {
       "masterflight": {
-        "registration": "A6EOM",
-        "information": "50 YEARS OF UAE"
-      }
-    },   	
-	  {
-      "masterflight": {
         "registration": "A6EON",
         "information": "EXPO GREEN"
       }
@@ -459,7 +459,7 @@
 	 {
       "masterflight": {
         "registration": "A6EPO",
-		"information" : "EXPO ORANGE"
+		"information" : "50 YEARS OF UAE"
       }
     },
 	  {
@@ -468,7 +468,13 @@
 		"information" : "EXPO GREEN"
       }
     },
-	 {
+{
+      "masterflight": {
+        "registration": "A6EQM",
+        "information": "50 YEARS OF UAE"
+      }
+    },   		
+{
       "masterflight": {
         "registration": "A6EQO",
 		"information" : "EXPO ORANGE"
