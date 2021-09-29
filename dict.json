@@ -2093,10 +2093,16 @@
 		"information": "GAINJET"
       }
     },
-	        {
+	   {
       "masterflight": {
         "registration": "TCCPN",
 		"information": "ADA N."
+      }
+    },
+      	  {
+      "masterflight": {
+        "registration": "TCCOH",
+		"information": "EUROVISION"
       }
     },
         {
