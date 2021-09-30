@@ -1604,97 +1604,97 @@
 	  {
       "masterflight": {
         "registration": "LZLAA",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	 {
       "masterflight": {
         "registration": "LZLAB",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLAC",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	  {
       "masterflight": {
         "registration": "LZLAD",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	  {
       "masterflight": {
         "registration": "LZLAE",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	  {
       "masterflight": {
         "registration": "LZLAF",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDJ",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	 {
       "masterflight": {
         "registration": "LZLDK",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	 {
       "masterflight": {
         "registration": "LZLDM",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDN",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDP",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDS",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDT",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	 {
       "masterflight": {
         "registration": "LZLDU",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	{
       "masterflight": {
         "registration": "LZLDW",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	    },
 	 {
       "masterflight": {
         "registration": "LZLDY",
-		"information": "BULGARIAN AIR CHARTER"
+		"information": "EUROPIAN AIR CHARTER"
       }
 	        },
 	  {
@@ -1998,6 +1998,12 @@
       }
     },
 	 {
+      "masterflight": {
+        "registration": "SPLNA",
+		"information": "DISCOVER PODKARPACKIE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "SPLNB",
 		"information": "GRZESKI"
