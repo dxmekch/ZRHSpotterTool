@@ -270,7 +270,13 @@
         "information": "EXPO GREEN"
       }
     },
-	 {
+	{
+      "masterflight": {
+        "registration": "A6EVE",
+        "information": "CRICKET WM 2021"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EGB",
 		"information" : "EXPO BLUE"
@@ -1775,13 +1781,7 @@
 		"information": "STAR ALLIANCE"
       }
     },
-    {
-      "masterflight": {
-        "registration": "OELKF",
-	  "information": "VENEZIA"    
-      }
-    },
-	 {
+    	 {
       "masterflight": {
         "registration": "OELGO",
 	  "information": "STAR ALLIANCE"    
