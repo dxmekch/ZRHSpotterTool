@@ -254,6 +254,12 @@
     },
 	   {
       "masterflight": {
+        "registration": "A6EES",
+        "information": "DUBAI EXPO"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "A6EEU",
         "information": "DUBAI EXPO"
       }
