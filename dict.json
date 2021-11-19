@@ -788,6 +788,12 @@
     },
     	        {
       "masterflight": {
+        "registration": "DAIBI",
+	      "information" : "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "DAIBJ",
 	      "information" : "STAR ALLIANCE"
       }
