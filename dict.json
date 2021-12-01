@@ -264,7 +264,13 @@
         "information": "DUBAI EXPO"
       }
     },
-       {
+      {
+      "masterflight": {
+        "registration": "A6EEW",
+        "information": "DUBAI EXPO"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EEY",
         "information": "EXPO ORANGE"
