@@ -270,6 +270,12 @@
         "information": "DUBAI EXPO"
       }
     },
+	{
+      "masterflight": {
+        "registration": "A6EEX",
+		"information" : "YEAR OF THE FIFTIETH"
+      } 
+		    },
 	  {
       "masterflight": {
         "registration": "A6EEY",
