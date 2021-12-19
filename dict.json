@@ -180,12 +180,6 @@
         "information": "CHOOSE ITALY"
       }		  
     },
-	 	 		 {
-      "masterflight": {
-        "registration": "A6BLO",
-        "information": "CHOOSE THAILAND"
-      }		  
-    },
 	  {
       "masterflight": {
         "registration": "A6BLR",
@@ -486,12 +480,6 @@
         "information": "YEAR OF THE FIFTIETH"
       }
     },   		
-{
-      "masterflight": {
-        "registration": "A6EQO",
-		"information" : "EXPO ORANGE"
-      }
-    },
 	 {
       "masterflight": {
         "registration": "A6EUU",
