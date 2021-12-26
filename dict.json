@@ -2279,7 +2279,13 @@
         "information": "EINTRACHT FRANKFURT"
       }
     },
-		  {
+		 {
+      "masterflight": {
+        "registration": "TCSPF",
+        "information": "CAMPAIGN LIVERY"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "TCTJJ",
 		"information": "DETUR"
