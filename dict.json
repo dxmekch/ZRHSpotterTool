@@ -270,13 +270,7 @@
 		"information" : "YEAR OF THE FIFTIETH"
       } 
 		    },
-	  {
-      "masterflight": {
-        "registration": "A6EEY",
-        "information": "EXPO ORANGE"
-      }
-       },
-	{
+	  	{
       "masterflight": {
         "registration": "A6EEZ",
         "information": "EXPO GREEN"
