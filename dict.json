@@ -2201,7 +2201,13 @@
 		"information": "STAR ALLIANCE"
       }
     },
-    			 {
+    	{
+      "masterflight": {
+        "registration": "TCJSG",
+		"information": "STAR ALLIANCE"
+      }
+    },		
+	  {
       "masterflight": {
         "registration": "TCJTK",
 		"information": "PINK CAP"
