@@ -312,13 +312,7 @@
 		"information" : "EXPO GREEN"
       }
     },
-	 {
-      "masterflight": {
-        "registration": "A6ENI",
-		"information" : "EXPO BLUE"
-      }
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "A6ENM",
 		"information" : "EXPO ORANGE"
@@ -336,13 +330,7 @@
         "information": "EXPO ORANGE"
       }
 }, 
-	  {
-      "masterflight": {
-        "registration": "A6EOB",
-        "information": "EXPO ORANGE"
-      }
-       },
-	 {
+	  	 {
       "masterflight": {
         "registration": "A6EOD",
         "information": "EXPO BLUE"
