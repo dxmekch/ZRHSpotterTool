@@ -2209,6 +2209,12 @@
     },
     	{
       "masterflight": {
+        "registration": "TCJRY",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "TCJSG",
 		"information": "STAR ALLIANCE"
       }
