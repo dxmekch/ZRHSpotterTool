@@ -522,7 +522,13 @@
 		"information" : "FIFA WORLD CUP"
       }
     },
-		   {
+	{
+      "masterflight": {
+        "registration": "A7BBI",
+		"information" : "FIFA WORLD CUP"
+      }
+    },	 
+	  {
       "masterflight": {
         "registration": "A7BEB",
 		"information" : "FIFA World Cup 2020"
