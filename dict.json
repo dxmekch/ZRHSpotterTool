@@ -968,6 +968,12 @@
 },
 	{
       "masterflight": {
+        "registration": "ECNFH",
+        "information": "ILLES BALEARS"
+      }
+},
+	  {
+      "masterflight": {
         "registration": "ECNIX",
         "information": "VISIT TENERIFE"
       }
