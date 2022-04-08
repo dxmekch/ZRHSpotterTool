@@ -938,6 +938,12 @@
        },
     	  {
       "masterflight": {
+        "registration": "ECILS",
+        "information": "PUERTO RICO"
+      }
+	  },
+    	  {
+      "masterflight": {
         "registration": "ECMLE",
         "information": "DISNEYLAND"
       }
