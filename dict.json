@@ -960,6 +960,12 @@
 		"information" : "PRIVILEGE STYLE"
       }
     },
+	 {
+      "masterflight": {
+        "registration": "ECNDC",
+        "information": "EUROVISION 2022"
+      }
+},
 	  {
       "masterflight": {
         "registration": "ECMYC",
