@@ -2197,6 +2197,12 @@
     },		
 	  {
       "masterflight": {
+        "registration": "TCJSU",
+		"information": "BIO FUEL"
+      }
+    },		
+	  {
+      "masterflight": {
         "registration": "TCJTK",
 		"information": "PINK CAP"
       }
