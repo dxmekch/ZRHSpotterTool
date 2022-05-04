@@ -450,7 +450,13 @@
 		"information" : "YEAR OF THE FIFTIETH"
       }
     },
-	 {
+ {
+      "masterflight": {
+        "registration": "A6EVK",
+		"information" : "MUSEUM OF THE FUTURE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EVQ",
 		"information" : "YEAR OF THE FIFTIETH"
