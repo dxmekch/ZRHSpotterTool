@@ -762,7 +762,13 @@
 	      "information" : "BORUSSIA FANAIRBUS"
       }
     },
-    	        {
+    	    {
+      "masterflight": {
+        "registration": "DAGWE",
+	      "information" : "EUROPAPOKAL"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "DAIBH",
 	      "information" : "STAR ALLIANCE"
