@@ -1229,7 +1229,13 @@
         "registration": "GZAPX",
         "information": "TITAN AIRWAYS"
       }
-    },
+   },
+	  	 	  	  {
+      "masterflight": {
+        "registration": "HBJLT",
+		"information": "HELP ALLIANCE"
+      }
+				  },
 	  	 	  	  {
       "masterflight": {
         "registration": "HL7783",
