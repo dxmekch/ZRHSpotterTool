@@ -787,13 +787,7 @@
 	      "information" : "RETRO"
       }
     },
-    {
-      "masterflight": {
-        "registration": "DAILF",
-	      "information" : "STAR ALLIANCE"
-      }
-	    },
-    {
+        {
       "masterflight": {
         "registration": "DAILP",
 	      "information" : "STAR ALLIANCE"
