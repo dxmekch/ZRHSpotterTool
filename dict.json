@@ -1220,6 +1220,12 @@
     },
 	  {
       "masterflight": {
+        "registration": "GUZLF",
+        "information": "EUROPCAR"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "GZAPX",
         "information": "TITAN AIRWAYS"
       }
