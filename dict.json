@@ -313,13 +313,7 @@
 		"information" : "EXPO ORANGE"
       }
     },
-	  	 {
-      "masterflight": {
-        "registration": "A6EOD",
-        "information": "EXPO BLUE"
-      }
-}, 
-	 {
+	  		 {
       "masterflight": {
         "registration": "A6EOE",
         "information": "YEAR OF THE FIFTIETH"
