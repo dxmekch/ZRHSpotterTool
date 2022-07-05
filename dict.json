@@ -1746,13 +1746,7 @@
         "information": "NANTES"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "OEIVV",
-        "information": "EUROPCAR"
-      }
-    },
-	  {
+	 	  {
       "masterflight": {
         "registration": "OEIZQ",
 		"information": "BERLIN"
