@@ -801,11 +801,17 @@
     },
            	  {
       "masterflight": {
+        "registration": "DAINY",
+	      "information" : "LOVEHANSA"
+      }
+    },
+      {
+      "masterflight": {
         "registration": "DAIPC",
 	      "information" : "STAR ALLIANCE"
       }
     },
-    {
+	  {
       "masterflight": {
         "registration": "DAIPD",
 	      "information" : "STAR ALLIANCE"
