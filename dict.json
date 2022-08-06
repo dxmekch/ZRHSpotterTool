@@ -205,31 +205,7 @@
         "information": "MANCHESTER CITY"
       }		  
     },
-	  {
-      "masterflight": {
-        "registration": "A6ECC",
-		"information" : "EXPO BLUE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6ECD",
-		"information" : "EXPO ORANGE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6ECU",
-		"information" : "EXPO ORANGE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EEA",
-        "information": "EXPO ORANGE"
-      }
-    },
-	  {
+	  		  {
       "masterflight": {
         "registration": "A6EEH",
         "information": "THE SKY IS ONLY THE BEGINNING"
@@ -265,19 +241,7 @@
 		"information" : "YEAR OF THE FIFTIETH"
       } 
 		    },
-	  		{
-      "masterflight": {
-        "registration": "A6EVE",
-        "information": "CRICKET WM 2021"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EGB",
-		"information" : "EXPO BLUE"
-      }
-    },
-	  {
+	  			 	  {
       "masterflight": {
         "registration": "A6EGB",
 		"information" : "YEAR OF THE FIFTIETH"
@@ -289,133 +253,25 @@
 		"information" : "YEAR OF THE FIFTIETH"
       }
     },
-	{
-      "masterflight": {
-        "registration": "A6ENG",
-		"information" : "EXPO ORANGE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6ENH",
-		"information" : "EXPO GREEN"
-      }
-    },
-	 	  {
-      "masterflight": {
-        "registration": "A6ENM",
-		"information" : "EXPO ORANGE"
-      }
-    },
-	   {
-      "masterflight": {
-        "registration": "A6ENR",
-		"information" : "EXPO ORANGE"
-      }
-    },
-	  		 {
+				  		 {
       "masterflight": {
         "registration": "A6EOE",
         "information": "YEAR OF THE FIFTIETH"
       }
 }, 
-		  	    {
-      "masterflight": {
-        "registration": "A6EOJ",
-        "information": "EXPO GREEN"
-      }
-    },
-{
-      "masterflight": {
-        "registration": "A6EOK",
-        "information": "EXPO GREEN"
-      }
-    },
-{
-      "masterflight": {
-        "registration": "A6EOL",
-        "information": "EXPO GREEN"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EON",
-        "information": "EXPO GREEN"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "A6EOS",
-        "information": "EXPO BLUE"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "A6EOT",
-        "information": "DUBAI EXPO"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EOU",
-        "information": "EXPO ORANGE"
-      }
-    },	
-	   {
+		   {
       "masterflight": {
         "registration": "A6EPB",
 		"information" : "YEAR OF THE FIFTIETH"
       }
     },   	
-	  {
-      "masterflight": {
-        "registration": "A6EPD",
-		"information" : "EXPO BLUE"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EPE",
-		"information" : "EXPO GREEN"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "A6EPF",
-		"information" : "EXPO GREEN"
-      }
-    },
-	 {
-      "masterflight": {
-        "registration": "A6EPI",
-		"information" : "EXPO GREEN"
-      }
-    },
-	  {
-      "masterflight": {
-        "registration": "A6EPK",
-		"information" : "EXPO BLUE"
-      }
-    },
-	{
-      "masterflight": {
-        "registration": "A6EPL",
-		"information" : "EXPO GREEN"
-      }
-    },
-	 {
+	  		 {
       "masterflight": {
         "registration": "A6EPO",
 		"information" : "YEAR OF THE FIFTIETH"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "A6EPU",
-		"information" : "EXPO GREEN"
-      }
-    },
-{
+	 {
       "masterflight": {
         "registration": "A6EQM",
         "information": "YEAR OF THE FIFTIETH"
