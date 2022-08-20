@@ -1556,17 +1556,47 @@
     },
             {
       "masterflight": {
+        "registration": "N218UA",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	   {
+      "masterflight": {
         "registration": "N653UA",
 		"information": "STAR ALLIANCE"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "N76021",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "N76055",
 		"information": "STAR ALLIANCE"
       }
     },
-    {
+     {
+      "masterflight": {
+        "registration": "N77022",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
+      "masterflight": {
+        "registration": "N78017",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	 {
+      "masterflight": {
+        "registration": "N794UA",
+		"information": "STAR ALLIANCE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "N841MH",
 		"information": "REPLAY FOR LIFE"
