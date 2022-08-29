@@ -300,13 +300,7 @@
 		"information" : "YEAR OF THE FIFTIETH"
       }
     },
-	  {
-      "masterflight": {
-        "registration": "A7ALL",
-		"information" : "FIFA WORLD CUP 2020"
-      }
-    },
-	  	  {
+	 	  	  {
       "masterflight": {
         "registration": "A7ALZ",
 		"information" : "ONEWORLD"
@@ -363,13 +357,13 @@
 	  {
       "masterflight": {
         "registration": "A7BEB",
-		"information" : "FIFA World Cup 2020"
+		"information" : "FIFA WORLD CUP"
       }
     },
 	   {
       "masterflight": {
         "registration": "A7BEC",
-		"information" : "RETRO"
+		"information" : "FIFA WORLD CUP"
       }
     },
 	  {
