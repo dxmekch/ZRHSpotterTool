@@ -1097,7 +1097,13 @@
 		"information": "200TH BOEING STICKER"
       }
     },
-		  {
+	{
+      "masterflight": {
+        "registration": "HZASF",
+		"information" : "SKYTEAM"
+      }
+    },    
+	  {
       "masterflight": {
         "registration": "HZSKY2",
 		"information" : "SKY PRIME AVIATION"
