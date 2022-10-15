@@ -168,19 +168,7 @@
         "information": "VISIT ABU DHABI"
       }
 		  },
-	      	  			  {
-      "masterflight": {
-        "registration": "A6BLR",
-        "information": "CHOOSE SINGAPORE"
-      }		  
-    }, 
-	{
-      "masterflight": {
-        "registration": "A6BLT",
-        "information": "CHOOSE ITALY"
-      }		  
-    }, 
-	  {
+	      	  			 {
       "masterflight": {
         "registration": "A6BLV",
         "information": "FORMULA 1"
