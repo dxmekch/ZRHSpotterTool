@@ -932,6 +932,12 @@
     },
            	 {
       "masterflight": {
+        "registration": "GEZUC",
+        "information": "NANTES"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "GJOTR",
         "information": "JOTA AVIATION"
       }
