@@ -1609,6 +1609,12 @@
     },
    {
       "masterflight": {
+        "registration": "OEIVI",
+        "information": "FARO"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "OEIVK",
         "information": "NANTES"
       }
