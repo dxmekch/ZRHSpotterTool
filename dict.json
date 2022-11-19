@@ -183,7 +183,7 @@
 	  		 	 {
       "masterflight": {
         "registration": "A6EEJ",
-		"information" : "MUSEUM OF THE FUTURE"
+		"information" : "JOURNEY OF THE FUTURE"
       }
     },
 	  {
@@ -234,7 +234,13 @@
         "information": "YEAR OF THE FIFTIETH"
       }
 }, 
-		   {
+			 {
+      "masterflight": {
+        "registration": "A6EOI",
+		"information" : "JOURNEY OF THE FUTURE"
+      }
+    },
+	  {
       "masterflight": {
         "registration": "A6EPB",
 		"information" : "YEAR OF THE FIFTIETH"
