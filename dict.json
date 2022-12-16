@@ -686,11 +686,17 @@
     },     
 	  {
       "masterflight": {
+        "registration": "DAIZM",
+        "information": "STAR ALLIANCE"
+      }
+    },           
+	 {
+      "masterflight": {
         "registration": "DAIZS",
         "information": "DAS BESTE TEAM DER WELT"
       }
-    },           
-	 	  {
+    },     	
+	  {
       "masterflight": {
         "registration": "ECHDS",
 		"information" : "PRIVILEGE STYLE"
