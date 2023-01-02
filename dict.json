@@ -1969,6 +1969,12 @@
     },
      	  {
       "masterflight": {
+        "registration": "TCJNM",
+		"information": "UEFA CHAMPIONS LEAGUE"
+      }
+    },
+	  {
+      "masterflight": {
         "registration": "TCJPF",
 		"information": "STAR ALLIANCE"
       }
